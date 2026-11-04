@@ -1,0 +1,1391 @@
+{
+ "paczka": 16,
+ "kandydaci": [
+  {
+   "lat": 52.2876765,
+   "lon": 21.0762865,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2876765,
+     "lon": 21.0762865,
+     "node": 5139155818,
+     "rank1": 758,
+     "names": [
+      "Radzymińska",
+      "Ziemiańska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 36 m dalej, po drugiej stronie: Radzymińska (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential, service)",
+      "TELEPORT: DDR 36 m dalej, po infrze 175 m"
+     ],
+     "cel": [
+      52.2878288,
+      21.0758135
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 410,
+   "kat": "K1",
+   "names": [
+    "Radzymińska",
+    "Ziemiańska"
+   ],
+   "img": "img/0410.jpg"
+  },
+  {
+   "lat": 52.293642,
+   "lon": 21.0785523,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.293642,
+     "lon": 21.0785523,
+     "node": 13235295693,
+     "rank1": 436,
+     "names": [
+      "Bystra",
+      "Szlak rekreacyjny nr 2"
+     ],
+     "opis": "DDR/CPR kończy się (chodnik); dalszy_ciag 113 m dalej, po drugiej stronie: Bystra (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (pedestrian)",
+      "dalszy ciąg (DDR) na wprost 113 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.2931731,
+      21.080023
+     ],
+     "werdykt_rundy1": "Sciezka z lasu dochodzi do drogi utwardzonej przy cmentarzu, dalej jezdnia"
+    }
+   ],
+   "id": 495,
+   "kat": "K2",
+   "names": [
+    "Bystra",
+    "Szlak rekreacyjny nr 2"
+   ],
+   "img": "img/0495.jpg"
+  },
+  {
+   "lat": 52.3069127,
+   "lon": 21.0757779,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.3069127,
+     "lon": 21.0757779,
+     "node": 3990290976,
+     "rank1": 23,
+     "names": [
+      "Toruńska"
+     ],
+     "opis": "przejazd kończy się (chodnik); drugi_koniec 11 m dalej, po drugiej stronie: residential (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "TELEPORT: przejazd 3 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 11 m"
+     ],
+     "cel": [
+      52.3069146,
+      21.075944
+     ],
+     "werdykt_rundy1": "Przejazd przez ulice boczna miedzy odcinkami DDR, ciaglosc zachowana"
+    },
+    {
+     "kat": "K2",
+     "lat": 52.3069146,
+     "lon": 21.075944,
+     "node": 2375295406,
+     "rank1": 23,
+     "names": [
+      "Toruńska"
+     ],
+     "opis": "przejazd kończy się (chodnik); drugi_koniec 11 m dalej, po drugiej stronie: residential (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway_zakaz)",
+      "TELEPORT: przejazd 4 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 11 m"
+     ],
+     "cel": [
+      52.3069127,
+      21.0757779
+     ],
+     "werdykt_rundy1": "Przejazd przez ulice boczna miedzy odcinkami DDR, ciaglosc zachowana"
+    },
+    {
+     "kat": "K3",
+     "lat": 52.3069137,
+     "lon": 21.0758654,
+     "node": 1838845711,
+     "rank1": null,
+     "names": [
+      "residential"
+     ],
+     "opis": "infra (przejazd) przecina residential (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.3069445,
+     "lon": 21.0758152,
+     "node": 12119248086,
+     "rank1": null,
+     "names": [
+      "residential"
+     ],
+     "opis": "infra (przejazd) przecina residential (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 498,
+   "kat": "K2+K3",
+   "names": [
+    "Toruńska",
+    "residential"
+   ],
+   "img": "img/0498.jpg"
+  },
+  {
+   "lat": 52.1562979,
+   "lon": 21.1268046,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1562979,
+     "lon": 21.1268046,
+     "node": 8906837752,
+     "rank1": 815,
+     "names": [
+      "Metryczna"
+     ],
+     "opis": "CPR kończy się (jezdnia_ruchliwa); dalszy_ciag 156 m dalej, po drugiej stronie: Metryczna (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "dalszy ciąg (DDR) na wprost 156 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1575857,
+      21.1258824
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 46,
+   "kat": "K1",
+   "names": [
+    "Metryczna"
+   ],
+   "img": "img/0046.jpg"
+  },
+  {
+   "lat": 52.1604692,
+   "lon": 21.1704165,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1604692,
+     "lon": 21.1704165,
+     "node": 9881332839,
+     "rank1": 874,
+     "names": [
+      "Wał Miedzeszyński",
+      "Rozchodnikowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 56 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary), residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "dalszy ciąg (DDR) na wprost 56 m dalej, niepołączony (po infrze 327 m)"
+     ],
+     "cel": [
+      52.160108,
+      21.1698375
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 54,
+   "kat": "K1",
+   "names": [
+    "Rozchodnikowa",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0054.jpg"
+  },
+  {
+   "lat": 52.1670124,
+   "lon": 21.1569387,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1670124,
+     "lon": 21.1569387,
+     "node": 6992548972,
+     "rank1": 1275,
+     "names": [
+      "Sitowie",
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 66 m dalej, po drugiej stronie: Wał Miedzeszyński (unclassified)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (unclassified)"
+     ],
+     "cel": [
+      52.1675036,
+      21.1574887
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 62,
+   "kat": "K1",
+   "names": [
+    "Sitowie",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0062.jpg"
+  },
+  {
+   "lat": 52.16736,
+   "lon": 21.1583507,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.16736,
+     "lon": 21.1583507,
+     "node": 5638276081,
+     "rank1": 1113,
+     "names": [
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 40 m dalej, po drugiej stronie: residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1676719,
+      21.1580659
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 65,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0065.jpg"
+  },
+  {
+   "lat": 52.1675036,
+   "lon": 21.1574887,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1675036,
+     "lon": 21.1574887,
+     "node": 8244767255,
+     "rank1": 1298,
+     "names": [
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 44 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (unclassified)"
+     ],
+     "cel": [
+      52.1676719,
+      21.1580659
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 68,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0068.jpg"
+  },
+  {
+   "lat": 52.1676719,
+   "lon": 21.1580659,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1676719,
+     "lon": 21.1580659,
+     "node": 8079098843,
+     "rank1": 1113,
+     "names": [
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 40 m dalej, po drugiej stronie: residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.16736,
+      21.1583507
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 70,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0070.jpg"
+  },
+  {
+   "lat": 52.1696419,
+   "lon": 21.1560236,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1696419,
+     "lon": 21.1560236,
+     "node": 8168830812,
+     "rank1": 557,
+     "names": [
+      "Wał Miedzeszyński",
+      "Przewodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 37 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (unclassified)"
+     ],
+     "cel": [
+      52.1696818,
+      21.1565587
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 75,
+   "kat": "K1",
+   "names": [
+    "Przewodowa",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0075.jpg"
+  },
+  {
+   "lat": 52.1696818,
+   "lon": 21.1565587,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1696818,
+     "lon": 21.1565587,
+     "node": 8168870522,
+     "rank1": 557,
+     "names": [
+      "Wał Miedzeszyński",
+      "Przewodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 35 m dalej, po drugiej stronie: Przewodowa (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.1699739,
+      21.1567737
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 76,
+   "kat": "K1",
+   "names": [
+    "Przewodowa",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0076.jpg"
+  },
+  {
+   "lat": 52.1699633,
+   "lon": 21.1558372,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1699633,
+     "lon": 21.1558372,
+     "node": 8168830790,
+     "rank1": 557,
+     "names": [
+      "Wał Miedzeszyński",
+      "Przewodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 38 m dalej, po drugiej stronie: Wał Miedzeszyński (unclassified)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (unclassified)"
+     ],
+     "cel": [
+      52.1696419,
+      21.1560236
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 79,
+   "kat": "K1",
+   "names": [
+    "Przewodowa",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0079.jpg"
+  },
+  {
+   "lat": 52.1699739,
+   "lon": 21.1567737,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1699739,
+     "lon": 21.1567737,
+     "node": 8168830803,
+     "rank1": 557,
+     "names": [
+      "Wał Miedzeszyński",
+      "Przewodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 17 m dalej, po drugiej stronie: Przewodowa (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "duże skrzyżowanie: 2 ruchliwe ulice, 2 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.1700364,
+      21.1569961
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.1700364,
+     "lon": 21.1569961,
+     "node": 5638276236,
+     "rank1": 557,
+     "names": [
+      "Wał Miedzeszyński",
+      "Przewodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 17 m dalej, po drugiej stronie: Przewodowa (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "cel": [
+      52.1699739,
+      21.1567737
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 80,
+   "kat": "K1",
+   "names": [
+    "Przewodowa",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0080.jpg"
+  },
+  {
+   "lat": 52.1705285,
+   "lon": 21.156185,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1705285,
+     "lon": 21.156185,
+     "node": 5638276248,
+     "rank1": 1036,
+     "names": [
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 195 m dalej, po drugiej stronie: Wał Miedzeszyński (unclassified), Strzygłowska (residential), residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential, service)",
+      "dalszy ciąg (DDR) na wprost 195 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1719932,
+      21.154581
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 83,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0083.jpg"
+  },
+  {
+   "lat": 52.1719932,
+   "lon": 21.154581,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1719932,
+     "lon": 21.154581,
+     "node": 6980084958,
+     "rank1": 1035,
+     "names": [
+      "Wał Miedzeszyński",
+      "Strzygłowska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 195 m dalej, po drugiej stronie: residential (residential), Wał Miedzeszyński (unclassified), Strzygłowska (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential, service, unclassified)",
+      "dalszy ciąg (DDR) na wprost 195 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1705285,
+      21.156185
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 84,
+   "kat": "K1",
+   "names": [
+    "Strzygłowska",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0084.jpg"
+  },
+  {
+   "lat": 52.1726383,
+   "lon": 21.1546511,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1726383,
+     "lon": 21.1546511,
+     "node": 5638276323,
+     "rank1": 1289,
+     "names": [
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 71 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary), Strzygłowska (residential), residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.1719932,
+      21.154581
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 85,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0085.jpg"
+  },
+  {
+   "lat": 52.1747384,
+   "lon": 21.1500627,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1747384,
+     "lon": 21.1500627,
+     "node": 8316857647,
+     "rank1": 1323,
+     "names": [
+      "Wał Miedzeszyński",
+      "Wędkarska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 56 m dalej, po drugiej stronie: unclassified (unclassified), Wał Miedzeszyński (secondary), Wędkarska (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "bariera: bollard"
+     ],
+     "cel": [
+      52.1742902,
+      21.1496915
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 86,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński",
+    "Wędkarska"
+   ],
+   "img": "img/0086.jpg"
+  },
+  {
+   "lat": 52.1775195,
+   "lon": 21.1410564,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1775195,
+     "lon": 21.1410564,
+     "node": 304812584,
+     "rank1": 743,
+     "names": [
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR/CPR kończy się (jezdnia_spokojna); luka 41 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: DDR 41 m dalej, po infrze 310 m"
+     ],
+     "cel": [
+      52.1777599,
+      21.1415134
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 89,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0089.jpg"
+  },
+  {
+   "lat": 52.1814018,
+   "lon": 21.1363076,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1814018,
+     "lon": 21.1363076,
+     "node": 8327502943,
+     "rank1": 712,
+     "names": [
+      "Wał Miedzeszyński"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 49 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: DDR/CPR 49 m dalej, po infrze 950 m"
+     ],
+     "cel": [
+      52.1811108,
+      21.1357624
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 101,
+   "kat": "K1",
+   "names": [
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0101.jpg"
+  },
+  {
+   "lat": 52.1842873,
+   "lon": 21.1718169,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.1842873,
+     "lon": 21.1718169,
+     "node": 3014176422,
+     "rank1": null,
+     "names": [
+      "Skalnicowa"
+     ],
+     "opis": "infra (przejazd) przecina Skalnicowa (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 557,
+   "kat": "K3",
+   "names": [
+    "Skalnicowa"
+   ],
+   "img": "img/0557.jpg"
+  },
+  {
+   "lat": 52.185209,
+   "lon": 21.1438158,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.185209,
+     "lon": 21.1438158,
+     "node": 8912739975,
+     "rank1": 1368,
+     "names": [
+      "Trakt Lubelski",
+      "Cyklamenów"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 70 m dalej, po drugiej stronie: Skalnicowa (tertiary), Cyklamenów (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1857021,
+      21.1431653
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 111,
+   "kat": "K1",
+   "names": [
+    "Cyklamenów",
+    "Trakt Lubelski"
+   ],
+   "img": "img/0111.jpg"
+  },
+  {
+   "lat": 52.1857021,
+   "lon": 21.1431653,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1857021,
+     "lon": 21.1431653,
+     "node": 4128804727,
+     "rank1": 59,
+     "names": [
+      "Skalnicowa",
+      "Trakt Lubelski"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 12 m dalej, po drugiej stronie: Skalnicowa (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 10 ruchliwe ulice, 2 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.1858084,
+      21.1431923
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K2",
+     "lat": 52.1858084,
+     "lon": 21.1431923,
+     "node": 7594296660,
+     "rank1": 59,
+     "names": [
+      "Skalnicowa",
+      "Trakt Lubelski"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna+przejscie); drugi_koniec 12 m dalej, po drugiej stronie: Skalnicowa (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "węzeł to przejście dla pieszych (highway=crossing) bez przejazdu",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 10 ruchliwe ulice, 2 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.1857021,
+      21.1431653
+     ],
+     "werdykt_rundy1": "DDR dochodzi do ronda i wlacza sie w przejazdy/jezdnie, ciaglosc zachowana"
+    }
+   ],
+   "id": 114,
+   "kat": "K1+K2",
+   "names": [
+    "Skalnicowa",
+    "Trakt Lubelski"
+   ],
+   "img": "img/0114.jpg"
+  },
+  {
+   "lat": 52.1860453,
+   "lon": 21.1438388,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.1860453,
+     "lon": 21.1438388,
+     "node": 12697604777,
+     "rank1": null,
+     "names": [
+      "Skalnicowa"
+     ],
+     "opis": "infra (DDR/CPR) przecina Skalnicowa (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.1860886,
+     "lon": 21.1437719,
+     "node": 3014176433,
+     "rank1": null,
+     "names": [
+      "Skalnicowa"
+     ],
+     "opis": "infra (DDR/CPR) przecina Skalnicowa (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 558,
+   "kat": "K3",
+   "names": [
+    "Skalnicowa"
+   ],
+   "img": "img/0558.jpg"
+  },
+  {
+   "lat": 52.1861146,
+   "lon": 21.1434499,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.1861146,
+     "lon": 21.1434499,
+     "node": 12697604761,
+     "rank1": null,
+     "names": [
+      "Trakt Lubelski"
+     ],
+     "opis": "infra (DDR/CPR) przecina Trakt Lubelski (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 559,
+   "kat": "K3",
+   "names": [
+    "Trakt Lubelski"
+   ],
+   "img": "img/0559.jpg"
+  },
+  {
+   "lat": 52.188772,
+   "lon": 21.1724097,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.188772,
+     "lon": 21.1724097,
+     "node": 307573207,
+     "rank1": null,
+     "names": [
+      "Klimatyczna"
+     ],
+     "opis": "infra (DDR/CPR) przecina Klimatyczna (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 561,
+   "kat": "K3",
+   "names": [
+    "Klimatyczna"
+   ],
+   "img": "img/0561.jpg"
+  },
+  {
+   "lat": 52.1969774,
+   "lon": 21.1699051,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1969774,
+     "lon": 21.1699051,
+     "node": 307573493,
+     "rank1": 913,
+     "names": [
+      "Mrówcza",
+      "Kartonowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 77 m dalej, po drugiej stronie: Pomarańczowa (residential), Mrówcza (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "cel": [
+      52.1976372,
+      21.169542
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 139,
+   "kat": "K1",
+   "names": [
+    "Kartonowa",
+    "Mrówcza"
+   ],
+   "img": "img/0139.jpg"
+  },
+  {
+   "lat": 52.1976372,
+   "lon": 21.169542,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1976372,
+     "lon": 21.169542,
+     "node": 307573496,
+     "rank1": 914,
+     "names": [
+      "Mrówcza",
+      "Pomarańczowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 77 m dalej, po drugiej stronie: Mrówcza (tertiary), Kartonowa (residential), Pomarańczowa (residential)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "cel": [
+      52.1969774,
+      21.1699051
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 145,
+   "kat": "K1",
+   "names": [
+    "Mrówcza",
+    "Pomarańczowa"
+   ],
+   "img": "img/0145.jpg"
+  },
+  {
+   "lat": 52.2036589,
+   "lon": 21.1663058,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2036589,
+     "lon": 21.1663058,
+     "node": 5399891381,
+     "rank1": 1312,
+     "names": [
+      "Mrówcza"
+     ],
+     "opis": "CPR kończy się (jezdnia_spokojna); drugi_koniec 53 m dalej, po drugiej stronie: Mrówcza (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.2040732,
+      21.1659234
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 165,
+   "kat": "K1",
+   "names": [
+    "Mrówcza"
+   ],
+   "img": "img/0165.jpg"
+  },
+  {
+   "lat": 52.2046405,
+   "lon": 21.1650743,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.2046405,
+     "lon": 21.1650743,
+     "node": 8243263588,
+     "rank1": 317,
+     "names": [
+      "Zwoleńska",
+      "Rondo Wąskotorówki",
+      "Mrówcza"
+     ],
+     "opis": "DDR kończy się (chodnik); drugi_koniec 52 m dalej, po drugiej stronie: Mrówcza (tertiary)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (sidewalk)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 3 ruchliwe ulice, 0 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.205028,
+      21.1655027
+     ],
+     "werdykt_rundy1": "DDR dochodzi do ronda przy zebrze, wjazd na jezdnie ronda"
+    }
+   ],
+   "id": 471,
+   "kat": "K2",
+   "names": [
+    "Mrówcza",
+    "Rondo Wąskotorówki",
+    "Zwoleńska"
+   ],
+   "img": "img/0471.jpg"
+  },
+  {
+   "lat": 52.205028,
+   "lon": 21.1655027,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.205028,
+     "lon": 21.1655027,
+     "node": 1627521057,
+     "rank1": 1313,
+     "names": [
+      "Zwoleńska",
+      "Mrówcza"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 52 m dalej, po drugiej stronie: Mrówcza (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.2046405,
+      21.1650743
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 167,
+   "kat": "K1",
+   "names": [
+    "Mrówcza",
+    "Zwoleńska"
+   ],
+   "img": "img/0167.jpg"
+  },
+  {
+   "lat": 52.2081519,
+   "lon": 21.1655617,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2081519,
+     "lon": 21.1655617,
+     "node": 3890497906,
+     "rank1": null,
+     "names": [
+      "Rzeźbiarska"
+     ],
+     "opis": "infra (DDR/CPR) przecina Rzeźbiarska (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 582,
+   "kat": "K3",
+   "names": [
+    "Rzeźbiarska"
+   ],
+   "img": "img/0582.jpg"
+  },
+  {
+   "lat": 52.2097271,
+   "lon": 21.1615576,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2097271,
+     "lon": 21.1615576,
+     "node": 12485176905,
+     "rank1": 1031,
+     "names": [
+      "Mrówcza",
+      "Piechurów"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 190 m dalej, po drugiej stronie: Patriotów (secondary), Kazimierza Szpotańskiego (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "dalszy ciąg (DDR/CPR) na wprost 190 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.2094566,
+      21.1643118
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 185,
+   "kat": "K1",
+   "names": [
+    "Mrówcza",
+    "Piechurów"
+   ],
+   "img": "img/0185.jpg"
+  },
+  {
+   "lat": 52.2126893,
+   "lon": 21.1610268,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2126893,
+     "lon": 21.1610268,
+     "node": 1628183958,
+     "rank1": null,
+     "names": [
+      "IX Poprzeczna"
+     ],
+     "opis": "infra (DDR/CPR) przecina IX Poprzeczna (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 586,
+   "kat": "K3",
+   "names": [
+    "IX Poprzeczna"
+   ],
+   "img": "img/0586.jpg"
+  },
+  {
+   "lat": 52.2138515,
+   "lon": 21.1574025,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2138515,
+     "lon": 21.1574025,
+     "node": 12485176916,
+     "rank1": null,
+     "names": [
+      "Mrówcza"
+     ],
+     "opis": "infra (DDR) przecina Mrówcza (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 587,
+   "kat": "K3",
+   "names": [
+    "Mrówcza"
+   ],
+   "img": "img/0587.jpg"
+  },
+  {
+   "lat": 52.2138972,
+   "lon": 21.1598316,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2138972,
+     "lon": 21.1598316,
+     "node": 1628184016,
+     "rank1": null,
+     "names": [
+      "VIII Poprzeczna"
+     ],
+     "opis": "infra (DDR/CPR) przecina VIII Poprzeczna (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 588,
+   "kat": "K3",
+   "names": [
+    "VIII Poprzeczna"
+   ],
+   "img": "img/0588.jpg"
+  },
+  {
+   "lat": 52.2173383,
+   "lon": 21.1563915,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2173383,
+     "lon": 21.1563915,
+     "node": 1628183972,
+     "rank1": null,
+     "names": [
+      "Bosmańska"
+     ],
+     "opis": "infra (DDR/CPR) przecina Bosmańska (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 591,
+   "kat": "K3",
+   "names": [
+    "Bosmańska"
+   ],
+   "img": "img/0591.jpg"
+  },
+  {
+   "lat": 52.2183148,
+   "lon": 21.1541308,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2183148,
+     "lon": 21.1541308,
+     "node": 2875056949,
+     "rank1": 960,
+     "names": [
+      "Widoczna"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 117 m dalej, po drugiej stronie: Widoczna (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "dalszy ciąg (DDR/CPR) na wprost 117 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.2193151,
+      21.1535485
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 209,
+   "kat": "K1",
+   "names": [
+    "Widoczna"
+   ],
+   "img": "img/0209.jpg"
+  },
+  {
+   "lat": 52.2346789,
+   "lon": 21.1273675,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2346789,
+     "lon": 21.1273675,
+     "node": 1386630569,
+     "rank1": 1179,
+     "names": [
+      "Marsa"
+     ],
+     "opis": "CPR kończy się (jezdnia_spokojna); drugi_koniec 71 m dalej, po drugiej stronie: Murmańska (residential), residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "bariera: bollard"
+     ],
+     "cel": [
+      52.2348711,
+      21.1263672
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 265,
+   "kat": "K1",
+   "names": [
+    "Marsa"
+   ],
+   "img": "img/0265.jpg"
+  },
+  {
+   "lat": 52.2348711,
+   "lon": 21.1263672,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2348711,
+     "lon": 21.1263672,
+     "node": 2713749687,
+     "rank1": 1422,
+     "names": [
+      "Płowiecka",
+      "Murmańska"
+     ],
+     "opis": "CPR kończy się (jezdnia_spokojna); drugi_koniec 71 m dalej, po drugiej stronie: residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.2346789,
+      21.1273675
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 266,
+   "kat": "K1",
+   "names": [
+    "Murmańska",
+    "Płowiecka"
+   ],
+   "img": "img/0266.jpg"
+  },
+  {
+   "lat": 52.2369659,
+   "lon": 21.1298611,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2369659,
+     "lon": 21.1298611,
+     "node": 2410142727,
+     "rank1": 1174,
+     "names": [
+      "Marsa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 78 m dalej, po drugiej stronie: Marsa (primary), Naddnieprzańska (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.2371599,
+      21.1309646
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 275,
+   "kat": "K1",
+   "names": [
+    "Marsa"
+   ],
+   "img": "img/0275.jpg"
+  }
+ ]
+}

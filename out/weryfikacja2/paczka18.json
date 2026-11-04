@@ -1,0 +1,330 @@
+{
+ "paczka": 18,
+ "kandydaci": [
+  {
+   "lat": 52.2464385,
+   "lon": 21.2232369,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2464385,
+     "lon": 21.2232369,
+     "node": 9623322498,
+     "rank1": 62,
+     "names": [
+      "Rondo Emanuela Bułhaka",
+      "Juliana Ursyna Niemcewicza",
+      "1 Praskiego Pułku WP"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); luka 28 m dalej, po drugiej stronie: 1 Praskiego Pułku WP (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "TELEPORT: pas 1 Praskiego Pułku WP 28 m dalej, po infrze nie da się dojechać (>900 m)",
+      "duże skrzyżowanie: 3 ruchliwe ulice, 0 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.2466936,
+      21.2232321
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 290,
+   "kat": "K1",
+   "names": [
+    "1 Praskiego Pułku WP",
+    "Juliana Ursyna Niemcewicza",
+    "Rondo Emanuela Bułhaka"
+   ],
+   "img": "img/0290.jpg"
+  },
+  {
+   "lat": 52.1820147,
+   "lon": 21.2274847,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.1820147,
+     "lon": 21.2274847,
+     "node": 9278944529,
+     "rank1": null,
+     "names": [
+      "Izbicka"
+     ],
+     "opis": "infra (przejazd) przecina Izbicka (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.18206,
+     "lon": 21.2275301,
+     "node": 9278944530,
+     "rank1": null,
+     "names": [
+      "Izbicka"
+     ],
+     "opis": "infra (przejazd) przecina Izbicka (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 543,
+   "kat": "K3",
+   "names": [
+    "Izbicka"
+   ],
+   "img": "img/0543.jpg"
+  },
+  {
+   "lat": 52.2147222,
+   "lon": 21.2566335,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.2147222,
+     "lon": 21.2566335,
+     "node": 13879286010,
+     "rank1": 103,
+     "names": [
+      "Szosa Lubelska",
+      "Kazimierza Dąbrowskiego"
+     ],
+     "opis": "CPR kończy się (przejscie_bez_przejazdu); luka 44 m dalej, po drugiej stronie: Szosa Lubelska (motorway)",
+     "reasons": [
+      "kończy się na przejściu dla pieszych bez przejazdu rowerowego",
+      "TELEPORT: CPR 44 m dalej, po infrze 226 m",
+      "duże skrzyżowanie: 2 ruchliwe ulice, 1 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.2149682,
+      21.2571452
+     ],
+     "werdykt_rundy1": "CPR z wiaduktu schodzi na droge serwisowa Szosy Lubelskiej, dalej jezdnia; magenta to tylko luka do infry po drugiej stronie trasy (rozdzielone fizycznie)"
+    }
+   ],
+   "id": 474,
+   "kat": "K2",
+   "names": [
+    "Kazimierza Dąbrowskiego",
+    "Szosa Lubelska"
+   ],
+   "img": "img/0474.jpg"
+  },
+  {
+   "lat": 52.2163222,
+   "lon": 21.231935,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2163222,
+     "lon": 21.231935,
+     "node": 13879272933,
+     "rank1": 1085,
+     "names": [
+      "Jana Pawła II",
+      "Marmurowa",
+      "Jutrzenki"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 13 m dalej, po drugiej stronie: Marmurowa (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (living_street)"
+     ],
+     "cel": [
+      52.2163302,
+      21.2317393
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.2163302,
+     "lon": 21.2317393,
+     "node": 1157619319,
+     "rank1": 1085,
+     "names": [
+      "Jana Pawła II",
+      "Marmurowa",
+      "Jutrzenki"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 11 m dalej, po drugiej stronie: Marmurowa (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (living_street, residential)"
+     ],
+     "cel": [
+      52.2163405,
+      21.2315847
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.2163405,
+     "lon": 21.2315847,
+     "node": 8199305502,
+     "rank1": 1085,
+     "names": [
+      "Jana Pawła II",
+      "Marmurowa",
+      "Jutrzenki"
+     ],
+     "opis": "DDR/CPR kończy się (jezdnia_spokojna); drugi_koniec 11 m dalej, po drugiej stronie: Marmurowa (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (living_street)"
+     ],
+     "cel": [
+      52.2163302,
+      21.2317393
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 202,
+   "kat": "K1",
+   "names": [
+    "Jana Pawła II",
+    "Jutrzenki",
+    "Marmurowa"
+   ],
+   "img": "img/0202.jpg"
+  },
+  {
+   "lat": 52.2198599,
+   "lon": 21.2433261,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2198599,
+     "lon": 21.2433261,
+     "node": 2497911299,
+     "rank1": null,
+     "names": [
+      "Dworkowa"
+     ],
+     "opis": "infra (DDR/CPR) przecina Dworkowa (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 598,
+   "kat": "K3",
+   "names": [
+    "Dworkowa"
+   ],
+   "img": "img/0598.jpg"
+  },
+  {
+   "lat": 52.2221588,
+   "lon": 21.2427186,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2221588,
+     "lon": 21.2427186,
+     "node": 4899857675,
+     "rank1": 1376,
+     "names": [
+      "Jana Pawła II",
+      "Rondo Józefa Maroszka",
+      "Radosna",
+      "Gościniec"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 56 m dalej, po drugiej stronie: Jana Pawła II (tertiary), Gościniec (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.2225593,
+      21.2432292
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 225,
+   "kat": "K1",
+   "names": [
+    "Gościniec",
+    "Jana Pawła II",
+    "Radosna",
+    "Rondo Józefa Maroszka"
+   ],
+   "img": "img/0225.jpg"
+  },
+  {
+   "lat": 52.2225593,
+   "lon": 21.2432292,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2225593,
+     "lon": 21.2432292,
+     "node": 5074122512,
+     "rank1": 430,
+     "names": [
+      "Trakt Brzeski",
+      "Aleja Marszałka Józefa Piłsudskiego",
+      "Gościniec",
+      "Rondo Józefa Maroszka"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 56 m dalej, po drugiej stronie: Gościniec (residential), Jana Pawła II (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 5 ruchliwe ulice, 6 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.2221588,
+      21.2427186
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 228,
+   "kat": "K1",
+   "names": [
+    "Aleja Marszałka Józefa Piłsudskiego",
+    "Gościniec",
+    "Rondo Józefa Maroszka",
+    "Trakt Brzeski"
+   ],
+   "img": "img/0228.jpg"
+  },
+  {
+   "lat": 52.2247179,
+   "lon": 21.238114,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2247179,
+     "lon": 21.238114,
+     "node": 8093710077,
+     "rank1": null,
+     "names": [
+      "Nizinna"
+     ],
+     "opis": "infra (CPR) przecina Nizinna (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 599,
+   "kat": "K3",
+   "names": [
+    "Nizinna"
+   ],
+   "img": "img/0599.jpg"
+  }
+ ]
+}

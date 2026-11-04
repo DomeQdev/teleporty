@@ -1,0 +1,1395 @@
+{
+ "paczka": 15,
+ "kandydaci": [
+  {
+   "lat": 52.1985197,
+   "lon": 21.119216,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1985197,
+     "lon": 21.119216,
+     "node": 2047705321,
+     "rank1": 177,
+     "names": [
+      "Wał Miedzeszyński",
+      "Pod Brzozami"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 42 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary), residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: DDR/CPR 42 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 39 m"
+     ],
+     "cel": [
+      52.198372,
+      21.1186448
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 151,
+   "kat": "K1",
+   "names": [
+    "Pod Brzozami",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0151.jpg"
+  },
+  {
+   "lat": 52.1988422,
+   "lon": 21.1190025,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1988422,
+     "lon": 21.1190025,
+     "node": 765401087,
+     "rank1": 177,
+     "names": [
+      "Wał Miedzeszyński",
+      "Pod Brzozami"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 43 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR/CPR 43 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 39 m"
+     ],
+     "cel": [
+      52.198671,
+      21.1184415
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 152,
+   "kat": "K1",
+   "names": [
+    "Pod Brzozami",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0152.jpg"
+  },
+  {
+   "lat": 52.1992669,
+   "lon": 21.1187265,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1992669,
+     "lon": 21.1187265,
+     "node": 765402406,
+     "rank1": 435,
+     "names": [
+      "Wał Miedzeszyński",
+      "Bronowska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 46 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR/CPR 46 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 53 m"
+     ],
+     "cel": [
+      52.1990993,
+      21.1181035
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 153,
+   "kat": "K1",
+   "names": [
+    "Bronowska",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0153.jpg"
+  },
+  {
+   "lat": 52.1996644,
+   "lon": 21.1183524,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1996644,
+     "lon": 21.1183524,
+     "node": 765403580,
+     "rank1": 408,
+     "names": [
+      "Wał Miedzeszyński",
+      "Bronowska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 43 m dalej, po drugiej stronie: Wał Miedzeszyński (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: DDR/CPR 43 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 53 m"
+     ],
+     "cel": [
+      52.1994722,
+      21.1177981
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 156,
+   "kat": "K1",
+   "names": [
+    "Bronowska",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0156.jpg"
+  },
+  {
+   "lat": 52.2116793,
+   "lon": 21.1055284,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2116793,
+     "lon": 21.1055284,
+     "node": 765401450,
+     "rank1": 783,
+     "names": [
+      "Wał Miedzeszyński",
+      "Kadetów"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 46 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR/CPR 46 m dalej, po infrze 291 m"
+     ],
+     "cel": [
+      52.2114297,
+      21.1049854
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 194,
+   "kat": "K1",
+   "names": [
+    "Kadetów",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0194.jpg"
+  },
+  {
+   "lat": 52.2121643,
+   "lon": 21.1049369,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2121643,
+     "lon": 21.1049369,
+     "node": 765373062,
+     "rank1": 796,
+     "names": [
+      "Wał Miedzeszyński",
+      "Kadetów"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 46 m dalej, po drugiej stronie: Wał Miedzeszyński (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR/CPR 46 m dalej, po infrze 257 m"
+     ],
+     "cel": [
+      52.2119188,
+      21.1043986
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 197,
+   "kat": "K1",
+   "names": [
+    "Kadetów",
+    "Wał Miedzeszyński"
+   ],
+   "img": "img/0197.jpg"
+  },
+  {
+   "lat": 52.2125557,
+   "lon": 21.1086407,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2125557,
+     "lon": 21.1086407,
+     "node": 2621320189,
+     "rank1": null,
+     "names": [
+      "Sęczkowa"
+     ],
+     "opis": "infra (przejazd) przecina Sęczkowa (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 585,
+   "kat": "K3",
+   "names": [
+    "Sęczkowa"
+   ],
+   "img": "img/0585.jpg"
+  },
+  {
+   "lat": 52.2148951,
+   "lon": 21.1192583,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2148951,
+     "lon": 21.1192583,
+     "node": 9195861354,
+     "rank1": null,
+     "names": [
+      "Kadetów"
+     ],
+     "opis": "infra (przejazd) przecina Kadetów (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 589,
+   "kat": "K3",
+   "names": [
+    "Kadetów"
+   ],
+   "img": "img/0589.jpg"
+  },
+  {
+   "lat": 52.2220656,
+   "lon": 21.0813473,
+   "punkty": [
+    {
+     "kat": "K4",
+     "lat": 52.2220656,
+     "lon": 21.0813473,
+     "node": 255593901,
+     "rank1": 967,
+     "names": [],
+     "opis": "DDR przechodzi w chodnik z dopuszczonym ruchem rowerów",
+     "reasons": [
+      "przechodzi w chodnik/ciąg z dopuszczonym ruchem rowerów (bicycle=yes)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "cel": null,
+     "werdykt_rundy1": "DDR dochodzi do ulicy osiedlowej, chodnik z dopuszczonym rowerem"
+    }
+   ],
+   "id": 682,
+   "kat": "K4",
+   "names": [],
+   "img": "img/0682.jpg"
+  },
+  {
+   "lat": 52.2267088,
+   "lon": 21.0836936,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2267088,
+     "lon": 21.0836936,
+     "node": 9319282453,
+     "rank1": 41,
+     "names": [
+      "Generała Romana Abrahama"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); luka 10 m dalej, po drugiej stronie: Generała Romana Abrahama (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "TELEPORT: pas Generała Romana Abrahama 10 m dalej, po infrze nie da się dojechać (>900 m)"
+     ],
+     "cel": [
+      52.2267078,
+      21.083835
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 243,
+   "kat": "K1",
+   "names": [
+    "Generała Romana Abrahama"
+   ],
+   "img": "img/0243.jpg"
+  },
+  {
+   "lat": 52.2285513,
+   "lon": 21.0847184,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2285513,
+     "lon": 21.0847184,
+     "node": 4435972053,
+     "rank1": 580,
+     "names": [
+      "Kapelanów Armii Krajowej"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 42 m dalej, po drugiej stronie: Kapelanów Armii Krajowej (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR 42 m dalej, po infrze nie da się dojechać (>900 m)"
+     ],
+     "cel": [
+      52.2285848,
+      21.0853259
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 249,
+   "kat": "K1",
+   "names": [
+    "Kapelanów Armii Krajowej"
+   ],
+   "img": "img/0249.jpg"
+  },
+  {
+   "lat": 52.2285848,
+   "lon": 21.0853259,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2285848,
+     "lon": 21.0853259,
+     "node": 266189307,
+     "rank1": 367,
+     "names": [
+      "Kapelanów Armii Krajowej"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); luka 42 m dalej, po drugiej stronie: Kapelanów Armii Krajowej (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "TELEPORT: DDR 42 m dalej, po infrze nie da się dojechać (>900 m)"
+     ],
+     "cel": [
+      52.2285513,
+      21.0847184
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 250,
+   "kat": "K1",
+   "names": [
+    "Kapelanów Armii Krajowej"
+   ],
+   "img": "img/0250.jpg"
+  },
+  {
+   "lat": 52.229603,
+   "lon": 21.0951574,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.229603,
+     "lon": 21.0951574,
+     "node": 706901499,
+     "rank1": null,
+     "names": [
+      "Generała Leopolda Okulickiego"
+     ],
+     "opis": "infra (DDR/CPR) przecina Generała Leopolda Okulickiego (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 601,
+   "kat": "K3",
+   "names": [
+    "Generała Leopolda Okulickiego"
+   ],
+   "img": "img/0601.jpg"
+  },
+  {
+   "lat": 52.229842,
+   "lon": 21.0791605,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.229842,
+     "lon": 21.0791605,
+     "node": 2405999700,
+     "rank1": null,
+     "names": [
+      "Generała Stanisława Skalskiego"
+     ],
+     "opis": "infra (DDR) przecina Generała Stanisława Skalskiego (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 603,
+   "kat": "K3",
+   "names": [
+    "Generała Stanisława Skalskiego"
+   ],
+   "img": "img/0603.jpg"
+  },
+  {
+   "lat": 52.2300518,
+   "lon": 21.0801068,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2300518,
+     "lon": 21.0801068,
+     "node": 3524247883,
+     "rank1": null,
+     "names": [
+      "Jana Nowaka-Jeziorańskiego"
+     ],
+     "opis": "infra (DDR) przecina Jana Nowaka-Jeziorańskiego (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 604,
+   "kat": "K3",
+   "names": [
+    "Jana Nowaka-Jeziorańskiego"
+   ],
+   "img": "img/0604.jpg"
+  },
+  {
+   "lat": 52.2301629,
+   "lon": 21.0825228,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2301629,
+     "lon": 21.0825228,
+     "node": 1874947827,
+     "rank1": null,
+     "names": [
+      "Kapelanów Armii Krajowej"
+     ],
+     "opis": "infra (DDR) przecina Kapelanów Armii Krajowej (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 605,
+   "kat": "K3",
+   "names": [
+    "Kapelanów Armii Krajowej"
+   ],
+   "img": "img/0605.jpg"
+  },
+  {
+   "lat": 52.2308315,
+   "lon": 21.0882738,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2308315,
+     "lon": 21.0882738,
+     "node": 3897629593,
+     "rank1": null,
+     "names": [
+      "residential"
+     ],
+     "opis": "infra (DDR) przecina residential (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 606,
+   "kat": "K3",
+   "names": [
+    "residential"
+   ],
+   "img": "img/0606.jpg"
+  },
+  {
+   "lat": 52.2309042,
+   "lon": 21.0956359,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2309042,
+     "lon": 21.0956359,
+     "node": 1874947787,
+     "rank1": null,
+     "names": [
+      "Generała Augusta Emila Fieldorfa „Nila”"
+     ],
+     "opis": "infra (DDR) przecina Generała Augusta Emila Fieldorfa „Nila” (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.2309407,
+     "lon": 21.0954665,
+     "node": 1874947687,
+     "rank1": null,
+     "names": [
+      "Generała Augusta Emila Fieldorfa „Nila”"
+     ],
+     "opis": "infra (DDR) przecina Generała Augusta Emila Fieldorfa „Nila” (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 607,
+   "kat": "K3",
+   "names": [
+    "Generała Augusta Emila Fieldorfa „Nila”"
+   ],
+   "img": "img/0607.jpg"
+  },
+  {
+   "lat": 52.231095,
+   "lon": 21.0953522,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.231095,
+     "lon": 21.0953522,
+     "node": 1874947573,
+     "rank1": null,
+     "names": [
+      "Jana Nowaka-Jeziorańskiego"
+     ],
+     "opis": "infra (DDR) przecina Jana Nowaka-Jeziorańskiego (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.2311717,
+     "lon": 21.0953961,
+     "node": 1874947723,
+     "rank1": null,
+     "names": [
+      "Jana Nowaka-Jeziorańskiego"
+     ],
+     "opis": "infra (DDR) przecina Jana Nowaka-Jeziorańskiego (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 608,
+   "kat": "K3",
+   "names": [
+    "Jana Nowaka-Jeziorańskiego"
+   ],
+   "img": "img/0608.jpg"
+  },
+  {
+   "lat": 52.2311371,
+   "lon": 21.0959391,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2311371,
+     "lon": 21.0959391,
+     "node": 1874947777,
+     "rank1": null,
+     "names": [
+      "Jana Nowaka-Jeziorańskiego"
+     ],
+     "opis": "infra (DDR) przecina Jana Nowaka-Jeziorańskiego (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 609,
+   "kat": "K3",
+   "names": [
+    "Jana Nowaka-Jeziorańskiego"
+   ],
+   "img": "img/0609.jpg"
+  },
+  {
+   "lat": 52.2312406,
+   "lon": 21.0926645,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2312406,
+     "lon": 21.0926645,
+     "node": 1874947584,
+     "rank1": null,
+     "names": [
+      "Jana Nowaka-Jeziorańskiego"
+     ],
+     "opis": "infra (DDR) przecina Jana Nowaka-Jeziorańskiego (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 610,
+   "kat": "K3",
+   "names": [
+    "Jana Nowaka-Jeziorańskiego"
+   ],
+   "img": "img/0610.jpg"
+  },
+  {
+   "lat": 52.2331638,
+   "lon": 21.0968057,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2331638,
+     "lon": 21.0968057,
+     "node": 1874947611,
+     "rank1": null,
+     "names": [
+      "Generała Augusta Emila Fieldorfa „Nila”"
+     ],
+     "opis": "infra (DDR) przecina Generała Augusta Emila Fieldorfa „Nila” (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.2331987,
+     "lon": 21.0966424,
+     "node": 1874947791,
+     "rank1": null,
+     "names": [
+      "Generała Augusta Emila Fieldorfa „Nila”"
+     ],
+     "opis": "infra (DDR) przecina Generała Augusta Emila Fieldorfa „Nila” (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 611,
+   "kat": "K3",
+   "names": [
+    "Generała Augusta Emila Fieldorfa „Nila”"
+   ],
+   "img": "img/0611.jpg"
+  },
+  {
+   "lat": 52.2332296,
+   "lon": 21.1239655,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2332296,
+     "lon": 21.1239655,
+     "node": 3889268312,
+     "rank1": null,
+     "names": [
+      "Lotnicza"
+     ],
+     "opis": "infra (przejazd) przecina Lotnicza (residential) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 612,
+   "kat": "K3",
+   "names": [
+    "Lotnicza"
+   ],
+   "img": "img/0612.jpg"
+  },
+  {
+   "lat": 52.2352598,
+   "lon": 21.0948635,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2352598,
+     "lon": 21.0948635,
+     "node": 3510409555,
+     "rank1": 603,
+     "names": [
+      "Ostrobramska",
+      "Filomatów"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 45 m dalej, po drugiej stronie: Ostrobramska (primary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (living_street, residential)",
+      "TELEPORT: DDR 45 m dalej, po infrze nie da się dojechać (>900 m)"
+     ],
+     "cel": [
+      52.2348602,
+      21.0947645
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 267,
+   "kat": "K1",
+   "names": [
+    "Filomatów",
+    "Ostrobramska"
+   ],
+   "img": "img/0267.jpg"
+  },
+  {
+   "lat": 52.2361574,
+   "lon": 21.0766591,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2361574,
+     "lon": 21.0766591,
+     "node": 3906998027,
+     "rank1": 417,
+     "names": [
+      "Kinowa",
+      "Rozłucka",
+      "Górnicza"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 35 m dalej, po drugiej stronie: Kinowa (primary_link), Rozłucka (residential)",
+     "reasons": [
+      "DDR wpada na jezdnię primary_link",
+      "duże skrzyżowanie: 1 ruchliwe ulice, 6 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.2364745,
+      21.0765909
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 270,
+   "kat": "K1",
+   "names": [
+    "Górnicza",
+    "Kinowa",
+    "Rozłucka"
+   ],
+   "img": "img/0270.jpg"
+  },
+  {
+   "lat": 52.2364745,
+   "lon": 21.0765909,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2364745,
+     "lon": 21.0765909,
+     "node": 12971843831,
+     "rank1": 417,
+     "names": [
+      "Kinowa",
+      "Rozłucka",
+      "Górnicza"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 35 m dalej, po drugiej stronie: Kinowa (tertiary), Rozłucka (residential)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 1 ruchliwe ulice, 4 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.2361574,
+      21.0766591
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 272,
+   "kat": "K1",
+   "names": [
+    "Górnicza",
+    "Kinowa",
+    "Rozłucka"
+   ],
+   "img": "img/0272.jpg"
+  },
+  {
+   "lat": 52.2390755,
+   "lon": 21.0847049,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2390755,
+     "lon": 21.0847049,
+     "node": 9883849556,
+     "rank1": 949,
+     "names": [
+      "Grenadierów",
+      "Majdańska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 33 m dalej, po drugiej stronie: Majdańska (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "dalszy ciąg (DDR) na wprost 127 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.2390997,
+      21.0851843
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 278,
+   "kat": "K1",
+   "names": [
+    "Grenadierów",
+    "Majdańska"
+   ],
+   "img": "img/0278.jpg"
+  },
+  {
+   "lat": 52.2402382,
+   "lon": 21.082581,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2402382,
+     "lon": 21.082581,
+     "node": 9883849545,
+     "rank1": null,
+     "names": [
+      "Grenadierów"
+     ],
+     "opis": "infra (DDR) przecina Grenadierów (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 614,
+   "kat": "K3",
+   "names": [
+    "Grenadierów"
+   ],
+   "img": "img/0614.jpg"
+  },
+  {
+   "lat": 52.2408519,
+   "lon": 21.0816563,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2408519,
+     "lon": 21.0816563,
+     "node": 14141072577,
+     "rank1": null,
+     "names": [
+      "Grenadierów"
+     ],
+     "opis": "infra (DDR) przecina Grenadierów (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 615,
+   "kat": "K3",
+   "names": [
+    "Grenadierów"
+   ],
+   "img": "img/0615.jpg"
+  },
+  {
+   "lat": 52.260263,
+   "lon": 21.0815465,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.260263,
+     "lon": 21.0815465,
+     "node": 254531489,
+     "rank1": null,
+     "names": [
+      "Dźwińska"
+     ],
+     "opis": "infra (CPR) przecina Dźwińska (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 636,
+   "kat": "K3",
+   "names": [
+    "Dźwińska"
+   ],
+   "img": "img/0636.jpg"
+  },
+  {
+   "lat": 52.2612896,
+   "lon": 21.1248861,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2612896,
+     "lon": 21.1248861,
+     "node": 8274129022,
+     "rank1": null,
+     "names": [
+      "Chełmżyńska"
+     ],
+     "opis": "infra (DDR/CPR) przecina Chełmżyńska (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.2613276,
+     "lon": 21.1248082,
+     "node": 8274129028,
+     "rank1": null,
+     "names": [
+      "Chełmżyńska"
+     ],
+     "opis": "infra (DDR/CPR) przecina Chełmżyńska (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 637,
+   "kat": "K3",
+   "names": [
+    "Chełmżyńska"
+   ],
+   "img": "img/0637.jpg"
+  },
+  {
+   "lat": 52.2616684,
+   "lon": 21.1248761,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2616684,
+     "lon": 21.1248761,
+     "node": 8274129051,
+     "rank1": null,
+     "names": [
+      "Chełmżyńska"
+     ],
+     "opis": "infra (DDR/CPR) przecina Chełmżyńska (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.2616938,
+     "lon": 21.124966,
+     "node": 8274129047,
+     "rank1": null,
+     "names": [
+      "Chełmżyńska"
+     ],
+     "opis": "infra (DDR/CPR) przecina Chełmżyńska (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    },
+    {
+     "kat": "K3",
+     "lat": 52.2618401,
+     "lon": 21.124765,
+     "node": 8274128882,
+     "rank1": null,
+     "names": [
+      "Chełmżyńska"
+     ],
+     "opis": "infra (DDR) przecina Chełmżyńska (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 640,
+   "kat": "K3",
+   "names": [
+    "Chełmżyńska"
+   ],
+   "img": "img/0640.jpg"
+  },
+  {
+   "lat": 52.2638947,
+   "lon": 21.0774517,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.2638947,
+     "lon": 21.0774517,
+     "node": 254531474,
+     "rank1": null,
+     "names": [
+      "Nieświeska"
+     ],
+     "opis": "infra (DDR) przecina Nieświeska (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 642,
+   "kat": "K3",
+   "names": [
+    "Nieświeska"
+   ],
+   "img": "img/0642.jpg"
+  },
+  {
+   "lat": 52.286032,
+   "lon": 21.0972707,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.286032,
+     "lon": 21.0972707,
+     "node": 6744615953,
+     "rank1": 10,
+     "names": [
+      "Łodygowa",
+      "Polna",
+      "Ogrodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 24 m dalej, po drugiej stronie: Łodygowa (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR 24 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 32 m"
+     ],
+     "cel": [
+      52.2861646,
+      21.0975441
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.2861646,
+     "lon": 21.0975441,
+     "node": 6744615861,
+     "rank1": 10,
+     "names": [
+      "Łodygowa",
+      "Polna",
+      "Ogrodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 11 m dalej, po drugiej stronie: Łodygowa (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (living_street)",
+      "TELEPORT: DDR 11 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 28 m"
+     ],
+     "cel": [
+      52.2860735,
+      21.0975907
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 401,
+   "kat": "K1",
+   "names": [
+    "Ogrodowa",
+    "Polna",
+    "Łodygowa"
+   ],
+   "img": "img/0401.jpg"
+  },
+  {
+   "lat": 52.2860951,
+   "lon": 21.0979346,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2860951,
+     "lon": 21.0979346,
+     "node": 6984964463,
+     "rank1": 10,
+     "names": [
+      "Łodygowa",
+      "Polna",
+      "Ogrodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); luka 14 m dalej, po drugiej stronie: Łodygowa (secondary)",
+     "reasons": [
+      "DDR wpada na jezdnię secondary",
+      "TELEPORT: DDR 14 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 28 m"
+     ],
+     "cel": [
+      52.2860999,
+      21.0977266
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.2860999,
+     "lon": 21.0977266,
+     "node": 6984964461,
+     "rank1": 10,
+     "names": [
+      "Łodygowa",
+      "Polna",
+      "Ogrodowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); luka 5 m dalej, po drugiej stronie: Łodygowa (secondary)",
+     "reasons": [
+      "DDR wpada na jezdnię secondary",
+      "TELEPORT: DDR 5 m dalej, po infrze nie da się dojechać (>900 m)",
+      "wysepka infry, łącznie 32 m"
+     ],
+     "cel": [
+      52.2861474,
+      21.0977398
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 402,
+   "kat": "K1",
+   "names": [
+    "Ogrodowa",
+    "Polna",
+    "Łodygowa"
+   ],
+   "img": "img/0402.jpg"
+  },
+  {
+   "lat": 52.2861055,
+   "lon": 21.0945616,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2861055,
+     "lon": 21.0945616,
+     "node": 6744615946,
+     "rank1": 347,
+     "names": [
+      "Łodygowa",
+      "Klamrowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 35 m dalej, po drugiej stronie: Łodygowa (secondary), Klamrowa (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.2863572,
+      21.0948814
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 403,
+   "kat": "K1",
+   "names": [
+    "Klamrowa",
+    "Łodygowa"
+   ],
+   "img": "img/0403.jpg"
+  },
+  {
+   "lat": 52.2863074,
+   "lon": 21.0752046,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2863074,
+     "lon": 21.0752046,
+     "node": 324548984,
+     "rank1": 1274,
+     "names": [
+      "Radzymińska",
+      "Chałupnicza"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 55 m dalej, po drugiej stronie: Chałupnicza (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.286612,
+      21.0758495
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 404,
+   "kat": "K1",
+   "names": [
+    "Chałupnicza",
+    "Radzymińska"
+   ],
+   "img": "img/0404.jpg"
+  },
+  {
+   "lat": 52.2863572,
+   "lon": 21.0948814,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2863572,
+     "lon": 21.0948814,
+     "node": 7098674921,
+     "rank1": 347,
+     "names": [
+      "Łodygowa",
+      "Klamrowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); dalszy_ciag 190 m dalej, po drugiej stronie: Klamrowa (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "dalszy ciąg (CPR) na wprost 190 m dalej, niepołączony",
+      "duże skrzyżowanie: 2 ruchliwe ulice, 6 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.2880731,
+      21.0949698
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 405,
+   "kat": "K1",
+   "names": [
+    "Klamrowa",
+    "Łodygowa"
+   ],
+   "img": "img/0405.jpg"
+  },
+  {
+   "lat": 52.2864697,
+   "lon": 21.0768414,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.2864697,
+     "lon": 21.0768414,
+     "node": 7083800227,
+     "rank1": 811,
+     "names": [
+      "Łodygowa",
+      "Pszczyńska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 46 m dalej, po drugiej stronie: Łodygowa (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: DDR 46 m dalej, po infrze 210 m"
+     ],
+     "cel": [
+      52.2868839,
+      21.0767823
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 406,
+   "kat": "K1",
+   "names": [
+    "Pszczyńska",
+    "Łodygowa"
+   ],
+   "img": "img/0406.jpg"
+  },
+  {
+   "lat": 52.286612,
+   "lon": 21.0758495,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.286612,
+     "lon": 21.0758495,
+     "node": 2377927881,
+     "rank1": 1282,
+     "names": [
+      "Radzymińska",
+      "Łodygowa",
+      "Młodzieńcza",
+      "Chałupnicza"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 55 m dalej, po drugiej stronie: Chałupnicza (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.2863074,
+      21.0752046
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 407,
+   "kat": "K1",
+   "names": [
+    "Chałupnicza",
+    "Młodzieńcza",
+    "Radzymińska",
+    "Łodygowa"
+   ],
+   "img": "img/0407.jpg"
+  }
+ ]
+}

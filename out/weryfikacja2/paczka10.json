@@ -1,0 +1,1483 @@
+{
+ "paczka": 10,
+ "kandydaci": [
+  {
+   "lat": 52.3094061,
+   "lon": 20.9950495,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.3094061,
+     "lon": 20.9950495,
+     "node": 13227471446,
+     "rank1": 679,
+     "names": [],
+     "opis": "DDR kończy się (chodnik); drugi_koniec 66 m dalej, po drugiej stronie: Krzyżówki (unclassified)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "cel": [
+      52.3092382,
+      20.994123
+     ],
+     "werdykt_rundy1": "DDR łączy się z siecią ścieżek leśnych przy Wiśle."
+    }
+   ],
+   "id": 500,
+   "kat": "K2",
+   "names": [],
+   "img": "img/0500.jpg"
+  },
+  {
+   "lat": 52.3149442,
+   "lon": 21.0007831,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.3149442,
+     "lon": 21.0007831,
+     "node": 11947104970,
+     "rank1": null,
+     "names": [
+      "tertiary_link"
+     ],
+     "opis": "infra (DDR) przecina tertiary_link (tertiary_link) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 667,
+   "kat": "K3",
+   "names": [
+    "tertiary_link"
+   ],
+   "img": "img/0667.jpg"
+  },
+  {
+   "lat": 52.3150849,
+   "lon": 20.9768454,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.3150849,
+     "lon": 20.9768454,
+     "node": 3342677898,
+     "rank1": 940,
+     "names": [
+      "Modlińska"
+     ],
+     "opis": "CPR kończy się (jezdnia_spokojna); dalszy_ciag 93 m dalej, po drugiej stronie: Modlińska (primary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "dalszy ciąg (DDR) na wprost 93 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.3153356,
+      20.9755467
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 430,
+   "kat": "K1",
+   "names": [
+    "Modlińska"
+   ],
+   "img": "img/0430.jpg"
+  },
+  {
+   "lat": 52.3163683,
+   "lon": 20.9999867,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.3163683,
+     "lon": 20.9999867,
+     "node": 10582161016,
+     "rank1": 437,
+     "names": [
+      "Marywilska",
+      "Kupiecka"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 38 m dalej, po drugiej stronie: Kupiecka (residential), Marywilska (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: pas Marywilska 38 m dalej, po infrze 401 m"
+     ],
+     "cel": [
+      52.3162388,
+      20.9994672
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.3165468,
+     "lon": 20.999978,
+     "node": 10582161068,
+     "rank1": 437,
+     "names": [
+      "Marywilska",
+      "Kupiecka"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 46 m dalej, po drugiej stronie: Marywilska (tertiary), Kupiecka (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: pas Marywilska 46 m dalej, po infrze 471 m"
+     ],
+     "cel": [
+      52.3163653,
+      20.9993744
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 432,
+   "kat": "K1",
+   "names": [
+    "Kupiecka",
+    "Marywilska"
+   ],
+   "img": "img/0432.jpg"
+  },
+  {
+   "lat": 52.3173955,
+   "lon": 20.9752392,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.3173955,
+     "lon": 20.9752392,
+     "node": 4215150584,
+     "rank1": 706,
+     "names": [
+      "Modlińska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 49 m dalej, po drugiej stronie: residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: DDR 49 m dalej, po infrze nie da się dojechać (>900 m)"
+     ],
+     "cel": [
+      52.3177854,
+      20.974903
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 434,
+   "kat": "K1",
+   "names": [
+    "Modlińska"
+   ],
+   "img": "img/0434.jpg"
+  },
+  {
+   "lat": 52.3198231,
+   "lon": 20.9974022,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.3198231,
+     "lon": 20.9974022,
+     "node": 717718335,
+     "rank1": 750,
+     "names": [
+      "Marywilska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 35 m dalej, po drugiej stronie: Marywilska (tertiary), residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: pas Marywilska 35 m dalej, po infrze 156 m"
+     ],
+     "cel": [
+      52.3196509,
+      20.9969777
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 437,
+   "kat": "K1",
+   "names": [
+    "Marywilska"
+   ],
+   "img": "img/0437.jpg"
+  },
+  {
+   "lat": 52.3218277,
+   "lon": 20.9953991,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.3218277,
+     "lon": 20.9953991,
+     "node": 13658266136,
+     "rank1": null,
+     "names": [
+      "Marywilska"
+     ],
+     "opis": "infra (DDR) przecina Marywilska (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 670,
+   "kat": "K3",
+   "names": [
+    "Marywilska"
+   ],
+   "img": "img/0670.jpg"
+  },
+  {
+   "lat": 52.338896,
+   "lon": 20.9929148,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.338896,
+     "lon": 20.9929148,
+     "node": 11494895331,
+     "rank1": 116,
+     "names": [
+      "Bohaterów",
+      "Ołówkowa",
+      "Majorki"
+     ],
+     "opis": "DDR kończy się (chodnik); drugi_koniec 8 m dalej, po drugiej stronie: Bohaterów (tertiary)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 2 ruchliwe ulice, 0 przejść bez przejazdu w 45 m",
+      "wysepka infry, łącznie 8 m"
+     ],
+     "cel": [
+      52.3389415,
+      20.9928284
+     ],
+     "werdykt_rundy1": "Izolowany 8 m kawałek DDR na skrzyżowaniu na peryferiach, brak jakiejkolwiek sieci wokół; nie tworzy teleportu, dalej zwykła jezdnia"
+    },
+    {
+     "kat": "K2",
+     "lat": 52.3389415,
+     "lon": 20.9928284,
+     "node": 11494895333,
+     "rank1": 116,
+     "names": [
+      "Bohaterów",
+      "Ołówkowa",
+      "Majorki"
+     ],
+     "opis": "DDR kończy się (chodnik); drugi_koniec 8 m dalej, po drugiej stronie: Bohaterów (tertiary)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (path)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 2 ruchliwe ulice, 0 przejść bez przejazdu w 45 m",
+      "wysepka infry, łącznie 8 m"
+     ],
+     "cel": [
+      52.338896,
+      20.9929148
+     ],
+     "werdykt_rundy1": "Izolowany 8 m kawałek DDR na skrzyżowaniu na peryferiach, brak jakiejkolwiek sieci wokół; nie tworzy teleportu, dalej zwykła jezdnia"
+    },
+    {
+     "kat": "K3",
+     "lat": 52.3389182,
+     "lon": 20.9928699,
+     "node": 11494895332,
+     "rank1": null,
+     "names": [
+      "Bohaterów"
+     ],
+     "opis": "infra (DDR) przecina Bohaterów (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 503,
+   "kat": "K2+K3",
+   "names": [
+    "Bohaterów",
+    "Majorki",
+    "Ołówkowa"
+   ],
+   "img": "img/0503.jpg"
+  },
+  {
+   "lat": 52.3517932,
+   "lon": 20.9819498,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.3517932,
+     "lon": 20.9819498,
+     "node": 2432934898,
+     "rank1": null,
+     "names": [
+      "Józefa Mehoffera"
+     ],
+     "opis": "infra (DDR) przecina Józefa Mehoffera (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 680,
+   "kat": "K3",
+   "names": [
+    "Józefa Mehoffera"
+   ],
+   "img": "img/0680.jpg"
+  },
+  {
+   "lat": 52.1314125,
+   "lon": 21.0674654,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1314125,
+     "lon": 21.0674654,
+     "node": 2821815432,
+     "rank1": 748,
+     "names": [
+      "Wąwozowa",
+      "Melchiora Wańkowicza"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 36 m dalej, po drugiej stronie: Wąwozowa (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "TELEPORT: DDR 36 m dalej, po infrze 185 m"
+     ],
+     "cel": [
+      52.1310891,
+      21.0674478
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 18,
+   "kat": "K1",
+   "names": [
+    "Melchiora Wańkowicza",
+    "Wąwozowa"
+   ],
+   "img": "img/0018.jpg"
+  },
+  {
+   "lat": 52.1320117,
+   "lon": 21.0496842,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1320117,
+     "lon": 21.0496842,
+     "node": 5316798850,
+     "rank1": 975,
+     "names": [
+      "Wełniana",
+      "Guźca"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 132 m dalej, po drugiej stronie: Wełniana (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "dalszy ciąg (DDR) na wprost 132 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1326403,
+      21.0513291
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 19,
+   "kat": "K1",
+   "names": [
+    "Guźca",
+    "Wełniana"
+   ],
+   "img": "img/0019.jpg"
+  },
+  {
+   "lat": 52.1324305,
+   "lon": 21.0512406,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.1324305,
+     "lon": 21.0512406,
+     "node": 8341259884,
+     "rank1": 400,
+     "names": [
+      "Atłasowa",
+      "Muślinowa"
+     ],
+     "opis": "DDR kończy się (slepy); dalszy_ciag 69 m dalej, po drugiej stronie: Wełniana (residential)",
+     "reasons": [
+      "ślepy koniec – nic dalej (krzaki?)",
+      "dalszy ciąg (DDR) na wprost 69 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1318161,
+      21.0510828
+     ],
+     "werdykt_rundy1": "DDR dochodzi do ulicy osiedlowej Atlasowa, dalej jezdnia"
+    }
+   ],
+   "id": 456,
+   "kat": "K2",
+   "names": [
+    "Atłasowa",
+    "Muślinowa"
+   ],
+   "img": "img/0456.jpg"
+  },
+  {
+   "lat": 52.1333567,
+   "lon": 21.0748227,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1333567,
+     "lon": 21.0748227,
+     "node": 6146294958,
+     "rank1": 1233,
+     "names": [
+      "Relaksowa",
+      "Wąwozowa",
+      "Jana Rosoła"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 58 m dalej, po drugiej stronie: Jana Rosoła (residential), Gronostaja (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)"
+     ],
+     "cel": [
+      52.1334119,
+      21.0756734
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 22,
+   "kat": "K1",
+   "names": [
+    "Jana Rosoła",
+    "Relaksowa",
+    "Wąwozowa"
+   ],
+   "img": "img/0022.jpg"
+  },
+  {
+   "lat": 52.1343332,
+   "lon": 21.0748621,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1343332,
+     "lon": 21.0748621,
+     "node": 6146295012,
+     "rank1": 778,
+     "names": [
+      "Jana Rosoła"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 43 m dalej, po drugiej stronie: Jana Rosoła (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential, service)",
+      "TELEPORT: DDR 43 m dalej, po infrze 257 m"
+     ],
+     "cel": [
+      52.1341459,
+      21.0743157
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 25,
+   "kat": "K1",
+   "names": [
+    "Jana Rosoła"
+   ],
+   "img": "img/0025.jpg"
+  },
+  {
+   "lat": 52.1354749,
+   "lon": 21.0456646,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.1354749,
+     "lon": 21.0456646,
+     "node": 9841476146,
+     "rank1": null,
+     "names": [
+      "Gminna"
+     ],
+     "opis": "infra (CPR) przecina Gminna (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 510,
+   "kat": "K3",
+   "names": [
+    "Gminna"
+   ],
+   "img": "img/0510.jpg"
+  },
+  {
+   "lat": 52.1388428,
+   "lon": 21.0478191,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1388428,
+     "lon": 21.0478191,
+     "node": 764747576,
+     "rank1": 988,
+     "names": [
+      "Stryjeńskich"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 45 m dalej, po drugiej stronie: Stryjeńskich (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "dalszy ciąg (DDR) na wprost 142 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1392135,
+      21.0481061
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 26,
+   "kat": "K1",
+   "names": [
+    "Stryjeńskich"
+   ],
+   "img": "img/0026.jpg"
+  },
+  {
+   "lat": 52.1391877,
+   "lon": 21.0473979,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1391877,
+     "lon": 21.0473979,
+     "node": 12677600018,
+     "rank1": 1446,
+     "names": [
+      "Stryjeńskich"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 45 m dalej, po drugiej stronie: Stryjeńskich (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1394766,
+      21.0478683
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 27,
+   "kat": "K1",
+   "names": [
+    "Stryjeńskich"
+   ],
+   "img": "img/0027.jpg"
+  },
+  {
+   "lat": 52.1392135,
+   "lon": 21.0481061,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1392135,
+     "lon": 21.0481061,
+     "node": 12051899712,
+     "rank1": 875,
+     "names": [
+      "Stryjeńskich"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 173 m dalej, po drugiej stronie: Stryjeńskich (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "dalszy ciąg (DDR) na wprost 173 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1377129,
+      21.0488115
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 28,
+   "kat": "K1",
+   "names": [
+    "Stryjeńskich"
+   ],
+   "img": "img/0028.jpg"
+  },
+  {
+   "lat": 52.1405329,
+   "lon": 21.0462558,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1405329,
+     "lon": 21.0462558,
+     "node": 13239965465,
+     "rank1": 953,
+     "names": [
+      "Stryjeńskich",
+      "Na Uboczu"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 38 m dalej, po drugiej stronie: Stryjeńskich (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "wysepka infry, łącznie 38 m"
+     ],
+     "cel": [
+      52.1407034,
+      21.0467449
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 29,
+   "kat": "K1",
+   "names": [
+    "Na Uboczu",
+    "Stryjeńskich"
+   ],
+   "img": "img/0029.jpg"
+  },
+  {
+   "lat": 52.1407034,
+   "lon": 21.0467449,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1407034,
+     "lon": 21.0467449,
+     "node": 13239965399,
+     "rank1": 953,
+     "names": [
+      "Stryjeńskich",
+      "Na Uboczu"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 38 m dalej, po drugiej stronie: Stryjeńskich (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "wysepka infry, łącznie 38 m"
+     ],
+     "cel": [
+      52.1405329,
+      21.0462558
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 30,
+   "kat": "K1",
+   "names": [
+    "Na Uboczu",
+    "Stryjeńskich"
+   ],
+   "img": "img/0030.jpg"
+  },
+  {
+   "lat": 52.1425231,
+   "lon": 21.0317326,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1425231,
+     "lon": 21.0317326,
+     "node": 3445795181,
+     "rank1": 1196,
+     "names": [
+      "Indiry Gandhi",
+      "Rolna"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 85 m dalej, po drugiej stronie: Pustułeczki (residential), residential (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1432259,
+      21.0322337
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 31,
+   "kat": "K1",
+   "names": [
+    "Indiry Gandhi",
+    "Rolna"
+   ],
+   "img": "img/0031.jpg"
+  },
+  {
+   "lat": 52.1432259,
+   "lon": 21.0322337,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1432259,
+     "lon": 21.0322337,
+     "node": 4883378917,
+     "rank1": 1108,
+     "names": [
+      "Indiry Gandhi",
+      "Pustułeczki",
+      "Rolna",
+      "Alternatywy"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 85 m dalej, po drugiej stronie: residential (residential), Rolna (residential), Pustułeczki (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1425231,
+      21.0317326
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.143241,
+     "lon": 21.0321781,
+     "node": 8038197618,
+     "rank1": 1108,
+     "names": [
+      "Indiry Gandhi",
+      "Pustułeczki",
+      "Rolna",
+      "Alternatywy"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 85 m dalej, po drugiej stronie: residential (residential), Rolna (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1425231,
+      21.0317326
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 32,
+   "kat": "K1",
+   "names": [
+    "Alternatywy",
+    "Indiry Gandhi",
+    "Pustułeczki",
+    "Rolna"
+   ],
+   "img": "img/0032.jpg"
+  },
+  {
+   "lat": 52.1437206,
+   "lon": 21.0386963,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1437206,
+     "lon": 21.0386963,
+     "node": 6806766993,
+     "rank1": 776,
+     "names": [
+      "Rotmistrza Witolda Pileckiego"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 42 m dalej, po drugiej stronie: Rotmistrza Witolda Pileckiego (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR 42 m dalej, po infrze 253 m"
+     ],
+     "cel": [
+      52.1436354,
+      21.0380994
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 34,
+   "kat": "K1",
+   "names": [
+    "Rotmistrza Witolda Pileckiego"
+   ],
+   "img": "img/0034.jpg"
+  },
+  {
+   "lat": 52.1465407,
+   "lon": 21.0403768,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.1465407,
+     "lon": 21.0403768,
+     "node": 1875213411,
+     "rank1": 66,
+     "names": [
+      "Indiry Gandhi"
+     ],
+     "opis": "przejazd kończy się (przejscie_bez_przejazdu); drugi_koniec 35 m dalej, po drugiej stronie: Indiry Gandhi (tertiary)",
+     "reasons": [
+      "kończy się na przejściu dla pieszych bez przejazdu rowerowego",
+      "dalszy ciąg (pas) na wprost 186 m dalej, niepołączony",
+      "duże skrzyżowanie: 1 ruchliwe ulice, 3 przejść bez przejazdu w 45 m",
+      "wysepka infry, łącznie 42 m"
+     ],
+     "cel": [
+      52.1467893,
+      21.0400551
+     ],
+     "werdykt_rundy1": "Krótki przejazd przez Indiry Gandhi kończy się na parkingu/drodze osiedlowej po obu stronach, dalej jedzie się jezdnią"
+    }
+   ],
+   "id": 457,
+   "kat": "K2",
+   "names": [
+    "Indiry Gandhi"
+   ],
+   "img": "img/0457.jpg"
+  },
+  {
+   "lat": 52.1467893,
+   "lon": 21.0400551,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.1467893,
+     "lon": 21.0400551,
+     "node": 9841394169,
+     "rank1": 66,
+     "names": [
+      "Indiry Gandhi"
+     ],
+     "opis": "przejazd kończy się (chodnik); dalszy_ciag 199 m dalej, po drugiej stronie: residential (residential), Dereniowa (unclassified)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway, sidewalk)",
+      "dalszy ciąg (pas) na wprost 199 m dalej, niepołączony",
+      "duże skrzyżowanie: 1 ruchliwe ulice, 3 przejść bez przejazdu w 45 m",
+      "wysepka infry, łącznie 42 m"
+     ],
+     "cel": [
+      52.1484303,
+      21.0412443
+     ],
+     "werdykt_rundy1": "Krótki przejazd przez Indiry Gandhi kończy się na parkingu/drodze osiedlowej po obu stronach, dalej jedzie się jezdnią"
+    }
+   ],
+   "id": 458,
+   "kat": "K2",
+   "names": [
+    "Indiry Gandhi"
+   ],
+   "img": "img/0458.jpg"
+  },
+  {
+   "lat": 52.1498203,
+   "lon": 21.0618104,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1498203,
+     "lon": 21.0618104,
+     "node": 8811541041,
+     "rank1": 1339,
+     "names": [
+      "Południowa Obwodnica Warszawy",
+      "Adama Branickiego",
+      "Nowoursynowska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 76 m dalej, po drugiej stronie: Południowa Obwodnica Warszawy (motorway), Adama Branickiego (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1503593,
+      21.0611176
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 37,
+   "kat": "K1",
+   "names": [
+    "Adama Branickiego",
+    "Nowoursynowska",
+    "Południowa Obwodnica Warszawy"
+   ],
+   "img": "img/0037.jpg"
+  },
+  {
+   "lat": 52.1503593,
+   "lon": 21.0611176,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1503593,
+     "lon": 21.0611176,
+     "node": 8804006398,
+     "rank1": 114,
+     "names": [
+      "Adama Branickiego",
+      "Kokosowa",
+      "Nowoursynowska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 5 m dalej, po drugiej stronie: Kokosowa (residential), Nowoursynowska (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: kontraruch Kokosowa 5 m dalej, po infrze nie da się dojechać (>900 m)"
+     ],
+     "cel": [
+      52.1503893,
+      21.0611706
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 38,
+   "kat": "K1",
+   "names": [
+    "Adama Branickiego",
+    "Kokosowa",
+    "Nowoursynowska"
+   ],
+   "img": "img/0038.jpg"
+  },
+  {
+   "lat": 52.152233,
+   "lon": 21.0560746,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.152233,
+     "lon": 21.0560746,
+     "node": 783666989,
+     "rank1": 1467,
+     "names": [
+      "Jana Rosoła",
+      "Wesoła"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 87 m dalej, po drugiej stronie: Jana Rosoła (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1529865,
+      21.0564283
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 41,
+   "kat": "K1",
+   "names": [
+    "Jana Rosoła",
+    "Wesoła"
+   ],
+   "img": "img/0041.jpg"
+  },
+  {
+   "lat": 52.1529865,
+   "lon": 21.0564283,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1529865,
+     "lon": 21.0564283,
+     "node": 8936690946,
+     "rank1": 1342,
+     "names": [
+      "Jana Rosoła",
+      "Panoramiczna"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 87 m dalej, po drugiej stronie: residential (residential), Wesoła (residential), Jana Rosoła (secondary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (living_street)"
+     ],
+     "cel": [
+      52.152233,
+      21.0560746
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 43,
+   "kat": "K1",
+   "names": [
+    "Jana Rosoła",
+    "Panoramiczna"
+   ],
+   "img": "img/0043.jpg"
+  },
+  {
+   "lat": 52.1613681,
+   "lon": 21.0708312,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1613681,
+     "lon": 21.0708312,
+     "node": 778785789,
+     "rank1": 781,
+     "names": [
+      "Aleja Rzeczypospolitej"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); luka 46 m dalej, po drugiej stronie: Aleja Rzeczypospolitej (tertiary)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "TELEPORT: DDR 46 m dalej, po infrze 306 m"
+     ],
+     "cel": [
+      52.1615383,
+      21.0714479
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 55,
+   "kat": "K1",
+   "names": [
+    "Aleja Rzeczypospolitej"
+   ],
+   "img": "img/0055.jpg"
+  },
+  {
+   "lat": 52.1646283,
+   "lon": 21.0362094,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.1646283,
+     "lon": 21.0362094,
+     "node": 4223264075,
+     "rank1": null,
+     "names": [
+      "Dezyderego Adama Chłapowskiego"
+     ],
+     "opis": "infra (przejazd) przecina Dezyderego Adama Chłapowskiego (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 522,
+   "kat": "K3",
+   "names": [
+    "Dezyderego Adama Chłapowskiego"
+   ],
+   "img": "img/0522.jpg"
+  },
+  {
+   "lat": 52.1691936,
+   "lon": 21.0638303,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1691936,
+     "lon": 21.0638303,
+     "node": 10697931765,
+     "rank1": 993,
+     "names": [
+      "Zdrowa"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 146 m dalej, po drugiej stronie: Zdrowa (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "dalszy ciąg (DDR/CPR) na wprost 146 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1700925,
+      21.0622688
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 74,
+   "kat": "K1",
+   "names": [
+    "Zdrowa"
+   ],
+   "img": "img/0074.jpg"
+  },
+  {
+   "lat": 52.1699428,
+   "lon": 21.0637232,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1699428,
+     "lon": 21.0637232,
+     "node": 11923269263,
+     "rank1": 954,
+     "names": [
+      "Zdrowa",
+      "Arbuzowa"
+     ],
+     "opis": "DDR/CPR kończy się (jezdnia_spokojna); dalszy_ciag 111 m dalej, po drugiej stronie: Arbuzowa (residential), Aleja Wilanowska (secondary), Zdrowa (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "dalszy ciąg (DDR/CPR) na wprost 111 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.1704112,
+      21.0651712
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 78,
+   "kat": "K1",
+   "names": [
+    "Arbuzowa",
+    "Zdrowa"
+   ],
+   "img": "img/0078.jpg"
+  },
+  {
+   "lat": 52.1700983,
+   "lon": 21.0411535,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.1700983,
+     "lon": 21.0411535,
+     "node": 2523739250,
+     "rank1": 4,
+     "names": [
+      "Dolina Służewiecka",
+      "Nowoursynowska",
+      "Fosa"
+     ],
+     "opis": "DDR/CPR kończy się (chodnik); drugi_koniec 19 m dalej, po drugiej stronie: Fosa (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (sidewalk)",
+      "TELEPORT: DDR 3 m dalej, po infrze nie da się dojechać (>900 m)",
+      "duże skrzyżowanie: 3 ruchliwe ulice, 0 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.1700604,
+      21.0414204
+     ],
+     "werdykt_rundy1": "DDR przecina chodnik i prowadzi dalej do osiedlowej alejki; koniec na drodze/ścieżce osiedlowej"
+    },
+    {
+     "kat": "K2",
+     "lat": 52.1701214,
+     "lon": 21.0411401,
+     "node": 2716202101,
+     "rank1": 4,
+     "names": [
+      "Dolina Służewiecka",
+      "Nowoursynowska",
+      "Fosa"
+     ],
+     "opis": "DDR kończy się (chodnik); drugi_koniec 20 m dalej, po drugiej stronie: Fosa (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (sidewalk)",
+      "TELEPORT: DDR/CPR 3 m dalej, po infrze nie da się dojechać (>900 m)",
+      "duże skrzyżowanie: 3 ruchliwe ulice, 1 przejść bez przejazdu w 45 m",
+      "wysepka infry, łącznie 23 m"
+     ],
+     "cel": [
+      52.1700604,
+      21.0414204
+     ],
+     "werdykt_rundy1": "DDR przecina chodnik i prowadzi dalej do osiedlowej alejki; koniec na drodze/ścieżce osiedlowej"
+    },
+    {
+     "kat": "K3",
+     "lat": 52.1700316,
+     "lon": 21.040861,
+     "node": 2523739238,
+     "rank1": null,
+     "names": [
+      "Nowoursynowska"
+     ],
+     "opis": "infra (przejazd) przecina Nowoursynowska (tertiary) – otagowane jako sama zebra (bez kostki przejazdu)",
+     "reasons": [
+      "otagowane jako sama zebra (bez kostki przejazdu)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 459,
+   "kat": "K2+K3",
+   "names": [
+    "Dolina Służewiecka",
+    "Fosa",
+    "Nowoursynowska"
+   ],
+   "img": "img/0459.jpg"
+  },
+  {
+   "lat": 52.170995,
+   "lon": 21.0613865,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.170995,
+     "lon": 21.0613865,
+     "node": 11663256776,
+     "rank1": 314,
+     "names": [
+      "Aleja Wilanowska"
+     ],
+     "opis": "DDR kończy się (chodnik); dalszy_ciag 101 m dalej, po drugiej stronie: residential (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "bariera: gate",
+      "dalszy ciąg (DDR/CPR) na wprost 101 m dalej, niepołączony",
+      "duże skrzyżowanie: 1 ruchliwe ulice, 2 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.1701165,
+      21.0617824
+     ],
+     "werdykt_rundy1": "Odnoga DDR dochodzi do parkingu pod blokiem, droga wewnetrzna"
+    }
+   ],
+   "id": 461,
+   "kat": "K2",
+   "names": [
+    "Aleja Wilanowska"
+   ],
+   "img": "img/0461.jpg"
+  },
+  {
+   "lat": 52.1721298,
+   "lon": 21.0261107,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.1721298,
+     "lon": 21.0261107,
+     "node": 2716008486,
+     "rank1": 153,
+     "names": [
+      "Aleja Harcerzy Rzeczypospolitej"
+     ],
+     "opis": "CPR kończy się (chodnik); luka 28 m dalej, po drugiej stronie: Aleja Harcerzy Rzeczypospolitej (tertiary)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway, sidewalk)",
+      "TELEPORT: DDR 28 m dalej, po infrze 523 m"
+     ],
+     "cel": [
+      52.1721393,
+      21.0265163
+     ],
+     "werdykt_rundy1": "Zachodni CPR kończy się przy wjeździe na parking centrum handlowego (droga wewnętrzna), dalej można jechać parkingiem; DDR po drugiej stronie osobna"
+    }
+   ],
+   "id": 462,
+   "kat": "K2",
+   "names": [
+    "Aleja Harcerzy Rzeczypospolitej"
+   ],
+   "img": "img/0462.jpg"
+  },
+  {
+   "lat": 52.1736353,
+   "lon": 21.0442211,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.1736353,
+     "lon": 21.0442211,
+     "node": 13066243551,
+     "rank1": 595,
+     "names": [
+      "Dolina Służewiecka",
+      "Fosa"
+     ],
+     "opis": "CPR kończy się (chodnik); drugi_koniec 9 m dalej, po drugiej stronie: Fosa (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (sidewalk)",
+      "bariera: kerb",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "cel": [
+      52.1736325,
+      21.0443529
+     ],
+     "werdykt_rundy1": "CPR kończy się na placu/zatoce parkingowej przy ulicy, dalej jezdnia/plac."
+    }
+   ],
+   "id": 463,
+   "kat": "K2",
+   "names": [
+    "Dolina Służewiecka",
+    "Fosa"
+   ],
+   "img": "img/0463.jpg"
+  },
+  {
+   "lat": 52.1738486,
+   "lon": 21.0677836,
+   "punkty": [
+    {
+     "kat": "K2",
+     "lat": 52.1738486,
+     "lon": 21.0677836,
+     "node": 10111123139,
+     "rank1": 106,
+     "names": [
+      "Radosna"
+     ],
+     "opis": "DDR/CPR kończy się (chodnik); drugi_koniec 23 m dalej, po drugiej stronie: Radosna (residential)",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "TELEPORT: DDR/CPR 46 m dalej, po infrze nie da się dojechać (>900 m)"
+     ],
+     "cel": [
+      52.1740193,
+      21.0679871
+     ],
+     "werdykt_rundy1": "Odnoga konczy sie na ulicy osiedlowej Radosna, dalej jedzie sie jezdnia"
+    }
+   ],
+   "id": 464,
+   "kat": "K2",
+   "names": [
+    "Radosna"
+   ],
+   "img": "img/0464.jpg"
+  },
+  {
+   "lat": 52.1750454,
+   "lon": 21.0618782,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.1750454,
+     "lon": 21.0618782,
+     "node": 2657482140,
+     "rank1": 1098,
+     "names": [
+      "Jana III Sobieskiego",
+      "Nałęczowska",
+      "Śródziemnomorska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 14 m dalej, po drugiej stronie: Śródziemnomorska (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1751611,
+      21.0619612
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.1751611,
+     "lon": 21.0619612,
+     "node": 13273936080,
+     "rank1": 1098,
+     "names": [
+      "Jana III Sobieskiego",
+      "Nałęczowska",
+      "Śródziemnomorska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 14 m dalej, po drugiej stronie: Śródziemnomorska (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)"
+     ],
+     "cel": [
+      52.1750454,
+      21.0618782
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 87,
+   "kat": "K1",
+   "names": [
+    "Jana III Sobieskiego",
+    "Nałęczowska",
+    "Śródziemnomorska"
+   ],
+   "img": "img/0087.jpg"
+  },
+  {
+   "lat": 52.175501,
+   "lon": 21.0631368,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.175501,
+     "lon": 21.0631368,
+     "node": 13273935849,
+     "rank1": 353,
+     "names": [
+      "Jana III Sobieskiego",
+      "Nałęczowska"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 16 m dalej, po drugiej stronie: Nałęczowska (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "duże skrzyżowanie: 2 ruchliwe ulice, 4 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.1756289,
+      21.0632396
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    },
+    {
+     "kat": "K1",
+     "lat": 52.1756289,
+     "lon": 21.0632396,
+     "node": 3773696421,
+     "rank1": 353,
+     "names": [
+      "Jana III Sobieskiego",
+      "Nałęczowska"
+     ],
+     "opis": "DDR kończy się (jezdnia_ruchliwa); drugi_koniec 16 m dalej, po drugiej stronie: Nałęczowska (tertiary)",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "duże skrzyżowanie: 2 ruchliwe ulice, 3 przejść bez przejazdu w 45 m"
+     ],
+     "cel": [
+      52.175501,
+      21.0631368
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 88,
+   "kat": "K1",
+   "names": [
+    "Jana III Sobieskiego",
+    "Nałęczowska"
+   ],
+   "img": "img/0088.jpg"
+  }
+ ]
+}
