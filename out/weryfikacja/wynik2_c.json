@@ -1,0 +1,266 @@
+[
+ {
+  "rank": 348,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   1483300604
+  ],
+  "komentarz": "Krótki DDR w lesie/zaroślach, urywa się w drzewach przy ścieżce; zasłonięte, nie widać dalszego ciągu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 360,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   12181018245
+  ],
+  "komentarz": "Przejazd rowerowy kończy się na narożniku chodnika przy Rotundzie; pas Alej (niebieski) zaczyna się obok, ale dojazd tylko przez przejście dla pieszych/chodnik",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 376,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR wzdłuż wału łączy się z odnogą w stronę ulicy, a ścieżka gruntowa widocznie ciągnie się dalej do mostu; w OSM brak",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 379,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   8225499821
+  ],
+  "komentarz": "DDR kończy się na chodniku przy Solcu; DDR po drugiej stronie szerokiej trasy bez przejścia/przejazdu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 383,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Dziwne pętle DDR w lesie przy placu zabaw, to artefakt/śmieć w OSM, nie realny koniec infry; CPR na wale obok jest ciągły",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 394,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR kończy się przy skrzyżowaniu spokojnych ulic osiedlowych; dalej jezdnią, brak realnego problemu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 396,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   9850235148
+  ],
+  "komentarz": "DDR + przejazd kończą się na narożniku chodnika dużego skrzyżowania Annopol/Daniszewska, dalej tylko chodnik wzdłuż jezdni",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 401,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR łączy się krótką odnogą z szeroką promenadą nadwiślańską z dopuszczonym ruchem rowerów; sensowne połączenie",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 410,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   13230219919
+  ],
+  "komentarz": "DDR urywa się na łące przy wale, dalej tylko ścieżki gruntowe/udeptane; DDR przy trasie szybkiego ruchu po drugiej stronie niedostępny",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 411,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   266864382
+  ],
+  "komentarz": "DDR w parku pod drzewami kończy się na skrzyżowaniu parkowych ścieżek pieszych; do kładki nad trasą prowadzi ścieżka, ale nawierzchnia/dopuszczenie rowerów niewidoczne",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 416,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   12068382808
+  ],
+  "komentarz": "Plac budowy osiedla, zdjęcie nieaktualne; DDR urywa się przy budynku w trakcie budowy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 418,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR kończy się wjazdem na wąską drogę dojazdową do domów/skraju lasu, dalej jezdnią; brak teleportu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 419,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   11516620398
+  ],
+  "komentarz": "Przejazd rowerowy przez Marszałkowską kończy się na narożniku chodnika; dalszy DDR po drugiej stronie Widoku osiągalny tylko przez przejście dla pieszych bez przejazdu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 420,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   9906288300
+  ],
+  "komentarz": "Krótka odnoga CPR przy budowie nowego mostu/kładki, plac budowy, stare zdjęcie; nie da się ocenić",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 421,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   213964658
+  ],
+  "komentarz": "DDR wzdłuż Al. Niepodległości urywa się na wjeździe na stację paliw (przejście bez przejazdu), dalej tylko wąski chodnik przy ruchliwej ulicy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 448,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd rowerowy przecina jezdnię i styka się z pasem rowerowym Międzyparkowej tuż obok; końcówka po zachodniej stronie to tylko zbędny stub",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 450,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd przez Świętokrzyską łączy się łukiem z pasem rowerowym; krótka końcówka w stronę skweru to zbędny stub, nie teleport",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 452,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   9164761167
+  ],
+  "komentarz": "DDR z przejazdem przez Al. Niepodległości kończy się na zachodnim chodniku/skrzyżowaniu ścieżek pieszych, dalej brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 453,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR z przejazdem przez Czackiego łączy się z pasem rowerowym Świętokrzyskiej; końcówka na rogu tuż przy pasie, zjazd na jezdnię możliwy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 454,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3863631613
+  ],
+  "komentarz": "DDR południową stroną Al. Armii Ludowej urywa się po przejeździe na rogu, dalej tylko chodnik przy ruchliwej arterii",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 456,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Boczna odnoga z przejazdem przez Andersa kończy się przy bloku osiedlowym/drodze wewnętrznej; główna DDR po zachodniej stronie ciągła, brak przerwy w trasie",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 458,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR kończy się za przejazdem na rogu spokojnej ulicy osiedlowej, dalej jezdnią (zjazd/nisko obok); brak infry do której trzeba dojechać",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 460,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   13171543025
+  ],
+  "komentarz": "Duży plac budowy (przebudowa ulicy), zdjęcie z czasu budowy; stan docelowy nieznany",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 461,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR kończy się na rogu spokojnej ulicy Zatylnej/parkingu osiedlowego, dalej jezdnią osiedlową",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 464,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   5156600730
+  ],
+  "komentarz": "DDR wzdłuż Ostródzkiej kończy się na przejściu dla pieszych bez przejazdu; dalej tylko chodnik, DDR dopiero ok. 125 m dalej bez połączenia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 472,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR wychodzi z przejścia podziemnego i kończy się na ścieżkach osiedlowych przy blokach; dalej drogą osiedlową, brak innej infry do której nie da się dojechać",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 473,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1876975318
+  ],
+  "komentarz": "DDR wzdłuż Ostródzkiej kończy się przed mostkiem, dalej tylko wąski chodnik (zakaz rowerów) do skrzyżowania z Mochtyńską",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 479,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1839966233
+  ],
+  "komentarz": "DDR wzdłuż Modlińskiej kończy się na narożniku skrzyżowania z Familijną; dalej wzdłuż Modlińskiej tylko chodnik/ścieżka piesza (krótki czerwony fragment w bok niczego nie łączy)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 482,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krótka odnoga DDR do parkingu P+R / wiaty rowerowej przy stacji, kończy się na terenie parkingu; główna DDR (niebieski pas) ciągła obok",
+  "obrazek_widziany": true
+ }
+]

@@ -1,0 +1,316 @@
+[
+ {
+  "rank": 559,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Ścieżka w parku kończy się na szerokim utwardzonym chodniku parkowym, brak infry dalej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 595,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "CPR kończy się na placu/zatoce parkingowej przy ulicy, dalej jezdnia/plac.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 626,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR kończy się w parku osiedlowym na ścieżkach, dalej drogi osiedlowe.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 628,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   9566721764
+  ],
+  "komentarz": "DDR wzdłuż ruchliwej ulicy urywa się w zaroślach przy chodniku, bez zjazdu i bez ciągu dalszego.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 629,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Koniec drogi rowerowej osiedla przy słupkach, dalej droga gruntowa/teren niezabudowany.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 630,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Rampa kładki kończy się nawrotką i ścieżką gruntową do lasu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 642,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Odnoga DDR na osiedlową ścieżkę/parking, główny DDR biegnie dalej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 645,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Droga rowerowa kończy się przy ślepej ulicy osiedlowej, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 646,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR kończy się przy przejściu na przystanku, dalej nie ma żadnej infry; wjazd na jezdnię.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 647,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Ścieżka parkowa łączy się z alejką wokół stawu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 648,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Przejazd rowerowy prowadzi na chodnik po północnej stronie wiejskiej ulicy, główny DDR biegnie dalej po południowej; drobna niedogodność, nie teleport.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 650,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   9164768996
+  ],
+  "komentarz": "DDR kończy się przy placu budowy, zdjęcie może być nieaktualne.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 651,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR kończy się na końcu ślepej ulicy osiedlowej przy nieużytkach.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 658,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR kończy się przy parkingu/drodze osiedlowej, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 659,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "CPR kończy się na pętli/parkingu przy stacji, nawierzchnia przejezdna.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 663,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "CPR kończy się przy ulicy serwisowej/parkingu, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 673,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   12160550151
+  ],
+  "komentarz": "Teren budowy, droga rowerowa prawdopodobnie jeszcze nie zbudowana na zdjęciu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 674,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Krótka odnoga DDR do alejki parkowej, główny DDR biegnie dalej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 678,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "CPR kończy się na rogu parkingu osiedlowego, dalej droga osiedlowa.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 679,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR łączy się z siecią ścieżek leśnych przy Wiśle.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 682,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR skręca w przejazd rowerowy i biegnie dalej na wschód.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 686,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   13895264520
+  ],
+  "komentarz": "DDR wzdłuż Postępu w pasie zieleni, na zdjęciu brak widocznej nawierzchni (nowa budowa / stare zdjęcie).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 689,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Węzeł połączenia chodnika z DDR, DDR biegnie dalej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 690,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Węzeł połączenia chodnika z DDR, DDR biegnie dalej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 736,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "CPR wchodzi na kładkę z dopuszczonym ruchem rowerów.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 752,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Odnoga CPR w stronę ścieżki nadrzecznej, główne DDR-y biegną obok.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 753,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   3228910686
+  ],
+  "komentarz": "DDR przechodzi przez duże skrzyżowanie po przejściach bez przejazdu i kończy się na wyspie/chodniku przy Wybrzeżu Szczecińskim.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 760,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1362434460
+  ],
+  "komentarz": "DDR kończy się na szerokim chodniku/promenadzie przy torowisku, dalej trzeba jechać po chodniku do przejazdu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 762,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Ścieżka parkowa łączy się z alejką parkową.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 764,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Krótka odnoga DDR na plac przed budynkiem.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 766,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2360639668
+  ],
+  "komentarz": "Odnoga DDR przecina jezdnię po zwykłym przejściu bez przejazdu i kończy się przy torowisku/chodniku.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 768,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Krótka odnoga DDR do ścieżki parkowej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 770,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   13301350346
+  ],
+  "komentarz": "Przejazd/DDR przez jezdnię kończy się przy placu budowy, na zdjęciu brak nawierzchni (budowa).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 771,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   11832947155
+  ],
+  "komentarz": "Przejazd/DDR przez jezdnię kończy się przy placu budowy, na zdjęciu brak nawierzchni (budowa).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 772,
+  "werdykt": "blad_mapy",
+  "nodes": [],
+  "komentarz": "Kikut DDR przy przejściu, na zdjęciu przejazd rowerowy przez jezdnię jest namalowany, w OSM brak połączenia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 789,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR kończy się na drodze serwisowej, dalej jezdnią.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 848,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "DDR kończy się na spokojnej ulicy osiedlowej, wjazd na jezdnię.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 849,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "CPR kończy się na osiedlowej ulicy serwisowej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 878,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Koniec na Placu Zamkowym, strefa pieszo-rowerowa.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 961,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Odnoga łączy się z bulwarem, rowery dopuszczone.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 962,
+  "werdykt": "ok",
+  "nodes": [],
+  "komentarz": "Odnoga łączy się z bulwarem, rowery dopuszczone.",
+  "obrazek_widziany": true
+ }
+]
