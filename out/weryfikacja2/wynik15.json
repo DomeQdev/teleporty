@@ -1,0 +1,282 @@
+[
+ {
+  "id": 151,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Wał Miedzeszyński: DDR po wschodniej stronie urywa się przy jezdni/chodniku, ciągła DDR jest po zachodniej stronie 6-pasmowej ulicy, bez przejazdu rowerowego."
+ },
+ {
+  "id": 152,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Wał Miedzeszyński: wschodnia DDR poszarpana (przerwa na chodniku), właściwa DDR po zachodniej stronie za szeroką jezdnią; tylko zebra przy skrzyżowaniu."
+ },
+ {
+  "id": 153,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Wał Miedzeszyński/Bronowska: DDR kończy się na chodniku, dalej trzeba chodnikiem lub przez dwujezdniową ulicę na DDR po zachodniej stronie; tylko zebra."
+ },
+ {
+  "id": 156,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Wał Miedzeszyński/Bronowska: DDR urywa się przy jezdni, dalej na północ sam chodnik; DDR po drugiej stronie wielopasmówki, brak przejazdu."
+ },
+ {
+  "id": 194,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Kadetów/Wał Miedzeszyński: DDR kończy się na chodniku SE skrzyżowania, dalej chodnik; ciągła DDR po zachodniej stronie za jezdnią."
+ },
+ {
+  "id": 197,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Kadetów/Wał Miedzeszyński: DDR kończy się przy jezdni na chodniku, dalej DDR dopiero po drugiej stronie Wału, bez przejazdu."
+ },
+ {
+  "id": 585,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Sęczkowa przy rondzie: DDR na obu stronach wlotu, ale w terenie zwykła zebra, bez czerwonego asfaltu i kostki."
+ },
+ {
+  "id": 589,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Kadetów: zebra z wyspą, DDR tylko po południowej stronie, po północnej tylko dzika ścieżka przez łąkę; brak realnej DDR po drugiej stronie."
+ },
+ {
+  "id": 682,
+  "werdykt": "teleport",
+  "typ": "chodnik_rower_dopuszczony",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy zakręcie drogi serwisowej, dalej dukt/ścieżka (bicycle=yes) przez zarośla parku; nieruchliwa ulica, słaby przypadek."
+ },
+ {
+  "id": 243,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Abrahama: DDR od południa po zachodniej stronie kończy się na jezdni, pas rowerowy zaczyna się po wschodniej stronie jezdni, bez przejazdu."
+ },
+ {
+  "id": 249,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na osiedlowym parkingu; ciąg dalszy DDR dopiero po drugiej stronie Kapelanów AK, bez przejazdu (parking+dojazd, 40 m)."
+ },
+ {
+  "id": 250,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Kapelanów AK: DDR od wschodu (park) zaczyna się przy jezdni, po zachodniej stronie DDR kończy się na parkingu; w poprzek jezdni brak przejazdu (zebry dopiero 100 m dalej)."
+ },
+ {
+  "id": 601,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie wzdłuż Okulickiego i przecina wylot bocznej ulicy bez oznaczeń; zwykłe skrzyżowanie podporządkowane, DDR ciągła po obu stronach."
+ },
+ {
+  "id": 603,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skalskiego: przy zebrze na bocznej ulicy widać obok rząd kwadratów przejazdu rowerowego (DDR ciągła); w OSM brak tagów przejazdu. Niepewność umiarkowana (cień)."
+ },
+ {
+  "id": 604,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Nowaka-Jeziorańskiego: w terenie czerwony przejazd rowerowy z kostką obok zebry, w OSM brak tagów przejazdu."
+ },
+ {
+  "id": 605,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo Kapelanów AK: DDR przechodzi wlot południowo-wschodni po zwykłej zebrze (bez czerwonego asfaltu), podczas gdy pozostałe wloty mają czerwone przejazdy."
+ },
+ {
+  "id": 606,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła wzdłuż ulicy, przecina tylko dojazd osiedlowy do parkingu; zwykły wjazd, brak problemu."
+ },
+ {
+  "id": 607,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Fieldorfa/Nowaka-Jeziorańskiego: przy zebrze na południowym wlocie widać rząd kwadratów przejazdu rowerowego obok zebry; w OSM brak tagów. Umiarkowana pewność."
+ },
+ {
+  "id": 608,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodni wlot (Nowaka-Jeziorańskiego) na skrzyżowaniu z Fieldorfa: DDR przecina jezdnię po zwykłej zebrze, bez czerwonego przejazdu ani kostek."
+ },
+ {
+  "id": 609,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodni wlot Nowaka-Jeziorańskiego: DDR przecina jezdnię po zwykłej zebrze, bez czerwonego asfaltu i kostek."
+ },
+ {
+  "id": 610,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo przy Nowaka-Jeziorańskiego: zebra przy rondzie, ale DDR właściwa biegnie po południowej stronie; północna odnoga to tylko krótki dojazd do ulicy bocznej, brak realnej DDR do osiągnięcia."
+ },
+ {
+  "id": 611,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Fieldorfa: przejście DDR po stronie północnej skrzyżowania ma obok zebry rząd kwadratów (przejazd rowerowy), DDR po obu stronach ciągła; w OSM brak tagów. Pewność umiarkowana."
+ },
+ {
+  "id": 612,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Lotnicza: ciąg rowerowy po obu stronach, przejście przez jezdnię tylko po zwykłej zebrze przy wjeździe do parkingu, bez czerwonego przejazdu."
+ },
+ {
+  "id": 267,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Ostrobramska/Filomatów: DDR po północnej stronie urywa się przy wylocie ulicy bocznej, kolejna DDR po południowej stronie dwujezdniowej ulicy z torowiskiem, brak przejazdu."
+ },
+ {
+  "id": 270,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Kinowa/Górnicza: DDR po zakręcie z przejazdami żółtymi wpuszcza na jezdnię Górniczej; naturalna kontynuacja to jazda jezdnią, brak DDR po drugiej stronie, którą trzeba dobić."
+ },
+ {
+  "id": 272,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Kinowa/Górnicza: koniec odnogi DDR wpuszcza na jezdnię Górniczej (kierunek jazdy), brak DDR po drugiej stronie."
+ },
+ {
+  "id": 278,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Grenadierów/Majdańska: krótka odnoga DDR kończy się na osiedlowym parkingu; druga strona to inna odnoga, brak sensownej trasy do dobicia przez jezdnię."
+ },
+ {
+  "id": 614,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Duże skrzyżowanie Grenadierów: wszystkie przejścia dla DDR mają czerwone przejazdy rowerowe obok zebr; w OSM brak tagów przejazdu."
+ },
+ {
+  "id": 615,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Grenadierów: pas rowerowy kończy się przed skrzyżowaniem i wpuszcza na jezdnię/skrzyżowanie, połączenie z DDR to artefakt OSM; naturalna kontynuacja to jazda jezdnią lub przejazdy czerwone z sąsiedniego punktu."
+ },
+ {
+  "id": 636,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dźwińska: DDR biegnie wzdłuż ulicy i przecina tylko wylot nieutwardzonej drogi bocznej; DDR ciągła po obu stronach."
+ },
+ {
+  "id": 637,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Chełmżyńska: stare zdjęcie, DDR/CPR (węzeł) jeszcze niewybudowana, widać tylko trawy i krzaki; nie da się ocenić przejścia."
+ },
+ {
+  "id": 640,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Chełmżyńska: jak 637, infrastruktura nie widoczna na zdjęciu (stary stan, niewybudowana), nie da się ocenić."
+ },
+ {
+  "id": 642,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Nieświeska: DDR ciągła wzdłuż ulicy przecina wylot bocznej drogi bez oznaczeń; zwykłe skrzyżowanie podporządkowane."
+ },
+ {
+  "id": 401,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Łodygowa/Ogrodowa: krótkie jednokierunkowe odcinki cycleway przy zjazdach na ulice podporządkowane/serwisowe, brak DDR po drugiej stronie do dobicia; kończą się na spokojnych ulicach."
+ },
+ {
+  "id": 402,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Łodygowa: jak 401, krótkie odcinki oneway przy wlotach ulic spokojnych; brak realnej DDR po drugiej stronie."
+ },
+ {
+  "id": 403,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Klamrowa/Łodygowa: DDR przechodzi przejazdami przez Łodygową i kończy się na południowej drodze serwisowej (spokojna), naturalnie jedzie się nią dalej; magenta prowadzi do niezwiązanej odnogi."
+ },
+ {
+  "id": 404,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "obrazek_widziany": true,
+  "komentarz": "Radzymińska: DDR po wschodniej stronie wchodzi w zarośla i urywa się, dalej tylko chodnik; ciągła DDR jest po drugiej stronie 6-pasmowej ulicy."
+ },
+ {
+  "id": 405,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Łodygowa/Klamrowa: DDR kończy się wjazdem na spokojną ulicę Klamrową (zakręt), naturalna kontynuacja jezdnią; 190 m dalszy ciąg niezwiązany."
+ },
+ {
+  "id": 406,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Pszczyńska/Łodygowa: krótka odnoga DDR wpuszcza na spokojną ulicę Pszczyńską; główne DDR biegną ciągle po obu stronach Łodygowej."
+ },
+ {
+  "id": 407,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Młodzieńcza: krótka odnoga DDR wpuszcza na spokojną ulicę osiedlową (jezdnia); brak DDR po drugiej stronie, którą trzeba by dobić."
+ }
+]

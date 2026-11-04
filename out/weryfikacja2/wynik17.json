@@ -40,5 +40,173 @@
   "typ": "inne",
   "obrazek_widziany": true,
   "komentarz": "DDR z lasu dochodzi do Marsa (wąska dwupasmówka), po drugiej stronie widać czerwony asfaltowy najazd przy DDR – wygląda na przejazd rowerowy, OSM bez przejazdu (strona leśna w cieniu, pewność średnia)"
+ },
+ {
+  "id": 625,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkt na gruntowej drodze/placu budowy przy Chełmżyńskiej; DDR z OSM praktycznie niewidoczna w terenie (prawdopodobnie niezbudowana), brak widocznego przejazdu"
+ },
+ {
+  "id": 628,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkt na gruntowej drodze w zaroślach, nie na przejściu przez Chełmżyńską; infra w OSM nie widoczna w terenie, brak obrazu przejścia"
+ },
+ {
+  "id": 319,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR (słabo widoczna, przy parkingu) kończy się przy Chełmżyńskiej; po drugiej stronie jezdni brak infry, magenta to ta sama strona; kontynuacja jezdnią"
+ },
+ {
+  "id": 320,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na spokojną jezdnię Chełmżyńskiej w kierunku jazdy; po drugiej stronie żadnej DDR, dalej zwykła ulica"
+ },
+ {
+  "id": 633,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie Strażackiej przy pętli: czerwone przejazdy rowerowe z zebrą i symbol roweru; OSM bez tagów przejazdu"
+ },
+ {
+  "id": 635,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wlot Chełmżyńskiej przy rondzie/pętli: czerwony przejazd rowerowy obok zebry z symbolem roweru; OSM tylko zebra"
+ },
+ {
+  "id": 329,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Zygzakowata DDR z OSM wielokrotnie przecina Chełmżyńską, ale w terenie nie widać żadnej ścieżki ani przejazdu (łąka/zarośla) – prawdopodobnie planowana/niezbudowana"
+ },
+ {
+  "id": 638,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 329: w OSM DDR zygzakiem przez jezdnię, w terenie brak widocznej infry i przejazdu (zarośla), zebra nieobecna"
+ },
+ {
+  "id": 339,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż ulicy kończy się na skrzyżowaniu z Zesłańców Polskich, które ma czerwone nawierzchnie (przejazd); dalej na północ brak DDR, kontynuacja jezdnią"
+ },
+ {
+  "id": 517,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR biegnie wzdłuż północnej strony Regionalnej; punkt to tylko skrzyżowanie z nieutwardzoną dróżką, nie ma przecięcia jezdni przez trasę rowerową"
+ },
+ {
+  "id": 518,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR wzdłuż jednej strony Regionalnej, punkt to wlot bocznej ulicy; trasa nie przechodzi na drugą stronę jezdni, brak teleportu"
+ },
+ {
+  "id": 60,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie z czerwoną nawierzchnią przejazdu rowerowego; DDR kończy się wlotem na spokojną ulicę boczną, jest przejazd w terenie"
+ },
+ {
+  "id": 61,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ten sam węzeł: czerwone przejazdy rowerowe, DDR łączy się przez skrzyżowanie; koniec to wjazd na boczną ulicę"
+ },
+ {
+  "id": 63,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z lasu kończy się na bocznej drodze dojazdowej do wiaduktu Mozaikowej; dalej spokojną jezdnią do DDR na wiadukcie, brak przecinania ruchliwej jezdni"
+ },
+ {
+  "id": 66,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po zachodniej stronie Patriotowa kończy się na utwardzonym rogu bez ciągu dalej; druga strona to tylko krótki szkic OSM bez realnej DDR; nie ma DDR do której trzeba przejechać"
+ },
+ {
+  "id": 69,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR/DDR biegnie wzdłuż drogi serwisowej (Deptak) obok S2; magenta to ta sama droga serwisowa, żadnej jezdni ruchliwej do przekraczania"
+ },
+ {
+  "id": 72,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ścieżka z końca ulicy serwisowej pod/obok wiaduktu dochodzi do CPR na wiadukcie Mozaikowej; magenta biegnie przez skarpę, ale połączenie istnieje, brak przecinania jezdni"
+ },
+ {
+  "id": 73,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ścieżka (jasnozielona) przechodzi pod wiaduktem między dwiema drogami serwisowymi; nie przecina ruchliwej jezdni, CPR na wiadukcie osobno"
+ },
+ {
+  "id": 528,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo, czerwone przejazdy rowerowe z zebrą przez dwa wloty (symbole roweru); OSM bez tagów przejazdu"
+ },
+ {
+  "id": 77,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przy Patriotów (zachodnia jezdnia) kończy się bez kontynuacji w tę stronę; DDR 60 m dalej leży po drugiej stronie torów i drugiej jezdni – równoległy, inny ciąg, nie naturalna kontynuacja; dalej jezdnią"
+ },
+ {
+  "id": 460,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż Patriotów kończy się przy bocznej ulicy (zebra), dalej na północ brak infry; magenta to tylko krótki szkic, kontynuacja jezdnią o umiarkowanym ruchu"
+ },
+ {
+  "id": 538,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR (czerwony asfalt) biegnie prosto wzdłuż jednej strony ulicy; punkt to wlot leśnej dróżki z zebrą, drobne, brak przecinania ulicy głównej"
+ },
+ {
+  "id": 539,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła po wschodniej stronie przecina wlot ulicy Strzelińskiej na samej zebrze (bez czerwonego przejazdu); skala niska – boczna ulica osiedlowa, DDR kontynuuje się po obu stronach"
+ },
+ {
+  "id": 542,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła po wschodniej stronie przecina wlot Wągrowieckiej (boczna osiedlowa) tylko po zebrze, bez przejazdu rowerowego; niska waga"
  }
 ]

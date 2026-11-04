@@ -1,0 +1,282 @@
+[
+ {
+  "id": 96,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Zielona DDR dochodzi do jezdni Puławskiej/Al. Wilanowskiej i wpada na nią; DDR po drugiej stronie (wschód, przy pętli) bez przejazdu."
+ },
+ {
+  "id": 97,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na lokalnej ulicy dojazdowej z parkującymi autami; po drugiej stronie nic bezpośrednio naprzeciw, cel jest 189 m dalej - wjazd na jezdnię osiedlową."
+ },
+ {
+  "id": 540,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przecięcie to kładka piesza nad Wołoską (nie poziom jezdni); fałszywy kandydat."
+ },
+ {
+  "id": 541,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ta sama kładka nad Wołoską; nie ma przejścia w poziomie jezdni."
+ },
+ {
+  "id": 100,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy lokalnej ulicy dojazdowej/parkingu; kontynuacja to jazda tą spokojną ulicą, brak DDR po drugiej stronie."
+ },
+ {
+  "id": 102,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpływa na jezdnię Postępu w kierunku jazdy; po drugiej stronie brak DDR naprzeciw, cel to ta sama ulica dalej."
+ },
+ {
+  "id": 466,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR dochodzi do lokalnej ulicy Suwak/Logarytmiczna, dalej jazda jezdnią spokojną; brak DDR po drugiej stronie."
+ },
+ {
+  "id": 544,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie Wołoska/Domaniewska: na południowym i zachodnim ramieniu DDR przecina jezdnie po zwykłych zebrach (białe pasy, bez czerwonego asfaltu i kostki); DDR po drugiej stronie. Przejazdy N/E są czerwone."
+ },
+ {
+  "id": 545,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Południowe ramię Wołoskiej (wschodnia jezdnia): tylko zebra, bez przejazdu rowerowego, a DDR po obu stronach."
+ },
+ {
+  "id": 546,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Na DDR wzdłuż Domaniewskiej widać czerwony przejazd rowerowy z kostką i zebrą przez Oskara Langego; OSM tylko zebra."
+ },
+ {
+  "id": 547,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony przejazd rowerowy z kostką i symbolami roweru przez Stefana Bryły; w OSM tylko zebra."
+ },
+ {
+  "id": 548,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie Domaniewska/Modzelewskiego: przejazdy rowerowe czerwone przez ramiona; OSM oznacza je jako zebry."
+ },
+ {
+  "id": 549,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony przejazd rowerowy z symbolami roweru przez Domaniewską (z20); OSM tylko zebra."
+ },
+ {
+  "id": 550,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodnie ramię Domaniewskiej: DDR przechodzi po zwykłej zebrze (białe pasy), bez czerwonego przejazdu, DDR po obu stronach; brak tagów w OSM."
+ },
+ {
+  "id": 551,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie Domaniewska: czerwony przejazd rowerowy przy północnym ramieniu i na zachodnim; OSM tylko zebra."
+ },
+ {
+  "id": 552,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodnie ramię Domaniewskiej: czerwony asfalt przejazdu rowerowego przy zebrze; OSM tylko zebra."
+ },
+ {
+  "id": 553,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd przez Samochodową: czerwony przejazd rowerowy obok zebry (patrz z20 sąsiedniego kadru); OSM tylko zebra."
+ },
+ {
+  "id": 554,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony przejazd rowerowy z kostką przez Pęcherską; w OSM tylko zebra."
+ },
+ {
+  "id": 555,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony przejazd rowerowy z kostką na DDR przez ulicę osiedlową; OSM tylko zebra."
+ },
+ {
+  "id": 112,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż Konstruktorskiej urywa się przy ścieżce pieszej; dalej na zachód (do Ronda Lema) tylko wąski chodnik przy ruchliwej ulicy, bez infry. Nie przez ulicę, tylko DDR->chodnik."
+ },
+ {
+  "id": 560,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR wzdłuż Al. Prymasa Tysiąclecia przecina wjazd Garażowa: zebra z czerwonym pasem przejazdu rowerowego (z20); OSM tylko zebra."
+ },
+ {
+  "id": 120,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR po przejściu przez ramię ronda Miś kończy się na osiedlowym placu/chodniku; nie ma DDR po drugiej stronie, na którą trzeba się dostać."
+ },
+ {
+  "id": 121,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z ronda Miś wpada na jezdnię Woronicza z czerwonym pasem rowerowym wzdłuż niej; naturalna kontynuacja to ten pas/jezdnia."
+ },
+ {
+  "id": 467,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodnie przejście przez ramię ronda kończy się na osiedlowym placu/ścieżce przy blokach; brak DDR po drugiej stronie do której ktoś chce się dostać."
+ },
+ {
+  "id": 567,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy 1 Sierpnia widać czerwone przejazdy rowerowe obok zebr przez ramię ulicy bocznej (z20); OSM: nieoznakowane."
+ },
+ {
+  "id": 568,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Wołoska: DDR/CPR po obu stronach, przejście przez dwie jezdnie tylko po białej zebrze, bez czerwonego przejazdu."
+ },
+ {
+  "id": 127,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z południa kończy się rozwidleniem na skrzyżowaniu spokojnych ulic Miączyńska/Spartańska; brak DDR po drugiej stronie, dalej jezdnia."
+ },
+ {
+  "id": 147,
+  "werdykt": "niepewne",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki zielony odcinek od parkingu/wjazdu do jezdni Puławskiej (wygląda na dojazd, nie na realną DDR); DDR jest po wschodniej stronie szerokiej ulicy z torowiskiem, bez przejazdu. Nie da się ustalić, czy stub jest realną DDR."
+ },
+ {
+  "id": 148,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Racławicka: DDR po południowej stronie kończy się na jezdni, ciąg DDR jest po północnej stronie; między nimi tylko jezdnia (ruchliwa, parkujące auta) bez przejazdu rowerowego."
+ },
+ {
+  "id": 149,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Ten sam punkt na Racławickiej, drugi koniec: DDR północna wpada na jezdnię, kontynuacja DDR po południowej stronie, bez przejazdu."
+ },
+ {
+  "id": 150,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR po wschodniej stronie Wołoskiej biegnie dalej (jaśniejszy zielony) na południe; punkt leży na ścieżce między budynkami, nie na jezdni; krótki łącznik do ulicy serwisowej."
+ },
+ {
+  "id": 154,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Mikro-odcinek DDR na osiedlowym rondzie/ulicy dojazdowej, wyspa infry 24 m; brak istotnej trasy po drugiej stronie."
+ },
+ {
+  "id": 155,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Puławska (Olkuska/Dolna): dwa końce DDR leżą na obu jezdniach przedzielonych torowiskiem; DDR wpada na jezdnię, a drugi koniec jest po drugiej stronie, bez przejazdu. Geometria OSM prowadzi infrę po jezdni, więc to częściowo artefakt, ale w terenie brak połączenia."
+ },
+ {
+  "id": 469,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR kończy się na ulicy bocznej Kraushara z czerwonymi oznaczeniami na jezdni; dalej jazda spokojną ulicą, brak DDR po drugiej stronie."
+ },
+ {
+  "id": 580,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Zielone linie OSM biegną po jezdni/torowisku Rakowieckiej (artefakt), w terenie widać zebrę i czerwone pasy rowerowe po bokach; nie da się rozstrzygnąć, czy to prawdziwa infra."
+ },
+ {
+  "id": 581,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie Rakowiecka/Al. Niepodległości: DDR z północy dochodzi do torowiska i przejścia przez Rakowiecką po zwykłej zebrze (białe pasy), bez czerwonego przejazdu; dalej brak DDR."
+ },
+ {
+  "id": 178,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy uliczce serwisowej/parkingu przy Al. Niepodległości; kontynuacja to jazda tą spokojną uliczką, nic naprzeciw przez jezdnię."
+ },
+ {
+  "id": 183,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Puławskiej kończy się na jezdni (wjazd na jezdnię w kierunku jazdy); stuby DDR Rakowieckiej po drugiej stronie to inna, niezwiązana trasa."
+ },
+ {
+  "id": 184,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótkie stuby DDR na jezdni Rakowieckiej (odnoga); oba końce na tej samej jezdni, dalej brak DDR po drugiej stronie."
+ },
+ {
+  "id": 190,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwa stuby DDR kończą się na prywatnym parkingu/placu przy biurowcu, nie na przejściu przez jezdnię; zdjęcie w cieniu i budowa tramwajowa, ale brak DDR do której trzeba przejechać przez ulicę."
+ }
+]

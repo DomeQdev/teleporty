@@ -40,5 +40,243 @@
   "typ": "inne",
   "obrazek_widziany": true,
   "komentarz": "DDR kończy się na spokojnej ulicy serwisowej; kontynuacja to jazda tą ulicą (magenta biegnie wzdłuż niej), brak DDR po drugiej stronie"
+ },
+ {
+  "id": 583,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony przejazd rowerowy z kostką przez Opaczewską, DDR ciągła; w OSM tylko zebra"
+ },
+ {
+  "id": 187,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przez zebrę kończy się na spokojnej uliczce osiedlowej (wjazd na jezdnię); główna DDR biegnie ciągle po zachodniej stronie, luka po wschodniej to niezwiązany fragment przy chodniku"
+ },
+ {
+  "id": 188,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się wjazdem na parking/drogę serwisową przy biurowcach; brak DDR po drugiej stronie ulicy, kontynuacja to jazda drogą dojazdową"
+ },
+ {
+  "id": 189,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodnia odnoga DDR urywa się przy zejściu do chodnika (48 m luki wzdłuż skwerku), ale ciągła DDR jest po zachodniej stronie; brak realnej konieczności przejeżdżania przez jezdnię"
+ },
+ {
+  "id": 196,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki stub DDR do bocznej ulicy; główna DDR południowa jest ciągła, przejście przez Bitwy Warszawskiej w budowie (pomarańczowe) - bez wpływu na ten punkt"
+ },
+ {
+  "id": 255,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż Kasprzaka ciągła, przejazd przez Dorożkarską oznaczony, końce 6 m od siebie to tylko artefakt mapy (budowa obok)"
+ },
+ {
+  "id": 258,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwie DDR po obu stronach Elekcyjnej kończą się naprzeciw siebie na północy, dalej brak infry – wpuszczają na jezdnię (kierunek jazdy); brak DDR do której trzeba przejechać"
+ },
+ {
+  "id": 602,
+  "werdykt": "ok",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie ciągle po zachodniej stronie; odnoga przez Redutową to sama zebra prowadząca do leśnej ścieżki pieszej, nie do DDR - niezwiązane"
+ },
+ {
+  "id": 263,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "OSM rysuje ukośny przejazd rowerowy przez ruchliwą Płocką (z wysepką), w terenie brak jakiegokolwiek oznakowania i brak DDR po obu stronach – 'połączenie' tylko w mapie"
+ },
+ {
+  "id": 274,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwie DDR po obu stronach Płockiej kończą się naprzeciw siebie na południu skrzyżowania, dalej brak infry – wpuszczenie na jezdnię w kierunku jazdy"
+ },
+ {
+  "id": 276,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki stub DDR w stronę osiedlowych chodników; Płocka na północy bez infry – wpuszczenie na jezdnię, brak DDR po drugiej stronie"
+ },
+ {
+  "id": 480,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki CPR (30 m) wpada na spokojną osiedlową uliczkę/parking, dalej jazda jezdnią; brak DDR po drugiej stronie"
+ },
+ {
+  "id": 277,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Północny koniec krótkiego CPR urywa się przy budynku/chodniku, ~60 m od wielopasowej Górczewskiej; DDR po jej drugiej stronie to niezwiązana trasa (sygnalizacja ok. 130 m dalej)"
+ },
+ {
+  "id": 283,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR łączy się z uliczką dojazdową (spokojna), dalej jedzie się nią; DDR po północnej stronie Górczewskiej to równoległa, niezwiązana trasa"
+ },
+ {
+  "id": 284,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ścieżka rowerowa przez osiedle (od Obozowej) kończy się na wewnętrznej, spokojnej uliczce; dalej jedzie się nią, brak DDR po drugiej stronie"
+ },
+ {
+  "id": 285,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z osiedla kończy się na ruchliwej Ostroroga/Obozowej z torowiskiem, brak przejścia; po drugiej stronie tylko trawnik/chodnik bez zmapowanej DDR (kontynuacja dopiero ~200 m dalej) - nie wiadomo, czy to teleport"
+ },
+ {
+  "id": 293,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przejeżdża Obozową przejazdem i kończy się na spokojnej ulicy osiedlowej (wjazd na jezdnię); magenta to niezwiązany stub po drugiej stronie torowiska"
+ },
+ {
+  "id": 483,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Pasy rowerowe wzdłuż Ostroroga ciągłe, DDR ma oznaczony przejazd; lewa odnoga kończy się przy wiacie przystankowej - artefakt, nie urwany ciąg"
+ },
+ {
+  "id": 322,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwa końce DDR po obu stronach spokojnej Hübnera 7 m od siebie wpuszczają na jezdnię na północ; brak dalszej DDR do której trzeba przejeżdżać"
+ },
+ {
+  "id": 632,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina wlot/łącznik Rydygiera przy skrzyżowaniu samą zebrą, bez czerwonego przejazdu i kostki; DDR ciągła po obu stronach"
+ },
+ {
+  "id": 337,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przy rondzie wpada na spokojną Kochanowskiego (wjazd na jezdnię); kontynuacja po drugiej stronie to ta sama ulica, teren w przebudowie na zdjęciu"
+ },
+ {
+  "id": 643,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przez Broniewskiego widać zebrę z równoległym pasem białych kwadratów (przejazd rowerowy P-11, bez czerwonego asfaltu); DDR ciągła, w OSM brak tagów przejazdu"
+ },
+ {
+  "id": 338,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo Kochanowskiego/Rudnickiego w trakcie przebudowy na zdjęciu (piasek, plac budowy); nie da się rozstrzygnąć, czy powstał przejazd; DDR na obu odnogach ma kontynuację"
+ },
+ {
+  "id": 340,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodnia DDR kończy się na wąskiej spokojnej ulicy osiedlowej (wjazd na jezdnię w kierunku jazdy), równoległa DDR po zachodniej stronie jest ciągła - niekonieczne przecinanie"
+ },
+ {
+  "id": 345,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodnia DDR jest ciągła (przerwa to tylko skrzyżowanie z dojazdem ~10 m); równoległa DDR po zachodniej stronie niezwiązana"
+ },
+ {
+  "id": 644,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przez Galla Anonima zebra z równoległym pasem białych kwadratów (przejazd rowerowy), DDR czerwona ciągła po obu stronach; w OSM tylko zebra"
+ },
+ {
+  "id": 350,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 340: wschodnia DDR kończy się przy ulicy dojazdowej/parkingu (wjazd na spokojną jezdnię), równoległa DDR zachodnia ciągła"
+ },
+ {
+  "id": 354,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki stub DDR wpada na spokojną uliczkę osiedlową (wjazd na jezdnię); przejazdy przez Żelazowską oznaczone, brak DDR po drugiej stronie"
+ },
+ {
+  "id": 355,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na spokojnej Braci Załuskich (wjazd na jezdnię); K3 patrz 645/646 - przejazdy tu oznaczone żółto w OSM"
+ },
+ {
+  "id": 645,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przez Żelazowską zebra z równoległym pasem białych kwadratów i symbolem roweru (przejazd rowerowy), DDR ciągła; w OSM tylko zebra"
+ },
+ {
+  "id": 646,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przez Włościańską zebra z równoległymi białymi kwadratami (przejazd rowerowy) i symbolem roweru przed nim; DDR ciągła, w OSM tylko zebra"
+ },
+ {
+  "id": 363,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż Kiełpińskiej kończy się na spokojnej ulicy osiedlowej (Ogólna), dalej jazda jezdnią; brak DDR po drugiej stronie"
+ },
+ {
+  "id": 367,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż Kiełpińskiej kończy się na spokojnej ulicy Ogólna/Słodowiec (wjazd na jezdnię), dalej jazda ulicą osiedlową"
+ },
+ {
+  "id": 371,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po kładce nad Trasą AK kończy się na końcu kładki przy spokojnej ulicy osiedlowej (Kolektorska), dalej jazda ulicą; brak DDR po drugiej stronie"
  }
 ]
