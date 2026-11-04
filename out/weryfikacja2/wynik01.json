@@ -1,0 +1,282 @@
+[
+ {
+  "id": 126,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR od strony autostrady konczy sie przy ruchliwej Warszawskiej (przejazd kolejowy); ciag DDR po drugiej stronie jezdni i torow ~68 m dalej, brak przejazdu."
+ },
+ {
+  "id": 129,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec odnogi DDR przy skrzyzowaniu; DDR prowadzi dalej wzdluz drogi, \"druga strona\" to ta sama trasa po wiaduktach nad S7; nie ma poprzecznego teleportu."
+ },
+ {
+  "id": 569,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Na zdjeciu z20 sama zebra (biale pasy), bez czerwonego asfaltu i kostki rowerowej; DDR po polnocnej stronie, po poludniowej tylko chodnik."
+ },
+ {
+  "id": 570,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyzowanie z DDR po obu stronach; przejazd przez boczna ulice wyglada jak zebra bez kostki/czerwonego asfaltu (przy dolnym przejezdzie); niska pewnosc co do kostki."
+ },
+ {
+  "id": 159,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ze wschodu urywa sie na rogu skrzyzowania z ulica Orlow Piastowskich; kontrapas Czerwonej Drogi po drugiej stronie, miedzy nimi tylko zebry."
+ },
+ {
+  "id": 160,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Duze skrzyzowanie: odnoga DDR konczy sie na zebrze (same biale pasy) na srodku Czerwonej Drogi/Posag 7 Panien, pas rowerowy (niebieski) po drugiej stronie, brak przejazdu rowerowego."
+ },
+ {
+  "id": 201,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR konczy sie na wjezdzie do drogi serwisowej/parkingu przy Polczynskiej; ciag to ta sama trasa przy sygnalizacji, nie ma DDR do ktorej trzeba przejechac przez jezdnie."
+ },
+ {
+  "id": 113,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krotki ~14 m ogonek DDR przy wlocie do ronda; rowerzysta wjezdza na jezdnie/rondo, brak infry po drugiej stronie."
+ },
+ {
+  "id": 115,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyzowanie Skoroszewska/Starodeby: DDR laczy sie z DDR na Starodebach z naroznika; drugi koniec to slepa odnoga na parking, nic tam nie trzeba laczyc."
+ },
+ {
+  "id": 122,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rampa DDR przy S2/Al. 4 Czerwca wpada na spokojna ulice Dzieci Warszawy; oba konce na tej samej ulicy, DDR ciagnie sie dalej."
+ },
+ {
+  "id": 123,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 122: odnoga DDR konczy sie na sciezce/ulicy osiedlowej Dzieci Warszawy, brak infry po drugiej stronie."
+ },
+ {
+  "id": 124,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR konczy sie na rogu przy ruchliwych Slawka/Puzaka (tertiary, bicycle=use_sidepath) na chodniku/podjezdzie, dalej brak infry; niska pewnosc."
+ },
+ {
+  "id": 133,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Dwie odnogi DDR (polnocna petla i poludniowa) dochodza do Dzieci Warszawy po przeciwnych stronach ruchliwej jezdni 11 m od siebie, bez przejazdu; do zmiany strony trzeba wjechac w poprzek jezdni."
+ },
+ {
+  "id": 468,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z parku konczy sie przy Wojciechowskiego, po drugiej stronie zabudowa, zadnej infry; rowerzysta wjezdza na jezdnie."
+ },
+ {
+  "id": 140,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Po poludniowo-zachodniej stronie Al. 4 Czerwca DDR urywa sie na szerokim utwardzonym chodniku ~70 m (do 144), potem wznawia sie; luka na chodniku. \"Cel\" po drugiej stronie jest bez znaczenia."
+ },
+ {
+  "id": 144,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Druga strona tej samej luki co 140: DDR konczy sie i dalej szeroki chodnik bez oznakowania DDR."
+ },
+ {
+  "id": 146,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krotka odnoga DDR konczy sie przy rondzie; rowerzysta wjezdza na rondo/jezdnie, brak infry na drugiej stronie."
+ },
+ {
+  "id": 576,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Obszar budowy, zdjecie nieaktualne; nie da sie ocenic przejazdu."
+ },
+ {
+  "id": 161,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie rownolegle do toru i konczy sie na spokojnej uliczce Tynkarska/Solipska; drugi koniec to ta sama DDR."
+ },
+ {
+  "id": 162,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 161: drugi koniec tej samej DDR przy spokojnej uliczce, naturalna kontynuacja jezdnia."
+ },
+ {
+  "id": 163,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Teren budowy, zdjecie nieaktualne, odnogi DDR nie do oceny."
+ },
+ {
+  "id": 164,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Teren budowy, zdjecie nieaktualne."
+ },
+ {
+  "id": 578,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR schodzi na pas rowerowy (niebieski) na jezdni Posag 7 Panien; naturalne przejscie DDR w pas, nie ma DDR po drugiej stronie."
+ },
+ {
+  "id": 579,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie wzdluz Technikow i przecina boczna ulice (Popularna) po samej zebrze, bez przejazdu rowerowego; pomniejszy przypadek."
+ },
+ {
+  "id": 166,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyzowanie osiedlowe, siatka krotkich odnog DDR konczacych sie na spokojnej Herbu Oksza; brak realnej drugiej strony do polaczenia (zdjecie z cieniem/budowa)."
+ },
+ {
+  "id": 168,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR konczy sie na sciezce do stacji kolejowej (Cykady); druga strona to inna trasa za estakada."
+ },
+ {
+  "id": 169,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Osiedlowe odnogi DDR konczace sie na spokojnej ulicy Herbu Oksza; zdjecie z okresu budowy, brak infry do polaczenia."
+ },
+ {
+  "id": 174,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Budowa, zdjecie nieaktualne."
+ },
+ {
+  "id": 176,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Budowa, zdjecie nieaktualne."
+ },
+ {
+  "id": 182,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR z Al. 4 Czerwca wchodzi na spokojna ulice Pola Karolinskie; DDR dalej biegnie przy alei, brak infry po drugiej stronie."
+ },
+ {
+  "id": 186,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR konczy sie na spokojnej Polach Karolinskich przy skrzyzowaniu z przejazdami; ok."
+ },
+ {
+  "id": 205,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Polnocna DDR przy Polczynskiej urywa sie ~40 m (utwardzony chodnik/podjazd) i wznawia dalej na wschod; luka na chodniku."
+ },
+ {
+  "id": 206,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Drugi koniec tej samej ~40 m luki polnocnej DDR na Polczynskiej; chodnik bez DDR."
+ },
+ {
+  "id": 207,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Poludniowa DDR konczy sie przy Polczynskiej (secondary, 6 pasow z pasem zieleni), dalej brak infry; DDR jest po polnocnej stronie bez przejazdu rowerowego; niska pewnosc."
+ },
+ {
+  "id": 208,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Poludniowa DDR konczy sie przy wlocie bocznej ulicy (zebra), dalszy ciag DDR dopiero po polnocnej stronie szerokiej jezdni; brak przejazdu; niska pewnosc."
+ },
+ {
+  "id": 213,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR wschodniej strony Lazurowej konczy sie na parkingu/ulicy osiedlowej; obie glowne DDR ciagle, nie ma teleportu."
+ },
+ {
+  "id": 215,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 213: odnoga DDR na parking/ulice osiedlowa, DDR glowne ciagle po obu stronach."
+ },
+ {
+  "id": 230,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodnia DDR konczy sie na parkingowej drodze serwisowej rownoleglej do ulicy; naturalna kontynuacja jezdnia serwisowa, zachodnia DDR to inna trasa za torowiskiem."
+ },
+ {
+  "id": 476,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Izolowany krotki przejazd przez spokojna ulice osiedlowa, bez infry rowerowej wokol; rowerzysta jedzie jezdnia."
+ },
+ {
+  "id": 477,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Izolowany krotki przejazd na wyniesionym skrzyzowaniu osiedlowym, brak infry rowerowej wokol."
+ }
+]

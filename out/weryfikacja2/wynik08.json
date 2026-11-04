@@ -1,0 +1,282 @@
+[
+ {
+  "id": 248,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na spokojną Emilii Plater, dalej kontrapas tą samą ulicą; brak DDR po drugiej stronie."
+ },
+ {
+  "id": 251,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wchodzi na Nowogrodzką (jednokierunkowa, spokojna) - naturalna kontynuacja jezdnią/kontraruchem."
+ },
+ {
+  "id": 252,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Węzeł Marszałkowska/Nowogrodzka: widać oznakowane przejazdy z symbolami rowerów i czerwonym asfaltem; DDR łączy się, OSM tylko rysuje skróty przez jezdnię."
+ },
+ {
+  "id": 253,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na Nowogrodzką (parkingi, spokojna), jazda jezdnią w kierunku jazdy."
+ },
+ {
+  "id": 254,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się wjazdem na Poznańską, kontynuacja po tej samej stronie jezdnią."
+ },
+ {
+  "id": 256,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR do drogi serwisowej/Giełdowej; główna DDR biegnie ciągle wzdłuż Kasprzaka."
+ },
+ {
+  "id": 257,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po przejeździe wpuszcza na Żurawią (spokojna uliczka z parkowaniem); nie ma DDR do przejścia po drugiej stronie."
+ },
+ {
+  "id": 259,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga od deptaku do DDR; obie DDR biegną ciągle po obu stronach Prostej, nic nie urywa się."
+ },
+ {
+  "id": 260,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Boczne odnogi DDR na Sienną/Śliską, DDR wzdłuż al. JP II ciągła."
+ },
+ {
+  "id": 261,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR na Śliską; DDR ciągła po obu stronach al. JP II."
+ },
+ {
+  "id": 262,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Spaghetti OSM przy Smolnej; pas rowerowy i DDR ciągłe, realnej przerwy brak."
+ },
+ {
+  "id": 264,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na Emilii Plater (spokojna, parkingowa), kontynuacja jezdnią."
+ },
+ {
+  "id": 268,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR do ślepej ulicy Zielnej; DDR przy Świętokrzyskiej ciągła."
+ },
+ {
+  "id": 269,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR na Chłodną, główna DDR ciągła wzdłuż Okopowej."
+ },
+ {
+  "id": 280,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR na Żytnię; DDR wzdłuż Okopowej ciągła."
+ },
+ {
+  "id": 281,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR na Żytnię; DDR wzdłuż Okopowej ciągła."
+ },
+ {
+  "id": 286,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy rampie/drodze czerwonej nawierzchni na Wybrzeżu Kościuszkowskim; DDR zachodnia ciągła, druga strona to bulwar (inna trasa)."
+ },
+ {
+  "id": 287,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po stronie rzeki urywa się przy placu budowy przy moście Świętokrzyskim; nie da się rozstrzygnąć, co jest dalej (budowa)."
+ },
+ {
+  "id": 289,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR zachodnia ciągła, odnoga do Bednarskiej; druga strona to bulwar - inna trasa."
+ },
+ {
+  "id": 684,
+  "werdykt": "teleport",
+  "typ": "chodnik_rower_dopuszczony",
+  "obrazek_widziany": true,
+  "komentarz": "DDR urywa się na pieszym Placu Zamkowym (chodnik/plac, rowery dopuszczone), bez dalszej infry; dalej tylko kontrapas po drugiej stronie Podwala."
+ },
+ {
+  "id": 292,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się wjazdem na Podwale (spokojna ulica z parkowaniem) - kontynuacja jezdnią; dla ruchu na plac zob. 684."
+ },
+ {
+  "id": 302,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR na Stawki; DDR główna ciągła na wprost."
+ },
+ {
+  "id": 307,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wschodnia po al. JP II urywa się/zaczyna po ok. 70 m przerwy wzdłuż chodnika przy budynku; luka po tej samej stronie (nie przez jezdnię), nie da się pewnie ocenić."
+ },
+ {
+  "id": 309,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR na Dzikiej; DDR ciągła dookoła skrzyżowania."
+ },
+ {
+  "id": 685,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR do bulwaru wiślanego (rowery dopuszczone); DDR główna ciągła obok."
+ },
+ {
+  "id": 620,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Zielona linia przez jezdnię Ratuszowej to skrót w OSM; obok są czerwone przejazdy rowerowe łączące DDR, pas rowerowy zaczyna się za nimi."
+ },
+ {
+  "id": 485,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy Burakowskiej na chodniku, bez dalszej infry; dalej tylko jezdnia/chodnik."
+ },
+ {
+  "id": 686,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR do bulwaru; DDR główna ciągła."
+ },
+ {
+  "id": 316,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy łączniku Alka Dawidowskiego, dalej jazda jezdnią/pasem w kierunku jazdy; druga strona to inna trasa."
+ },
+ {
+  "id": 623,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przekątny przejazd rowerowy przez duże skrzyżowanie Słomińskiego w głębokim cieniu, nie widać oznakowania; w OSM otagowany jako designated/signals."
+ },
+ {
+  "id": 317,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR do ścieżki w parku; DDR główna ciągła."
+ },
+ {
+  "id": 624,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Początek tego samego przekątnego przejazdu przy Arkadii - cień, nie widać oznakowania przejazdu; po stronie Arkadii brak DDR."
+ },
+ {
+  "id": 626,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Dwa przejścia przez zjazd Parysowskiej: sama zebra bez czerwonego asfaltu i kostki, DDR z symbolami rowerów przechodzi zebrą."
+ },
+ {
+  "id": 629,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "W terenie czerwony przejazd rowerowy obok zebry (z symbolami), OSM ma tylko zebrę."
+ },
+ {
+  "id": 630,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Na zjeździe Błońskiej tylko zebra, bez czerwonego asfaltu/kostki, DDR przechodzi nią."
+ },
+ {
+  "id": 327,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy Rydygiera, wjazd na jezdnię w kierunku jazdy; brak DDR do przejścia po drugiej stronie."
+ },
+ {
+  "id": 328,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przy zebrze wpuszcza na jezdnię Rydygiera; DDR po drugiej stronie biegnie równolegle, nie jest celem."
+ },
+ {
+  "id": 687,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR do bulwaru; DDR główna ciągła."
+ },
+ {
+  "id": 639,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez Zajączka to sama zebra, bez przejazdu rowerowego; DDR po południowej stronie zaczyna się dopiero za zebrą, po północnej koniec na chodniku."
+ },
+ {
+  "id": 331,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga na jezdnię; DDR ciągła po obu stronach al. JP II."
+ }
+]

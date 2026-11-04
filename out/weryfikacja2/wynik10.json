@@ -1,0 +1,282 @@
+[
+ {
+  "id": 500,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR dochodzi do sieci ścieżek leśnych, brak ulicy do przekraczania."
+ },
+ {
+  "id": 667,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Na łączniku widać czerwony przejazd rowerowy obok zebry, w OSM brak tagów przejazdu."
+ },
+ {
+  "id": 430,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "CPR po wschodniej stronie Modlińskiej urywa się przy wjeździe na parking, dalszy CPR dopiero po drugiej stronie 6-pasmowej ulicy, bez przejazdu."
+ },
+ {
+  "id": 432,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR do ulicy Kupieckiej (boczna); główna DDR biegnie obok, druga strona Marywilskiej to niezwiązana trasa."
+ },
+ {
+  "id": 434,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie ciągłym chodnikiem wzdłuż ulicy, luka tylko w OSM; brak przekraczania jezdni."
+ },
+ {
+  "id": 437,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na wjeździe w boczną ulicę; magenta przez Marywilską nienaturalna."
+ },
+ {
+  "id": 670,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wiadukt Marywilskiej: DDR po obu stronach zbiegają się na jezdni na końcu, część w budowie; brak sensownej kontynuacji do oceny."
+ },
+ {
+  "id": 503,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Izolowany ~8 m kawałek na skrzyżowaniu na peryferiach, brak infry wokół."
+ },
+ {
+  "id": 680,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Widać czerwone przejazdy rowerowe z zebrą na obu wlotach, OSM bez tagów przejazdu."
+ },
+ {
+  "id": 18,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do ronda ulicy bocznej; DDR po obu stronach Wąwozowej ciągłe z przejazdami."
+ },
+ {
+  "id": 19,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na ulicę osiedlową Wełniana, brak infry po drugiej stronie."
+ },
+ {
+  "id": 456,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na końcu ślepej ulicy osiedlowej przed polem, brak jezdni do przekroczenia."
+ },
+ {
+  "id": 22,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do parkingu/drogi osiedlowej, główne DDR ciągłe z przejazdami na skrzyżowaniu obok."
+ },
+ {
+  "id": 25,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do drogi serwisowej, DDR po wschodniej stronie ciągłe."
+ },
+ {
+  "id": 510,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Polna droga/ścieżka w terenie niezabudowanym, przecięcie z drogą gruntową."
+ },
+ {
+  "id": 26,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótkie odnogi DDR kończą się na parkingu i trawniku, na sygnalizacji jest przejazd (żółty w OSM); brak teleportu."
+ },
+ {
+  "id": 27,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy chodniku/budynku, obok przejazd przez Stryjeńskich."
+ },
+ {
+  "id": 28,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na trawniku, obok przejazd przez Stryjeńskich."
+ },
+ {
+  "id": 29,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Drobne odnogi DDR przy parkingach osiedla, brak realnej infry do połączenia."
+ },
+ {
+  "id": 30,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Drobne odnogi DDR przy parkingach, obok zebra; cycleway=crossing w OSM; bez realnej sieci."
+ },
+ {
+  "id": 31,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do ulicy bocznej, DDR po obu stronach głównej ulicy z przejazdami przy skrzyżowaniu."
+ },
+ {
+  "id": 32,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR do wlotu ulicy bocznej, główna DDR ciągła."
+ },
+ {
+  "id": 34,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec DDR na parkingu/ulicy przy hali; przejazd rowerowy przez Pileckiego jest kawałek dalej."
+ },
+ {
+  "id": 457,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Widać czerwony przejazd przez Indiry Gandhi; DDR kończy się przy ulicy osiedlowej."
+ },
+ {
+  "id": 458,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Drugi koniec tego samego przejazdu, kończy się na parkingu osiedla."
+ },
+ {
+  "id": 37,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do placyku przy budynku; DDR po obu stronach trasy ciągłe, magenta przez ekspresówkę nienaturalna."
+ },
+ {
+  "id": 38,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR do ulicy bocznej, kontrapas ciągły obok."
+ },
+ {
+  "id": 41,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do ulicy bocznej, DDR ciągłe z przejazdami na skrzyżowaniu."
+ },
+ {
+  "id": 43,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do ulicy bocznej, DDR ciągłe z przejazdami na skrzyżowaniu."
+ },
+ {
+  "id": 55,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR na skrzyżowaniu (budowa tramwaju), obok przejazd (żółty); brak teleportu."
+ },
+ {
+  "id": 522,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie prosto przez wlot ulicy bocznej, bez infry po drugiej stronie."
+ },
+ {
+  "id": 74,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przy cichej ulicy Zdrowa, luka wzdłuż tej samej ulicy; brak przekraczania."
+ },
+ {
+  "id": 78,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR dochodzi do cichej ulicy Zdrowa, kontynuacja to jazda ulicą."
+ },
+ {
+  "id": 459,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przez Nowoursynowską widać czerwone przejazdy rowerowe obok zebry (OSM: sama zebra); DDR kończy się na placu przy Fosie."
+ },
+ {
+  "id": 461,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga do parkingu pod blokiem, droga wewnętrzna."
+ },
+ {
+  "id": 462,
+  "werdykt": "ok",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodni CPR kończy się przy wjeździe na parking centrum handlowego, dalej chodnik; CPR po wschodniej stronie to osobna trasa przez 6 pasów."
+ },
+ {
+  "id": 463,
+  "werdykt": "ok",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "CPR kończy się na zatoce parkingowej przy ulicy, dalej chodnik/jezdnia; brak przekraczania."
+ },
+ {
+  "id": 464,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga kończy się na ulicy osiedlowej Radosna, dalej jedzie się jezdnią."
+ },
+ {
+  "id": 87,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwie odnogi DDR wzdłuż cichej ulicy Śródziemnomorskiej, kontynuacja jezdnią."
+ },
+ {
+  "id": 88,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Budowa tramwaju/skrzyżowania, stare zdjęcie; odnogi na Nałęczowskiej nie do rozstrzygnięcia."
+ }
+]

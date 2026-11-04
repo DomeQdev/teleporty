@@ -1,0 +1,282 @@
+[
+ {
+  "id": 364,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR konczy sie na osiedlowej ulicy Goscieradowskiej, glowny DDR Kolowej ciagly po jednej stronie."
+ },
+ {
+  "id": 365,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krotka odnoga DDR przy rondzie dochodzi do jezdni, glowne DDR ciagle po obu stronach; wjazd na jezdnie."
+ },
+ {
+  "id": 490,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR wokol ronda konczy sie przy Handlowej, glowny DDR ciagly; brak DDR, na ktora trzeba przejechac."
+ },
+ {
+  "id": 366,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkt na jezdni Kolowej przy przejsciu; DDR po poludniowej stronie ciagly, odnoga do osiedlowej ulicy."
+ },
+ {
+  "id": 491,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga od glownego DDR do osiedlowej sciezki/parkingu; glowny DDR biegnie dalej."
+ },
+ {
+  "id": 372,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po zachodniej stronie Radzyminskiej konczy sie przy ulicy serwisowej Karkonoszy; dalej ta sama strona, nie druga strona ulicy."
+ },
+ {
+  "id": 379,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krotki odcinek DDR przy Radzyminskiej konczy sie na ulicy serwisowej, luka po tej samej stronie, nie przez ulice."
+ },
+ {
+  "id": 380,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec tego samego odcinka DDR przy Radzyminskiej, wchodzi na ulice serwisowa po tej samej stronie."
+ },
+ {
+  "id": 390,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wezel z przejazdami rowerowymi (czerwone), DDR laczy sie z odnoga do Tarnogorskiej; koniec przy rogu, nie ma teleportu."
+ },
+ {
+  "id": 395,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Radzyminskiej wpuszcza na ulice serwisowa (parking przyuliczny); zachodni DDR to rownolegla trasa po drugiej stronie 6 pasow."
+ },
+ {
+  "id": 396,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR w terenie budowy (zdjecie sprzed budowy/w trakcie), konczy sie przy Gilarskiej; nie da sie ocenic docelowego ukladu."
+ },
+ {
+  "id": 397,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodni DDR Radzyminskiej konczy sie na ulicy serwisowej z parkowaniem, naturalna kontynuacja to ta ulica; zachodni DDR to rownolegla trasa."
+ },
+ {
+  "id": 398,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Teren budowy przy Gilarskiej, krotka odnoga DDR w budowie; nie da sie rozstrzygnac."
+ },
+ {
+  "id": 399,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR w trakcie budowy dochodzi do jezdni Gilarskiej; stan zdjecia (budowa) nie pozwala ocenic."
+ },
+ {
+  "id": 400,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ta sama budowa, drugi koniec odnogi DDR przy Gilarskiej; niepewne."
+ },
+ {
+  "id": 408,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Duze skrzyzowanie z przejazdami rowerowymi (zolte, czerwony asfalt); stuby DDR przy rogu dochodza do jezdni, DDR po drugiej stronie dostepny przez przejazdy."
+ },
+ {
+  "id": 409,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Budowa DDR/ciagu wzdluz Zielone Zacisze, odcinek w trakcie robot."
+ },
+ {
+  "id": 411,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Budowa DDR przy Na Grobli, koniec odcinka w robotach; nie da sie ocenic."
+ },
+ {
+  "id": 657,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR ciagly po jednej stronie ulicy, przecina tylko wlot bocznej ulicy (Odysa/Blokowa) bez oznakowania; nie ma DDR po drugiej stronie."
+ },
+ {
+  "id": 415,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyzowanie sygnalizowane z przejazdami rowerowymi; stuby DDR na wschodzie dochodza do jezdni, naturalna kontynuacja jezdnia."
+ },
+ {
+  "id": 416,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po polnocnej stronie Kondratowicza urywa sie na wlocie bocznej ulicy/parkingu; ok. 45 m luki na chodniku miedzy odcinkami DDR (zachod i wschod). Niski priorytet; nie przez ulice."
+ },
+ {
+  "id": 417,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodni koniec tej samej luki ok. 45 m: DDR konczy sie przy parkingu, dalej chodnik do nastepnego odcinka DDR."
+ },
+ {
+  "id": 418,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR od skrzyzowania biegna na Labiszynska i koncza sie na jezdni; brak DDR po drugiej stronie, kontynuacja jezdnia."
+ },
+ {
+  "id": 660,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina zjazd z trasy szybkiego ruchu (motorway_link) na zebrze; widac tylko symbole roweru na chodniku, brak czerwonego przejazdu rowerowego."
+ },
+ {
+  "id": 661,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina lacznik zjazdu przy wezle zebra bez przejazdu rowerowego (bialy pasy, brak czerwonego asfaltu)."
+ },
+ {
+  "id": 663,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina Skarbka z Gor/ulice wlotowa tylko po zebrze, brak czerwonego przejazdu rowerowego; koniec DDR przy parkingu."
+ },
+ {
+  "id": 664,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina wlot ronda (Jesiennych Lisci) po zebrze bez przejazdu rowerowego (z20 potwierdza)."
+ },
+ {
+  "id": 501,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krotka odnoga DDR przy rondzie wchodzi na parking; glowna infra ciagla."
+ },
+ {
+  "id": 428,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy rondzie konczy sie na ulicy Kartograficznej (spokojna); glowna infra ciagla, kontynuacja jezdnia."
+ },
+ {
+  "id": 429,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR przy rondzie konczace sie na bocznej ulicy; glowny DDR ciagly."
+ },
+ {
+  "id": 665,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy rondzie widac czerwone przejazdy rowerowe obok zebr (z20), w OSM brak tagow przejazdu."
+ },
+ {
+  "id": 431,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR przy rondzie dochodza do bocznej ulicy (Tajemna), glowny DDR ciagly."
+ },
+ {
+  "id": 433,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR przy rondzie dochodza do bocznej ulicy (Internetowa), glowny DDR ciagly."
+ },
+ {
+  "id": 668,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejscie przez Glebocka ma czerwone nawierzchnie przejazdu rowerowego obok zebry (z20); OSM bez tagow przejazdu."
+ },
+ {
+  "id": 436,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR przy rondzie dochodza do bocznej ulicy (Podluzna), glowny DDR ciagly."
+ },
+ {
+  "id": 671,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przecina Lewandow po samej zebrze (inne przejazdy na tym wezle maja czerwony asfalt), po drugiej stronie DDR urywa sie na trawie/chodniku."
+ },
+ {
+  "id": 672,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z poludnia/wschodu przechodzi przez Glebocka po zebrze bez przejazdu rowerowego, po zachodniej stronie urywa sie na chodniku."
+ },
+ {
+  "id": 502,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy skrzyzowaniu konczy sie przy jezdni z parkowaniem, glowne DDR ciagle po obu stronach."
+ },
+ {
+  "id": 438,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przy rondzie konczy sie na jezdni Leona Berensona (kierunek zachod), brak DDR po drugiej stronie; kontynuacja jezdnia."
+ },
+ {
+  "id": 439,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przy rondzie konczy sie na jezdni Katy Grodziskie, brak DDR po drugiej stronie; kontynuacja jezdnia."
+ }
+]

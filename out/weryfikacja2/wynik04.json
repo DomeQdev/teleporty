@@ -222,5 +222,12 @@
   "typ": "zebra_zamiast_przejazdu",
   "obrazek_widziany": true,
   "komentarz": "Skrzyżowanie z sygnalizacją: DDR przecina Mehoffera po przejściu z równoległym pasem kostek P-11 (z20, rozpoznanie niepewne); w OSM brak tagów przejazdu"
+ },
+ {
+  "id": 674,
+  "werdykt": "blad_mapy",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przy zebrze przez Milenijną widać dwa rzędy kostek (znak P-11, z20) i DDR po obu stronach; OSM tylko zebra (niepewne, korony drzew)"
  }
 ]
