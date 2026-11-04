@@ -1,0 +1,82 @@
+[
+ {
+  "rank": 3,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   13265790715,
+   14002755461,
+   6534261219
+  ],
+  "komentarz": "DDR Al. Krakowskiej konczy sie przy skrzyzowaniu z Sworzniowa, dalej tylko chodnik/przejscie bez przejazdu; kolejny kawalek DDR po drugiej stronie"
+ },
+ {
+  "rank": 5,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   10669416953,
+   10669416950
+  ],
+  "komentarz": "DDR-y przy skrzyzowaniu urywaja sie na chodniku/przejsciu bez przejazdu, kawalki rozdzielone ulica"
+ },
+ {
+  "rank": 6,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1292143268,
+   1292143174
+  ],
+  "komentarz": "DDR przy rondzie/tunelu konczy sie na chodniku ze schodami, dalszy ciag 13 m dalej bez polaczenia"
+ },
+ {
+  "rank": 8,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2626427526,
+   2914122461,
+   2914122468
+  ],
+  "komentarz": "DDR Hanki Ordonowny rozbity na kawalki przy skrzyzowaniu, miedzy nimi tylko przejscia bez przejazdu"
+ },
+ {
+  "rank": 12,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   11169220166
+  ],
+  "komentarz": "Gorczewska w budowie, nie wiadomo jaki jest stan docelowy przejazdu"
+ },
+ {
+  "rank": 13,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   12947542881,
+   12947542829
+  ],
+  "komentarz": "DDR/CPR urywa sie na rogu duzego skrzyzowania, przejscia bez ciaglosci infry do drugiej strony"
+ },
+ {
+  "rank": 14,
+  "werdykt": "niepewne",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   10582159497,
+   485196988
+  ],
+  "komentarz": "Las, przejazd ok 8 m od konca sciezki, nie widac czy jest polaczenie"
+ },
+ {
+  "rank": 15,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   12582792483
+  ],
+  "komentarz": "Teren budowy, DDR konczy sie slepo przy parkingu/krzakach, zdjecie moze byc nieaktualne"
+ }
+]
