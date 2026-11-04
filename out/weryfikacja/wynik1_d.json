@@ -1,0 +1,316 @@
+[
+ {
+  "rank": 613,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy wejściu w osiedlowe ścieżki/dojazd przy bloku; dalej jezdnią, brak realnego teleportu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 614,
+  "werdykt": "ok",
+  "komentarz": "Odnoga CPR kończy się na rogu skrzyżowania z ulicą Gąbińską, wjazd na jezdnię możliwy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 615,
+  "werdykt": "ok",
+  "komentarz": "DDR po przejściu kończy się przy ulicy osiedlowej, dalej jezdnią",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 620,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy przejściu przez spokojną ulicę boczną (Myśliwska/Brzezińska), wjazd na jezdnię",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 621,
+  "werdykt": "ok",
+  "komentarz": "Przejazd rowerowy kończy się na osiedlowej ulicy (parkingi), dalej jezdnią",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 622,
+  "werdykt": "ok",
+  "komentarz": "DDR przez las kończy się przy wąskiej ulicy, wjazd na jezdnię",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 625,
+  "werdykt": "ok",
+  "komentarz": "Krótka odnoga do chodnika równoległego do głównego DDR, który biegnie obok w parku",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 632,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się za rogiem budynku przy parkingu/drodze dojazdowej, jezdnia tuż obok; nowa zabudowa",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 641,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy przejściu na rogu zjazdu/ulicy Świderskiej, jezdnia obok; wjazd na jezdnię",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 643,
+  "werdykt": "teleport",
+  "komentarz": "DDR/CPR w lesie urywa się na polanie przy prywatnej posesji, dalej tylko ścieżka/krzaki (niska pewność, możliwy wąski dukt do ulicy)",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   8716015548
+  ]
+ },
+ {
+  "rank": 644,
+  "werdykt": "niepewne",
+  "komentarz": "Okolice Dworca Zachodniego, budowa i plac budowy, nie da się rozstrzygnąć",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   8519154620
+  ]
+ },
+ {
+  "rank": 652,
+  "werdykt": "teleport",
+  "komentarz": "Wąski CPR przy Modlińskiej kończy się na rogu dużego skrzyżowania, dalej tylko przejście dla pieszych bez przejazdu",
+  "obrazek_widziany": true,
+  "typ": "skrzyzowanie",
+  "nodes": [
+   951522607
+  ]
+ },
+ {
+  "rank": 654,
+  "werdykt": "ok",
+  "komentarz": "Czerwone kółko to węzeł na ciągłym DDR (odnoga chodnika w bok); infra biegnie dalej",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 657,
+  "werdykt": "teleport",
+  "komentarz": "DDR przez trawnik kończy się przy chodniku głównej ulicy bez zjazdu/przejazdu, ulica bez infry, przejście kilkadziesiąt m dalej",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   9836681336
+  ]
+ },
+ {
+  "rank": 664,
+  "werdykt": "blad_mapy",
+  "komentarz": "Na skrzyżowaniu jest czerwony przejazd rowerowy i widoczny utwardzony ciąg na północ; w OSM brak połączenia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 665,
+  "werdykt": "niepewne",
+  "komentarz": "DDR w OSM biegnie przez łąkę obok budowy, na zdjęciu brak nawierzchni (budowa/plan)",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   12568191673
+  ]
+ },
+ {
+  "rank": 666,
+  "werdykt": "niepewne",
+  "komentarz": "Przebudowa Modlińskiej, plac budowy, stan niejasny",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   11512560932
+  ]
+ },
+ {
+  "rank": 667,
+  "werdykt": "niepewne",
+  "komentarz": "Przejazd rowerowy dochodzi do zachodniego chodnika z piaskiem (nowe osiedle w budowie, prawdopodobnie przyszłe DDR)",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   11137692736
+  ]
+ },
+ {
+  "rank": 668,
+  "werdykt": "niepewne",
+  "komentarz": "Utwardzony DDR kończy się na polnej drodze na terenie w trakcie zabudowy",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   11776140150
+  ]
+ },
+ {
+  "rank": 669,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się na skrzyżowaniu z ulicą, wjazd na jezdnię możliwy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 670,
+  "werdykt": "niepewne",
+  "komentarz": "Teren budowy, DDR w OSM bez widocznej nawierzchni",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   11992788833
+  ]
+ },
+ {
+  "rank": 671,
+  "werdykt": "ok",
+  "komentarz": "Krótka odnoga z przejazdem do terenu przemysłowego/placu, artefakt mapy, ruch jezdnią",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 672,
+  "werdykt": "niepewne",
+  "komentarz": "DDR kończy się w lesie przy Świderskiej na piaszczystym pasie, jezdnia obok; teren budowy",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   6459175893
+  ]
+ },
+ {
+  "rank": 675,
+  "werdykt": "ok",
+  "komentarz": "Przejazd rowerowy przez Redutową prowadzi do ścieżki parkowej/leśnej; sensowne zakończenie",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 676,
+  "werdykt": "teleport",
+  "komentarz": "DDR w trawie przy Krasińskiego kończy się na chodniku przy przystanku, bez zjazdu na jezdnię",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   12994089921
+  ]
+ },
+ {
+  "rank": 680,
+  "werdykt": "ok",
+  "komentarz": "Miasteczko ruchu drogowego dla dzieci, nie realna infra",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 681,
+  "werdykt": "niepewne",
+  "komentarz": "DDR kończy się na trawie/żwirze, w pobliżu budowa (pomarańczowe), nie do rozstrzygnięcia",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   2768130184
+  ]
+ },
+ {
+  "rank": 684,
+  "werdykt": "niepewne",
+  "komentarz": "Plac budowy/teren przemysłowy przy Dworcu Zachodnim",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   12026929131
+  ]
+ },
+ {
+  "rank": 687,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy ulicy w strefie przemysłowej, dalej jezdnią",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 754,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy bramce przy ulicy bocznej/parkingu, dalej jezdnią",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 756,
+  "werdykt": "ok",
+  "komentarz": "Ślepa odnoga obok ciągłego CPR, który biegnie dalej",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 761,
+  "werdykt": "ok",
+  "komentarz": "Maleńka odnoga przy ciągłym DDR w parku, artefakt mapy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 763,
+  "werdykt": "ok",
+  "komentarz": "Odnoga do przejścia przy ciągłym DDR, główna infra biegnie dalej",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 765,
+  "werdykt": "niepewne",
+  "komentarz": "Jak 667: przejazd do chodnika z piaskiem w nowym osiedlu, prawdopodobnie przyszłe DDR",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   11557170641
+  ]
+ },
+ {
+  "rank": 769,
+  "werdykt": "ok",
+  "komentarz": "CPR jest ciągły po obu stronach przejazdu przez ulicę boczną",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 794,
+  "werdykt": "ok",
+  "komentarz": "Dwie odnogi CPR kończą się na przejściach przy spokojnej ulicy osiedlowej i przy przystanku, główny CPR biegnie dalej",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 816,
+  "werdykt": "niepewne",
+  "komentarz": "Odizolowany kawałek ścieżki w lesie, zasłonięty drzewami",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   9270014920
+  ]
+ },
+ {
+  "rank": 850,
+  "werdykt": "ok",
+  "komentarz": "DDR wjeżdża na spokojną drogę serwisową z progiem, wjazd na jezdnię",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 856,
+  "werdykt": "ok",
+  "komentarz": "CPR z parku kończy się na spokojnej ulicy osiedlowej, wjazd na jezdnię",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 963,
+  "werdykt": "teleport",
+  "komentarz": "CPR po przejeździe kończy się na chodniku przy przystanku przy ogromnym skrzyżowaniu, bez dalszej infry",
+  "obrazek_widziany": true,
+  "typ": "skrzyzowanie",
+  "nodes": [
+   3770236757
+  ]
+ },
+ {
+  "rank": 964,
+  "werdykt": "teleport",
+  "komentarz": "DDR po przejazdach kończy się na chodniku na rogu dużego skrzyżowania z Modlińską, dalej przejście dla pieszych",
+  "obrazek_widziany": true,
+  "typ": "skrzyzowanie",
+  "nodes": [
+   2278056513
+  ]
+ }
+]
