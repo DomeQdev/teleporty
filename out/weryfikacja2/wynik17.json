@@ -208,5 +208,40 @@
   "typ": "zebra_zamiast_przejazdu",
   "obrazek_widziany": true,
   "komentarz": "DDR ciągła po wschodniej stronie przecina wlot Wągrowieckiej (boczna osiedlowa) tylko po zebrze, bez przejazdu rowerowego; niska waga"
+ },
+ {
+  "id": 105,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Leśne DDR po obu stronach Izbickiej kończą się na parkingach/drogach serwisowych przy drodze szybkiego ruchu; nikt tędy nie przekracza jezdni, magenta tylko wizualnie łączy dwa ślepe końce"
+ },
+ {
+  "id": 106,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Droga w gęstym lesie, korona drzew zasłania; DDR północna dochodzi do jezdni Izbickiej, po stronie południowej biegnie równoległa DDR; nie widać czy jest przejazd"
+ },
+ {
+  "id": 108,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po obu stronach Izbickiej urywają się na zachodzie w lesie bez ciągu dalej; kontynuacja jezdnią, brak DDR do której trzeba przejeżdżać w poprzek"
+ },
+ {
+  "id": 109,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Północna DDR dochodzi do dojazdu serwisowego i dalej wpada na jezdnię; po drugiej stronie równoległa DDR, ale to ta sama trasa po innej stronie, brak konieczności przekraczania"
+ },
+ {
+  "id": 556,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Wlot Panny Wodnej przy rondzie: DDR (czerwony asfalt po południu, chodnik/DDR po północy) przecina jezdnię tertiary tylko na białej zebrze, bez czerwonego przejazdu rowerowego"
  }
 ]
