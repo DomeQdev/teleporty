@@ -1,0 +1,379 @@
+[
+ {
+  "rank": 3,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   6534261219,
+   13265790715,
+   14002755461
+  ],
+  "komentarz": "Zielony DDR wzdłuż Al. Krakowskiej kończy się przy wylocie Sworzniowej na przejściu dla pieszych bez przejazdu; dalej na północ tylko chodnik, brak zjazdu na jezdnię (szybka arteria).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 5,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Gęsta sieć DDR na utwardzonym placu/osiedlu; krótkie końcówki (9-13 m) łączą się z resztą DDR przez utwardzoną nawierzchnię, brak realnej luki. Niska pewność.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 6,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   1292143268,
+   1292143174
+  ],
+  "komentarz": "DDR dochodzi do schodów obok podziemnego przejścia rowerowego (path tunnel, layer -1) pod rondem Zesłańców; ze zdjęcia nie da się rozstrzygnąć czy jest rampa/prowadnica; luka 13 m.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 8,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2626427526,
+   2914122461,
+   2914122468
+  ],
+  "komentarz": "DDR wzdłuż Hanki Ordonówny przerywa się na skrzyżowaniu ze Strumykową; dalszy ciąg 17-21 m dalej, a przejście przez Strumykową to zebra bez przejazdu rowerowego.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 12,
+  "werdykt": "niepewne",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   11169220166
+  ],
+  "komentarz": "Przejazd na Górczewskiej kończy się przy skrzyżowaniu z przejściem bez przejazdu, wokół budowa (linia tramwajowa, pomarańczowa infra); stan docelowy nieczytelny.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 13,
+  "werdykt": "niepewne",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   12947542881,
+   12947542829
+  ],
+  "komentarz": "Przejazdy rowerowe przez Bitwy Warszawskiej/Szczęśliwicką kończą się po północnej stronie na chodniku, ale całe skrzyżowanie to budowa (pomarańczowa infra), docelowy układ nieznany.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 14,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Leśna CPR wzdłuż Radiowej dochodzi do namalowanego przejazdu rowerowego; 8 m luki to tylko brak połączenia w OSM (drzewa zasłaniają detale).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 15,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   12582792483
+  ],
+  "komentarz": "Ślepy koniec DDR wśród krzaków przy placu budowy i niezabudowanym polu; zdjęcie nie pokazuje wyraźnej istniejącej drogi rowerowej (teren w budowie), nie da się ocenić.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 21,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   994189363,
+   254508335
+  ],
+  "komentarz": "CPR przez park kończy się na placu przy wejściach do metra; 33 m dalej zaczyna się DDR przy skrzyżowaniu, połączenie tylko przez plac pieszy/chodnik, bez oznakowanej trasy rowerowej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 22,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Pasy Ostroroga kończą się przy przystanku/skrzyżowaniu, rowerzysta włącza się w jezdnię lub jedzie obok oznaczonym DDR/przejazdem (4 m); lewa odnoga to krótki fragment przy wiacie, nie realny urwany ciąg.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 27,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   4881949294,
+   302913210
+  ],
+  "komentarz": "Ten sam narożnik co #6: DDR z południowego zachodu dochodzi do zejścia (schody/rampa) do podziemnego przejścia rowerowego pod rondem; z góry nie widać czy jest rampa dla rowerów, luka 13 m.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 30,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Leśna ścieżka przecina Radiową przejazdem; to boczna ścieżka leśna, a główna CPR biegnie 13-23 m obok i nie jest przerwana; brak realnego teleportu (drzewa zasłaniają detale).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 42,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR z północnego wschodu i DDR z zachodu schodzą się w jednym narożniku z namalowanym przejazdem; 4 m to drobna nieciągłość w OSM, połączenie realne.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 52,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR z północnego zachodu dochodzi do narożnika, gdzie startuje namalowany przejazd i DDR; 4 m luki to tylko nieciągłość w OSM, połączenie fizyczne istnieje.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 55,
+  "werdykt": "niepewne",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   7232462922
+  ],
+  "komentarz": "Leśna CPR z północy urywa się ~22 m przed Radiową, a DDR po drugiej stronie startuje przy przejściu; połączenie przez las zasłonięte drzewami, nie widać czy jest dojazd do przejścia/przejazdu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 57,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR od zachodu kończy się przy utwardzonym łączniku do DDR wzdłuż Połczyńskiej (11 m); na zdjęciu widać utwardzony pasek łączący oba, więc to brak połączenia w OSM.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 71,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Ścieżka przy kładce nad Wybrzeżem Gdyńskim: oznaczony łącznik (3 m) spina węzeł z DDR, wszystko wygląda na ciągłe; zielone linie biegną dalej po obu stronach.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 79,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   7775565993
+  ],
+  "komentarz": "Przejazd rowerowy przez Zgrupowania AK Kampinos kończy się na chodniku po zachodniej stronie; DDR zachodni zaczyna się 20 m dalej, a dojazd do niego wiedzie chodnikiem i przejściem dla pieszych bez przejazdu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 86,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4886260257,
+   4886286392
+  ],
+  "komentarz": "Przejazd rowerowy przez Połczyńską kończy się po północnej stronie na zwykłym chodniku przy polu; żadnej infry dalej w promieniu 200 m, rowerzysta ląduje na chodniku.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 94,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wzdłuż Al. Jerozolimskich: na zdjęciu utwardzona ścieżka jest ciągła na całej 37 m luce (magenta), przerwa to tylko brak otagowania w OSM; przy wejściu do metra trwa lokalnie budowa.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 101,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR wzdłuż Al. Krakowskiej wchodzi na spokojną drogę serwisową przed budynkiem (28 m, w cieniu) i wraca na CPR; ruch rowerów po jezdni serwisowej jest legalny, brak teleportu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 110,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Końcówka przy zejściu ze schodów/rampy przy wiadukcie Jutrzenki; 'luka' 48 m to przecięcie ośmiopasmowej trasy, nie realna trasa. DDR z wiaduktu normalnie zjeżdża pętlą do pasa i dalej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 118,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR po wschodniej stronie Światowida przechodzi w ten sam szeroki utwardzony pas, który biegnie dalej na północ (w OSM tylko chodnik); 'luka' 46 m przez jezdnię jest fikcyjna. Drugi koniec to krótki ślepy łącznik przy placyku.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 119,
+  "werdykt": "niepewne",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   1570080194
+  ],
+  "komentarz": "DDR kończy się w narożniku wielkiego skrzyżowania Grójecka/Banacha; na zdjęciu widać czerwone nawierzchnie przy przejściach (możliwe przejazdy), a całość jest w OSM oznaczona jako budowa; nie da się rozstrzygnąć.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 127,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Izolowany 6 m przejazd przez ulicę osiedlową/spokojną jezdnię; żadnej infry rowerowej po obu stronach, rowerzysta jedzie po jezdni, więc nie ma czego urywać.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 128,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   8601819959
+  ],
+  "komentarz": "DDR z przejazdami przez skrzyżowanie Górczewska/Młynarska kończy się w SE narożniku na chodniku/placu; dalszy ciąg to tylko linia 'w budowie' w OSM, na zdjęciu brak widocznych robót ani infry, rowerzysta ląduje na chodniku.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 130,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2362854254
+  ],
+  "komentarz": "DDR wzdłuż Elbląskiej kończy się na przejściu przy wlocie ulicy; dalej tylko chodnik do wielkiego skrzyżowania z Broniewskiego, a DDR po drugiej stronie (69 m) połączony jest wyłącznie planowaną/budowaną linią bez widocznych robót.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 133,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   10009885761
+  ],
+  "komentarz": "DDR wzdłuż Parysowskiej urywa się na skraju trawnika/zarośli; DDR wzdłuż Al. Jana Pawła II jest 30 m dalej, a dojazd to tylko ścieżki piesze przez zieleń.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 142,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krótka odnoga DDR przy wejściu do metra/parkingu; główny DDR po południowej stronie Kasprowicza biegnie dalej bez przerwy, a 'luka' 30 m to przecięcie jezdni.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 149,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krótka (5 m) odnoga w parku wchodząca na okrągły plac; główna ścieżka rowerowa biegnie dookoła placu bez przerwy.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 150,
+  "werdykt": "niepewne",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   12389061400
+  ],
+  "komentarz": "Ten sam przebudowywany węzeł co #119, widok od wschodu: DDR kończy się w narożniku, a przy przejściach widać czerwone nawierzchnie (prawdopodobnie przejazdy, brak ich w OSM); OSM oznacza całość jako budowę, nie da się rozstrzygnąć.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 167,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Pojedynczy ukośny przejazd przez Płocką bez żadnej infry rowerowej w pobliżu; na zdjęciu brak widocznego oznakowania, to samotny element, który nie tworzy trasy do urwania.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 169,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Kładka nad torami/Al. Armii Krajowej: rampa schodzi na ścieżkę, a 13 m luki między dołem rampy a DDR jest fizycznie przejezdne (utwardzone), to tylko niedomknięcie w OSM.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 174,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   4889129474
+  ],
+  "komentarz": "Zachodni DDR wzdłuż Modlińskiej kończy się na jej poboczu; dalej na północ tylko wąski chodnik/pobocze przy szybkiej trasie, bez widocznego zjazdu na jezdnię. 'Luka' 44 m do DDR po drugiej stronie to przecięcie jezdni. Nie da się pewnie ocenić czy jest zjazd.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 180,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR od południowego wschodu przechodzi w tę samą utwardzoną ścieżkę biegnącą dalej wzdłuż trasy aż do skrzyżowania z DDR (80 m); wygląda na ciągłą trasę rowerową, w OSM otagowaną jak chodnik. Średnia pewność.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 181,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Park z krętą ścieżką rowerową/MTB i duktami; końcówka to odgałęzienie od głównej DDR do ścieżki leśnej (drogi gruntowe), a luka 45 m biegnie przez zarośla, nie przez żadną realną trasę.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 182,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   3264473702
+  ],
+  "komentarz": "CPR po wschodniej stronie Myśliborskiej zaczyna/kończy się w narożniku na chodniku (dalej na północ tylko chodnik); DDR po zachodniej stronie jest 25 m dalej, bez przejazdu przez jezdnię.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 185,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   796213996
+  ],
+  "komentarz": "DDR przez trawnik dochodzi do krawędzi Modlińskiej i kończy się na chodniku bez przejazdu; DDR po wschodniej stronie jest 46 m dalej przez dużą jezdnię, a najbliższe przejście jest przy skrzyżowaniu kilkadziesiąt metrów dalej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 186,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krótki łącznik od głównego DDR Światowida do wlotu spokojnej ulicy bocznej (wjazd na jezdnię). 'Luka' 47 m prowadzi do kręgów w parku, które w OSM są błędnie otagowane jak DDR, nie do realnej trasy.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 189,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   8179291094
+  ],
+  "komentarz": "Wschodni DDR wzdłuż Światowida urywa się w trawie na skraju lasu, dalej tylko wąska ścieżka przy ogrodzeniu; DDR po zachodniej stronie jest 44 m dalej za jezdnią i torowiskiem, bez przejazdu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 192,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Izolowany 5 m przejazd przez spokojną ulicę osiedlową, bez żadnej infry rowerowej wokół; rowerzysta jedzie po jezdni.",
+  "obrazek_widziany": true
+ }
+]
