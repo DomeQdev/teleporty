@@ -1,0 +1,44 @@
+[
+ {
+  "id": 577,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony przejazd rowerowy z kostką w terenie, DDR ciągła po obu stronach; OSM tylko zebra"
+ },
+ {
+  "id": 470,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z wiaduktu zjeżdża pętlą do pasa; 'druga strona' to równoległa DDR przez 8 pasów, nikt tamtędy nie jedzie"
+ },
+ {
+  "id": 170,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki stub DDR przy jezdni serwisowej, DDR biegnie dalej wzdłuż; druga strona to równoległa DDR za trasą 8-pasową, niezwiązana"
+ },
+ {
+  "id": 172,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki stub DDR na jezdnię serwisową przy trasie 8-pasowej; DDR biegnie wzdłuż, 'druga strona' to niezwiązana równoległa DDR"
+ },
+ {
+  "id": 177,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy drodze serwisowej/budowie (pomarańczowa), po drugiej stronie 8-pasowej trasy tylko równoległa DDR – niezwiązana"
+ },
+ {
+  "id": 179,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na spokojnej ulicy serwisowej; kontynuacja to jazda tą ulicą (magenta biegnie wzdłuż niej), brak DDR po drugiej stronie"
+ }
+]

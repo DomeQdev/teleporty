@@ -1,0 +1,44 @@
+[
+ {
+  "id": 279,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo, przejazd rowerowy kończy się wyjściem na spokojną ulicę w kierunku jazdy; brak DDR po drugiej stronie, magenta to zwykła ulica"
+ },
+ {
+  "id": 616,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przez Marsa (z torowiskiem) czerwone nawierzchnie przejazdu rowerowego z zebrą po obu stronach; OSM bez tagów"
+ },
+ {
+  "id": 617,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwone przejazdy rowerowe widoczne przy przejściach przez Marsa i boczną ulicę; OSM bez tagów"
+ },
+ {
+  "id": 306,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy Żołnierskiej (primary) technicznym dojazdem z bramą do pasa dzielącego; w pobliżu estakada/wiadukt z DDR dla pieszych-rowerowych, to nią się przekracza ulicę; brak realnego teleportu"
+ },
+ {
+  "id": 308,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka przerwa 11 m przez małe podwórko/dojazd (słupek) między dwoma odcinkami ścieżki w zieleni; nie ulica, naturalna kontynuacja"
+ },
+ {
+  "id": 314,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z lasu dochodzi do Marsa (wąska dwupasmówka), po drugiej stronie widać czerwony asfaltowy najazd przy DDR – wygląda na przejazd rowerowy, OSM bez przejazdu (strona leśna w cieniu, pewność średnia)"
+ }
+]

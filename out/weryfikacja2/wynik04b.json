@@ -1,0 +1,7 @@
+[
+{"id":677,"werdykt":"ok","typ":"inne","obrazek_widziany":true,"komentarz":"DDR biegnie wzdłuż południowej strony głównej ulicy i tylko mija wlot bocznej drogi/ścieżki (Pasłęcka); brak DDR po drugiej stronie, na którą trzeba by przejechać. Nie jest to teleport."},
+{"id":442,"werdykt":"ok","typ":"inne","obrazek_widziany":true,"komentarz":"CPR kończy się wjazdem na drogę serwisową Modlińskiej; kontynuacja (magenta) leży po tej samej stronie wzdłuż drogi serwisowej, nie po drugiej stronie jezdni głównej. Jazda spokojną jezdnią serwisową."},
+{"id":443,"werdykt":"ok","typ":"inne","obrazek_widziany":true,"komentarz":"Drugi koniec tej samej pary co 442: DDR wpada na drogę serwisową po tej samej stronie Modlińskiej, kontynuacja 195 m dalej tą samą stroną. Brak przecinania jezdni."},
+{"id":678,"werdykt":"blad_mapy","typ":"zebra_zamiast_przejazdu","obrazek_widziany":true,"komentarz":"Skrzyżowanie Mehoffera/Modlińska: DDR przecina Mehoffera, w z20 widać przejścia z czerwonymi pasami po stronie DDR (przejazd rowerowy), a w OSM brak tagów przejazdu. Połączone w terenie, do poprawy OSM."},
+{"id":444,"werdykt":"ok","typ":"inne","obrazek_widziany":true,"komentarz":"DDR kończy się na spokojnej Dzierzgońskiej tuż przed skrzyżowaniem; drugi koniec (29 m) to DDR tego samego skrzyżowania po przeciwnej stronie. Dalej na zachód brak infry, naturalna jazda jezdnią; to nie DDR, na którą trzeba przejeżdżać w poprzek."}
+]
