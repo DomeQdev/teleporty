@@ -1,0 +1,58 @@
+[
+ {
+  "id": 290,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Pas rowerowy z północy dochodzi do ronda Bułhaka; naturalna kontynuacja to jazda jezdnią/rondem, DDR po wschodniej stronie startuje tuż obok. Brak DDR do dojazdu przez ulicę."
+ },
+ {
+  "id": 543,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd w cieniu drzew na wylocie z ronda Izbicka; zebra widoczna, czerwonej nawierzchni/kostki nie widać nawet na z20."
+ },
+ {
+  "id": 474,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR schodzi z wiaduktu na drogę serwisową Szosy Lubelskiej; magenta wskazuje przez autostradę/ekspresówkę drugą, niezwiązaną trasę. Nie teleport."
+ },
+ {
+  "id": 202,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż Jana Pawła II jest ciągła po obu stronach; końcówki to krótkie odnogi przy spokojnej Marmurowej/parkingu, naturalna kontynuacja jezdnią."
+ },
+ {
+  "id": 598,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Na Dworkowej widać przejazd rowerowy (czerwona nawierzchnia obok zebry), DDR ciągła; w OSM tylko zebra."
+ },
+ {
+  "id": 225,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na spokojnej ulicy Radosna/Gościniec przy rondzie; kontynuacja jezdnią, druga DDR przy rondzie to inna odnoga."
+ },
+ {
+  "id": 228,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z ronda Maroszka kończy się na jezdni Gościniec/Trakt Brzeski w kierunku jazdy; magenta wskazuje inną odnogę ronda."
+ },
+ {
+  "id": 599,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR (w OSM rysowana wzdłuż jezdni) przecina spokojną boczną uliczkę przy Nizinnej; zwykłe skrzyżowanie z ulicą osiedlową, brak teleportu."
+ }
+]

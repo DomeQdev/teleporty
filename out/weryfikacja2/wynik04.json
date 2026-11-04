@@ -1,0 +1,79 @@
+[
+ {
+  "id": 373,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na drożce/utwardzonym dojeździe przy torach; naturalna kontynuacja to jezdnia, pas rowerowy po drugiej stronie to inna relacja; skrzyżowanie ma przejazdy"
+ },
+ {
+  "id": 374,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po południowej stronie Żeromskiego kończy się na środku jezdni (przy zwężeniu), ciąg dalszy DDR na zachód jest po północnej stronie, bez przejazdu"
+ },
+ {
+  "id": 375,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Północna DDR kończy się na jezdni przy przystanku (wjazd na jezdnię w kierunku jazdy); problem przejścia na południową DDR opisany w 374"
+ },
+ {
+  "id": 376,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ścieżka od wiaduktu kończy się na ulicy osiedlowej Gdańskiej; druga strona to trasa S8/AAK niezwiązana"
+ },
+ {
+  "id": 377,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Leśna ścieżka kończy się na skrzyżowaniu ulic osiedlowych z przejściami; drugi koniec to ta sama ścieżka"
+ },
+ {
+  "id": 378,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Druga odnoga tej samej leśnej ścieżki kończy się na ulicy osiedlowej, brak DDR po drugiej stronie wymagającej przejazdu"
+ },
+ {
+  "id": 492,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ścieżka z parku kończy się na ulicy Gdańskiej; dalej jedzie się jezdnią do DDR przy skrzyżowaniu, brak DDR po drugiej stronie"
+ },
+ {
+  "id": 381,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się przy ulicy Gdańskiej na przejściu dla pieszych; naturalna kontynuacja to jazda jezdnią w kierunku południowym"
+ },
+ {
+  "id": 382,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR od strony Marymonckiej wpuszcza na spokojną ulicę Zabłocińską; druga DDR biegnie po południowej stronie, ale to wjazd na jezdnię w kierunku jazdy"
+ },
+ {
+  "id": 383,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR z parku kończy się przy ulicy osiedlowej Opatowskiej, to ta sama sieć DDR, bez wymaganego przekraczania"
+ },
+ {
+  "id": 384,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki łącznik DDR z jezdnią Zabłocińskiej, spokojna ulica, wjazd na jezdnię"
+ }
+]
