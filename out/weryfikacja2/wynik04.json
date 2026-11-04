@@ -75,5 +75,117 @@
   "typ": "inne",
   "obrazek_widziany": true,
   "komentarz": "Krótki łącznik DDR z jezdnią Zabłocińskiej, spokojna ulica, wjazd na jezdnię"
+ },
+ {
+  "id": 650,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR biegnie wzdłuż Wólczyńskiej i przecina wlot bocznej ulicy Wolumen, ciągłość po obu stronach, brak DDR po drugiej stronie wymagającej przejazdu"
+ },
+ {
+  "id": 651,
+  "werdykt": "blad_mapy",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez Wólczyńską: obok zebry widać czerwonawy pas z kostką (przejazd rowerowy), a OSM ma tylko zebrę; infra po obu stronach połączona (z20, nieco niepewne)"
+ },
+ {
+  "id": 493,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga CPR kończy się przy przejściu przez spokojną ulicę Wolumen; główny CPR biegnie dalej, brak ciągu wymagającego przejazdu"
+ },
+ {
+  "id": 386,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR od ronda Ruda wpuszcza na jezdnię Klaudyny w kierunku jazdy (wschód); druga DDR to ta sama sieć przy rondzie"
+ },
+ {
+  "id": 387,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie ciągle po obu stronach Marymonckiej; punkt to wlot drogi serwisowej na DDR, brak luki wymagającej przejazdu"
+ },
+ {
+  "id": 388,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR od ronda kończy się wjazdem na jezdnię Klaudyny w kierunku północnym (spokojna ulica), brak DDR po drugiej stronie wymagającej przejazdu"
+ },
+ {
+  "id": 389,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się wjazdem na jezdnię Klaudyny, dalej na północ brak DDR, wjazd w kierunku jazdy"
+ },
+ {
+  "id": 391,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dróżka/ścieżka dochodzi do Klaudyny; po drugiej stronie brak DDR, wjazd na jezdnię"
+ },
+ {
+  "id": 393,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Główna DDR biegnie nieprzerwanie obok; dwa krótkie stuby do jezdni to artefakt mapy, brak teleportu"
+ },
+ {
+  "id": 655,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki stub DDR do skrzyżowania Klaudyny z Podleśną; główna DDR biegnie dalej tą samą stroną, po drugiej stronie brak DDR"
+ },
+ {
+  "id": 494,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR do wejścia do metra i parkingu; główna DDR po południowej stronie Kasprowicza biegnie dalej bez przerwy, przecięcie jezdni na magencie to inna relacja"
+ },
+ {
+  "id": 419,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwa stuby DDR dochodzą do ulicy Przy Agorze (spokojna), wjazd na jezdnię w kierunku jazdy; brak DDR po drugiej stronie którą trzeba osiągnąć"
+ },
+ {
+  "id": 420,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na skrzyżowaniu z ulicą Parola, dalej jezdnia osiedlowa; brak widocznej DDR po drugiej stronie"
+ },
+ {
+  "id": 421,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodnia DDR wzdłuż ul. Zgrupowania AK Kampinos urywa się na chodniku (luka ok. 50 m z 422, chodnik z miejscami postojowymi); wschodnia DDR jest ciągła po drugiej stronie, więc słabszy przypadek"
+ },
+ {
+  "id": 422,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Drugi koniec tej samej luki w zachodniej DDR: DDR kończy się na chodniku przy parkingu; ciąg dalszy dopiero po kilkudziesięciu metrach lub po drugiej stronie ulicy (słabszy przypadek, wschodnia DDR ciągła)"
+ },
+ {
+  "id": 659,
+  "werdykt": "blad_mapy",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Na węźle (zjazd secondary_link) czerwona DDR przechodzi w czerwony przejazd rowerowy obok zebry (z20); w OSM brak tagów przejazdu"
  }
 ]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": 410,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Radzymińska, 6 pasów: DDR wschodnia kończy się przy wylocie Ziemiańskiej, DDR zachodnia po drugiej stronie, bez przejazdu w tym miejscu"
+ },
+ {
+  "id": 495,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Leśna ścieżka dochodzi do drogi gruntowej przy cmentarzu, brak ulicy do przekroczenia"
+ },
+ {
+  "id": 498,
+  "werdykt": "niepewne",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd przez ulicę boczną przy zjeździe; na z20 biała zebra, brak wyraźnej czerwonej nawierzchni, jest sygnalizacja; DDR po obu stronach, nie da się rozstrzygnąć"
+ },
+ {
+  "id": 46,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR kończy się przy jezdni Metryczna, dalej pole i złomowisko, brak DDR po drugiej stronie; wjazd na jezdnię"
+ },
+ {
+  "id": 54,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Złożony węzeł z kładką/rampą rowerową, infra połączona"
+ },
+ {
+  "id": 62,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy bocznej drodze pod węzłem, naturalna kontynuacja jezdnią; brak DDR do przejechania po drugiej stronie"
+ },
+ {
+  "id": 65,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec przejazdu w węźle Wał Miedzeszyński, dalej chodnik/jezdnia; przejazdy w węźle z czerwonym asfaltem"
+ },
+ {
+  "id": 68,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec przejazdu na narożniku węzła, dalej jezdnia serwisowa; brak DDR po drugiej stronie"
+ },
+ {
+  "id": 70,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec przejazdu na narożniku skrzyżowania, dalej chodnik; przejazdy w węźle oznakowane"
+ },
+ {
+  "id": 75,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR dojeżdża przejazdem do zachodniego chodnika; brak DDR po tamtej stronie, nic do dojechania"
+ },
+ {
+  "id": 76,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy jezdni serwisowej Wału, kontynuacja jezdnią"
+ },
+ {
+  "id": 79,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodni koniec przejazdu w węźle, dalej chodnik; brak DDR po tamtej stronie"
+ },
+ {
+  "id": 80,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na bocznej jezdni Przewodowej, kontynuacja jezdnią"
+ },
+ {
+  "id": 83,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy przystanku/zebrze na jezdni serwisowej, dalej jezdnia serwisowa"
+ },
+ {
+  "id": 84,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy zebrze na Strzygłowskiej, dalej chodnik przy placu budowy; teren w budowie, nie da się rozstrzygnąć"
+ },
+ {
+  "id": 85,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR z ronda kończy się przy jezdni serwisowej/chodniku, DDR główna biegnie po drugiej stronie ronda; brak luki do pokonania"
+ },
+ {
+  "id": 86,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR do ścieżki przy lesie; DDR biegnie ciągle wzdłuż ulicy, przejście jest piesze"
+ },
+ {
+  "id": 89,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR zachodnia kończy się w krzakach przy jezdni Wału (dwie jezdnie), DDR dalej po wschodniej stronie, bez przejazdu"
+ },
+ {
+  "id": 101,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła po obu stronach Wału, równoległe; punkt to tylko przejście piesze, nie ma końca infry"
+ },
+ {
+  "id": 557,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła po północnej stronie, zebra przy rondzie prowadzi na południowy chodnik bez DDR"
+ },
+ {
+  "id": 111,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na parkingu/drodze dojazdowej, brak DDR do przejechania po drugiej stronie"
+ },
+ {
+  "id": 114,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z ronda kończy się przy Skalnicowej, po obu stronach widać czerwonawe pasy poza mapą; nie da się rozstrzygnąć"
+ },
+ {
+  "id": 558,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd na rondzie ma czerwoną kostkę rowerową obok zebry (z20), OSM tylko zebra"
+ },
+ {
+  "id": 559,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd przy rondzie ma czerwoną nawierzchnię rowerową obok zebry, OSM tylko zebra"
+ },
+ {
+  "id": 561,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła, punkt to wlot ulicy bocznej, DDR przecina ją prosto"
+ },
+ {
+  "id": 139,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR (czerwony asfalt) ciągła wzdłuż Mrówczej, odnoga do zebry przy ulicy bocznej"
+ },
+ {
+  "id": 145,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła wzdłuż Mrówczej, odnoga do zebry przy ulicy bocznej"
+ },
+ {
+  "id": 165,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "CPR z ronda kończy się przy Mrówczej i przechodzi w sam chodnik, brak dalszej infry"
+ },
+ {
+  "id": 471,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z ronda przecina wlot Mrówczej zebrą na zachodni chodnik bez DDR, a DDR na północ kończy się na chodniku po drugiej stronie"
+ },
+ {
+  "id": 167,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony pas DDR widoczny dalej wzdłuż wschodniej strony Mrówczej, tylko geometria OSM przesunięta"
+ },
+ {
+  "id": 582,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła po wschodniej stronie, czerwone pole przy przejściu; brak luki"
+ },
+ {
+  "id": 185,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy ulicy Piechurów na parkingu szkoły, kontynuacja jezdnią"
+ },
+ {
+  "id": 586,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy przejściu widać czerwony przejazd rowerowy, DDR ciągła; OSM zebra"
+ },
+ {
+  "id": 587,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR urywa się przy szerokiej ulicy z pasem zieleni, przejście tylko zebra, DDR dalej po drugiej stronie; brak widocznego przejazdu"
+ },
+ {
+  "id": 588,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła po wschodniej stronie, przecina ulicę boczną"
+ },
+ {
+  "id": 591,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła, zebra tylko przy ulicy bocznej"
+ },
+ {
+  "id": 209,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy Widocznej (spokojna, pas parkingowy), kontynuacja jezdnią; plac budowy obok"
+ },
+ {
+  "id": 265,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR kończy się przy zieleńcu i bocznej ulicy Murmańskiej; brak DDR do przejechania"
+ },
+ {
+  "id": 266,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR kończy się przy bocznej spokojnej ulicy Murmańskiej, kontynuacja jezdnią"
+ },
+ {
+  "id": 275,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż trasy Marsa kończy się przy murze na chodniku, dalej brak infry"
+ }
+]

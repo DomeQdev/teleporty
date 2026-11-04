@@ -1,0 +1,282 @@
+[
+ {
+  "id": 613,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki odcinek DDR przecina uliczkę/parking osiedlowy; na zdjęciu brak widocznego oznakowania przejazdu, nic nie da się rozstrzygnąć."
+ },
+ {
+  "id": 282,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwie odnogi DDR kończą się na spokojnej ulicy Konarskiego/Bolkowskiej, kontynuacja to jazda jezdnią; to samo DDR po obu końcach."
+ },
+ {
+  "id": 296,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR przy wlocie bocznej ulicy, połączona z przejazdem (żółty); DDR dalej biegnie po tej samej stronie Radiowej."
+ },
+ {
+  "id": 297,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się przy jezdni Wrocławskiej tam, gdzie zaczyna się pas rowerowy w kierunku jazdy; wjazd na jezdnię/pas."
+ },
+ {
+  "id": 619,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Duże skrzyżowanie Radiowa/Wrocławska: DDR przechodzi przez jezdnie po zwykłych zebrach, bez widocznego czerwonego przejazdu (inne przejścia mają żółty)."
+ },
+ {
+  "id": 299,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się ślepo na jezdni ruchliwej Wrocławskiej (tertiary), po drugiej stronie DDR bez przejazdu; niska pewność, możliwy artefakt OSM."
+ },
+ {
+  "id": 300,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Wrocławskiej urywa się przy jezdni, dalej tylko odnoga w jezdni po drugiej stronie, bez przejazdu; niska pewność."
+ },
+ {
+  "id": 301,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga od równoległej DDR do jezdni Kocjana; DDR biegnie dalej obok, to artefakt łącznika."
+ },
+ {
+  "id": 303,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga od równoległej DDR do jezdni Kocjana; DDR biegnie dalej obok, to artefakt łącznika."
+ },
+ {
+  "id": 310,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na spokojnej ulicy Sołtana, wjazd na jezdnię osiedlową."
+ },
+ {
+  "id": 311,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR dochodzi do zebry przez ruchliwą Wrocławską, po zachodniej stronie brak DDR; niska pewność."
+ },
+ {
+  "id": 315,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR kończą się na spokojnej ulicy osiedlowej Archimedesa, główna DDR biegnie obok."
+ },
+ {
+  "id": 622,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Główna DDR mija wlot spokojnej ulicy Archimedesa, brak problemu; przejścia nie widać."
+ },
+ {
+  "id": 631,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR mija dojazd/parking osiedlowy, przecięcie to wjazd bramowy, nie przejście przez ulicę."
+ },
+ {
+  "id": 323,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "obrazek_widziany": true,
+  "komentarz": "Las, zdjęcie rozmyte, dalsza infra niewidoczna."
+ },
+ {
+  "id": 634,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "CPR przecina Radiową przy rondzie po białych zebrach, bez czerwonego przejazdu rowerowego; CPR po obu stronach."
+ },
+ {
+  "id": 641,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "W terenie jest czerwony przejazd rowerowy z zebrą przez Kawy; OSM ma tylko zebrę, do poprawki."
+ },
+ {
+  "id": 487,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Leśna ścieżka przecina Radiową zebrą, główna CPR biegnie obok bez przerwy; las."
+ },
+ {
+  "id": 488,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Leśna ścieżka przecina szosę przejściem, brak dalszej infry, las."
+ },
+ {
+  "id": 520,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy Gałczyńskiego widać czerwone płytki przejazdu rowerowego; w OSM tylko zebra."
+ },
+ {
+  "id": 57,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec DDR przy sześciopasmowej Al. Krakowskiej bez przejazdu, DDR kontynuuje po drugiej stronie; średnia pewność."
+ },
+ {
+  "id": 58,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec DDR przy sześciopasmowej Al. Krakowskiej bez przejazdu, DDR po drugiej stronie; średnia pewność."
+ },
+ {
+  "id": 59,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągnie się dalej po tej samej stronie, luka to dojazd do stacji; brak potrzeby przecinania jezdni."
+ },
+ {
+  "id": 64,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Al. Krakowskiej urywa się przy jezdni, ciąg DDR po zachodniej stronie za murem, bez przejazdu."
+ },
+ {
+  "id": 67,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Luka DDR wzdłuż ekranu akustycznego po tej samej stronie, brak widocznej ścieżki; nie rozstrzygnięte."
+ },
+ {
+  "id": 71,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Luka DDR wzdłuż ekranu akustycznego po tej samej stronie, brak widocznej ścieżki; nie rozstrzygnięte."
+ },
+ {
+  "id": 531,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Budowa/roboty drogowe na Aksamitnej, stan nieczytelny."
+ },
+ {
+  "id": 563,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Wielkie skrzyżowanie Al. Krakowska: DDR przechodzi przez jezdnię po zwykłych zebrach, bez czerwonego przejazdu."
+ },
+ {
+  "id": 564,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Wielkie skrzyżowanie Al. Krakowska: DDR przechodzi po zwykłych zebrach, bez czerwonego przejazdu."
+ },
+ {
+  "id": 565,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie Łopuszańska/Krakowska: DDR przez łącznik po zwykłej zebrze, bez przejazdu rowerowego."
+ },
+ {
+  "id": 131,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR wpadają na spokojną ulicę Przedpole, jest też przejazd (żółty)."
+ },
+ {
+  "id": 134,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR przy placu budowy, niejasny stan."
+ },
+ {
+  "id": 135,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na spokojnej Kociego Wąsa, jest przejazd obok; okolica to budowa."
+ },
+ {
+  "id": 138,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR kończą się na osiedlowym dojeździe Instalatorów, wjazd na jezdnię spokojną."
+ },
+ {
+  "id": 142,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR kończą się na osiedlowym dojeździe Instalatorów, wjazd na jezdnię spokojną."
+ },
+ {
+  "id": 143,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki odcinek CPR kończy się na ulicy osiedlowej, dalej jezdnią; drzewa."
+ },
+ {
+  "id": 571,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina Równoległą bez widocznego przejazdu (OSM: sama zebra); samochody zasłaniają, niska pewność."
+ },
+ {
+  "id": 157,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy rondzie, DDR biegnie dalej wzdłuż ulicy; jezdnia spokojna."
+ },
+ {
+  "id": 572,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina Równoległą w środku skrzyżowania bez widocznego przejazdu, tylko zebra wg OSM; niska pewność."
+ },
+ {
+  "id": 573,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina Szybką, widać tylko białą zebrę, bez czerwonego przejazdu."
+ }
+]
