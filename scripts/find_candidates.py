@@ -77,6 +77,20 @@ def has_lane(t):
     return False
 
 
+def is_contraflow(t):
+    """Pas wyłącznie pod prąd jednokierunkowej (kontrapas/kontraruch)."""
+    vals = [t.get(k, "") for k in ("cycleway", "cycleway:both", "cycleway:left", "cycleway:right")]
+    if any(v.startswith("opposite") for v in vals) and not any(v in ("lane", "track") for v in vals):
+        return True
+    if t.get("oneway") in ("yes", "1", "-1") and t.get("oneway:bicycle") == "no":
+        with_flow = "cycleway:left" if t.get("oneway") == "-1" else "cycleway:right"
+        if t.get(with_flow) in ("lane", "track") or t.get("cycleway") in ("lane", "track") \
+                or t.get("cycleway:both") in ("lane", "track"):
+            return False
+        return True
+    return False
+
+
 def classify(t):
     """Zwraca (klasa, podtyp). Klasy: infra, ped, ped_bike, crossing_ped, road_quiet,
     road_busy, road_forbidden, construction, ignore."""
@@ -108,7 +122,7 @@ def classify(t):
         return ("ped", t.get("footway") or hw)
     if hw in QUIET_ROADS or hw in BUSY_ROADS or hw in FAST_ROADS:
         if has_lane(t):
-            return ("infra", "pas")
+            return ("infra", "kontraruch" if is_contraflow(t) else "pas")
         if hw == "track" and bic not in BIKE_OK:
             return ("road_quiet", hw)
         if bic in ("no",) or hw in ("motorway", "motorway_link"):
@@ -169,7 +183,7 @@ def main(pkl, outdir):
                 if c[0] == "infra":
                     infra_adj[a].append((b, L))
                     infra_adj[b].append((a, L))
-                if c[0] != "infra" or c[1] == "pas":
+                if c[0] != "infra" or c[1] in ("pas", "kontraruch"):
                     road_adj[a].append((b, L))
                     road_adj[b].append((a, L))
 
@@ -206,7 +220,7 @@ def main(pkl, outdir):
     for i, w in enumerate(ways):
         if len(w["coords"]) < 2:
             continue
-        if cls[i][0] in ("road_busy", "road_forbidden") or (cls[i][1] == "pas" and
+        if cls[i][0] in ("road_busy", "road_forbidden") or (cls[i][1] in ("pas", "kontraruch") and
                                                             w["tags"].get("highway") in BUSY_ROADS | FAST_ROADS):
             busy_geoms.append(LineString([xy(*c) for c in w["coords"]]))
             busy_names.append(w["tags"].get("name") or w["tags"].get("ref") or f"way{w['id']}")
@@ -258,7 +272,7 @@ def main(pkl, outdir):
 
         reasons = []
         score = 0.0
-        is_lane = infra_types == ["pas"]
+        is_lane = set(infra_types) <= {"pas", "kontraruch"}
 
         # --- co jest na końcu
         if not others:
@@ -365,7 +379,7 @@ def main(pkl, outdir):
             if net <= max(4 * e, e + 120):
                 continue
             # pas przerwany na skrzyżowaniu: pas -> pas tej samej jezdni, po jezdni blisko
-            if is_lane and cls[seg_way[j]][1] == "pas":
+            if is_lane and cls[seg_way[j]][1] in ("pas", "kontraruch"):
                 if road_dist is None:
                     road_dist = dijkstra(n, road_adj, 300)
                 rnet = min(road_dist.get(a, 1e9) + math.hypot(proj.x - ax, proj.y - ay),

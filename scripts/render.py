@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Renderuje podgląd satelitarny (Esri World Imagery) z narysowaną infrastrukturą z OSM.
 
-Kolory:  zielony = DDR/CPR, niebieski = pas rowerowy, żółty = przejazd rowerowy,
+Kolory:  zielony = DDR/CPR, niebieski = pas rowerowy, cyjan = kontrapas, żółty = przejazd rowerowy,
          biały cienki = chodnik/ścieżka piesza, różowy = przejście bez przejazdu,
          czerwone kółko = koniec infry (kandydat), magenta linia = "teleport" (luka do innej infry),
          pomarańczowa linia = niepołączony dalszy ciąg na wprost.
@@ -60,6 +60,7 @@ STYLE = {
     ("infra", "DDR/CPR"): ((0, 230, 0), 4),
     ("infra", "CPR"): ((140, 255, 80), 4),
     ("infra", "pas"): ((30, 140, 255), 5),
+    ("infra", "kontraruch"): ((0, 220, 255), 4),
     ("infra", "przejazd"): ((255, 230, 0), 4),
     ("crossing_ped", None): ((255, 80, 200), 2),
     ("ped", None): ((235, 235, 235), 1),

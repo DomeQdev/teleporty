@@ -107,7 +107,7 @@
     "reasons": [
      "pas rowerowy urywa się na tertiary",
      "węzeł to przejście dla pieszych (highway=crossing) bez przejazdu",
-     "TELEPORT: pas Ordynacka 49 m dalej, po infrze nie da się dojechać (>900 m)",
+     "TELEPORT: kontraruch Ordynacka 49 m dalej, po infrze nie da się dojechać (>900 m)",
      "duże skrzyżowanie: 6 ruchliwe ulice, 7 przejść bez przejazdu w 45 m"
     ],
     "touching_names": [
@@ -997,7 +997,7 @@
     "lat": 52.3319974,
     "score": 4.71,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      23265119
     ],
@@ -3849,7 +3849,7 @@
     ],
     "reasons": [
      "DDR wpada na jezdnię tertiary",
-     "TELEPORT: pas Czerwona Droga 12 m dalej, po infrze nie da się dojechać (>900 m)",
+     "TELEPORT: kontraruch Czerwona Droga 12 m dalej, po infrze nie da się dojechać (>900 m)",
      "duże skrzyżowanie: 2 ruchliwe ulice, 4 przejść bez przejazdu w 45 m"
     ],
     "touching_names": [
@@ -3877,7 +3877,7 @@
     "lat": 52.2020198,
     "score": 8.01,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      54679030
     ],
@@ -4474,7 +4474,7 @@
     "lat": 52.2377029,
     "score": 9.42,
     "end_type": "zakaz",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      10095415
     ],
@@ -4509,7 +4509,7 @@
     "lat": 52.2375133,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      10095415
     ],
@@ -4562,7 +4562,7 @@
     "lat": 52.2196058,
     "score": 7.37,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      4949317
     ],
@@ -4602,7 +4602,7 @@
     ],
     "reasons": [
      "DDR wpada na jezdnię tertiary",
-     "TELEPORT: pas Mokotowska 38 m dalej, po infrze 852 m",
+     "TELEPORT: kontraruch Mokotowska 38 m dalej, po infrze 852 m",
      "duże skrzyżowanie: 4 ruchliwe ulice, 2 przejść bez przejazdu w 45 m"
     ],
     "touching_names": [
@@ -7607,7 +7607,7 @@
     "lat": 52.22143,
     "score": 6.24,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      127717692
     ],
@@ -7641,7 +7641,7 @@
     "lat": 52.2214141,
     "score": 5.88,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      127717692
     ],
@@ -7996,7 +7996,7 @@
     "lat": 52.2949988,
     "score": 6.7,
     "end_type": "przejscie_bez_przejazdu",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      92784046
     ],
@@ -8025,7 +8025,7 @@
     "lat": 52.2950195,
     "score": 4.2,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      92784046
     ],
@@ -9446,7 +9446,7 @@
     "lat": 52.2360691,
     "score": 4.7,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1090875081
     ],
@@ -9480,7 +9480,7 @@
     "lat": 52.2360123,
     "score": 4.64,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1090875080
     ],
@@ -9514,7 +9514,7 @@
     "lat": 52.2359572,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1090875080
     ],
@@ -9542,7 +9542,7 @@
     "lat": 52.2359565,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1090875082
     ],
@@ -9914,7 +9914,7 @@
     "lat": 52.204496,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      472220359
     ],
@@ -10138,7 +10138,7 @@
     "lat": 52.1503893,
     "score": 5.4,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      952692427
     ],
@@ -10177,7 +10177,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (service)",
-     "TELEPORT: pas Kokosowa 5 m dalej, po infrze nie da się dojechać (>900 m)"
+     "TELEPORT: kontraruch Kokosowa 5 m dalej, po infrze nie da się dojechać (>900 m)"
     ],
     "touching_names": [],
     "gap": {
@@ -10228,7 +10228,7 @@
     "lat": 52.2229987,
     "score": 4.49,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      25886892
     ],
@@ -10268,7 +10268,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "TELEPORT: pas Przemysłowa 29 m dalej, po infrze nie da się dojechać (>900 m)"
+     "TELEPORT: kontraruch Przemysłowa 29 m dalej, po infrze nie da się dojechać (>900 m)"
     ],
     "touching_names": [
      "Przemysłowa"
@@ -11657,7 +11657,7 @@
     "lat": 52.2258128,
     "score": 6.2,
     "end_type": "przejscie_bez_przejazdu",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490092774
     ],
@@ -11685,7 +11685,7 @@
     "lat": 52.2257256,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490092774
     ],
@@ -12012,7 +12012,7 @@
     "lat": 52.2443156,
     "score": 5.5,
     "end_type": "przejscie_bez_przejazdu",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      23021414
     ],
@@ -12040,7 +12040,7 @@
     "lat": 52.2444495,
     "score": 3.3,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      23021414
     ],
@@ -13254,7 +13254,7 @@
     "lat": 52.2274487,
     "score": 4.02,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1031000450
     ],
@@ -13293,7 +13293,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential, service)",
-     "TELEPORT: pas Nowogrodzka 39 m dalej, po infrze nie da się dojechać (>900 m)"
+     "TELEPORT: kontraruch Nowogrodzka 39 m dalej, po infrze nie da się dojechać (>900 m)"
     ],
     "touching_names": [
      "Nowogrodzka"
@@ -13320,7 +13320,7 @@
     "lat": 52.2273626,
     "score": 1.78,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490091829
     ],
@@ -13357,7 +13357,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 191 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 191 m dalej, niepołączony"
     ],
     "touching_names": [
      "Nowogrodzka"
@@ -13382,7 +13382,7 @@
     "lat": 52.2275727,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490092192
     ],
@@ -13408,7 +13408,7 @@
     "lat": 52.2272507,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490092675
     ],
@@ -13678,7 +13678,7 @@
     "lat": 52.1835963,
     "score": 5.8,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1124870730
     ],
@@ -13707,7 +13707,7 @@
     "lat": 52.183551,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1124870730
     ],
@@ -14206,7 +14206,7 @@
     "lat": 52.2312486,
     "score": 5.0,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1066642574
     ],
@@ -14239,7 +14239,7 @@
     "lat": 52.2310601,
     "score": 3.6,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1066642574
     ],
@@ -15230,7 +15230,7 @@
     "lat": 52.2361952,
     "score": 6.09,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1038330180
     ],
@@ -15574,7 +15574,7 @@
     ],
     "reasons": [
      "DDR wpada na jezdnię secondary",
-     "TELEPORT: pas Kapucyńska 15 m dalej, po infrze 195 m",
+     "TELEPORT: kontraruch Kapucyńska 15 m dalej, po infrze 195 m",
      "duże skrzyżowanie: 2 ruchliwe ulice, 0 przejść bez przejazdu w 45 m"
     ],
     "touching_names": [
@@ -18466,7 +18466,7 @@
     "lat": 52.1514906,
     "score": 5.78,
     "end_type": "jezdnia_spokojna+przejscie",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      826669343
     ],
@@ -18805,7 +18805,7 @@
     "lat": 52.1433081,
     "score": 4.33,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      4972536
     ],
@@ -18844,7 +18844,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "TELEPORT: pas Sójki 32 m dalej, po infrze nie da się dojechać (>900 m)"
+     "TELEPORT: kontraruch Sójki 32 m dalej, po infrze nie da się dojechać (>900 m)"
     ],
     "touching_names": [
      "Sójki"
@@ -19411,7 +19411,7 @@
     "lat": 52.2330267,
     "score": 4.69,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      570082844
     ],
@@ -19444,7 +19444,7 @@
     "lat": 52.2329288,
     "score": 2.76,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      570082844
     ],
@@ -21218,7 +21218,7 @@
     "lat": 52.2599854,
     "score": 5.36,
     "end_type": "przejscie_bez_przejazdu",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      198514046
     ],
@@ -23155,7 +23155,7 @@
     ],
     "reasons": [
      "DDR wpada na jezdnię secondary",
-     "dalszy ciąg (pas) na wprost 195 m dalej, niepołączony",
+     "dalszy ciąg (kontraruch) na wprost 195 m dalej, niepołączony",
      "duże skrzyżowanie: 1 ruchliwe ulice, 5 przejść bez przejazdu w 45 m"
     ],
     "touching_names": [
@@ -23187,7 +23187,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 164 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 164 m dalej, niepołączony"
     ],
     "touching_names": [
      "Nowogrodzka"
@@ -23600,7 +23600,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 141 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 141 m dalej, niepołączony"
     ],
     "touching_names": [
      "Tadeusza Hennela"
@@ -23751,7 +23751,7 @@
     "lat": 52.2236389,
     "score": 5.0,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      605336677
     ],
@@ -27135,7 +27135,7 @@
     ],
     "reasons": [
      "DDR wpada na jezdnię tertiary",
-     "dalszy ciąg (pas) na wprost 130 m dalej, niepołączony",
+     "dalszy ciąg (kontraruch) na wprost 130 m dalej, niepołączony",
      "duże skrzyżowanie: 1 ruchliwe ulice, 2 przejść bez przejazdu w 45 m"
     ],
     "touching_names": [
@@ -29774,7 +29774,7 @@
     "lat": 52.2249209,
     "score": 3.9,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1110130828
     ],
@@ -29803,7 +29803,7 @@
     "lat": 52.2248197,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1110130828
     ],
@@ -32734,7 +32734,7 @@
     "lat": 52.220736,
     "score": 3.25,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1109170945
     ],
@@ -32766,7 +32766,7 @@
     "lat": 52.2208246,
     "score": 2.99,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1109170945
     ],
@@ -32986,7 +32986,7 @@
     ],
     "reasons": [
      "kończy się na chodniku/ścieżce pieszej (footway)",
-     "dalszy ciąg (pas) na wprost 147 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 147 m dalej, niepołączony"
     ],
     "touching_names": [],
     "gap": null,
@@ -33831,7 +33831,7 @@
     "lat": 52.2596528,
     "score": 4.17,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      198514046
     ],
@@ -34124,7 +34124,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 99 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 99 m dalej, niepołączony"
     ],
     "touching_names": [
      "Nowogrodzka"
@@ -36680,7 +36680,7 @@
     "lat": 52.2233115,
     "score": 3.31,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490094791
     ],
@@ -36713,7 +36713,7 @@
     "lat": 52.2234292,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490094791
     ],
@@ -37620,7 +37620,7 @@
     "lat": 52.2284819,
     "score": 2.25,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490094945
     ],
@@ -37651,7 +37651,7 @@
     "lat": 52.2283699,
     "score": 2.11,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490094961
     ],
@@ -37682,7 +37682,7 @@
     "lat": 52.2282725,
     "score": 1.65,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490094944
     ],
@@ -37713,7 +37713,7 @@
     "lat": 52.2281944,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1101843699
     ],
@@ -38436,7 +38436,7 @@
     "lat": 52.2308357,
     "score": 2.72,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1573587987
     ],
@@ -38469,7 +38469,7 @@
     "lat": 52.2308127,
     "score": 2.66,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1573587987
     ],
@@ -40007,7 +40007,7 @@
     "lat": 52.2581939,
     "score": 3.5,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      5200364
     ],
@@ -44039,7 +44039,7 @@
     "lat": 52.2083034,
     "score": 3.5,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1513661116
     ],
@@ -44266,7 +44266,7 @@
     "lat": 52.2863078,
     "score": 3.49,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      746390326
     ],
@@ -44379,7 +44379,7 @@
     "lat": 52.2357047,
     "score": 3.47,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1107944736
     ],
@@ -45482,7 +45482,7 @@
     "lat": 52.1996428,
     "score": 3.3,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      28383570
     ],
@@ -46102,7 +46102,7 @@
     "lat": 52.2513351,
     "score": 3.2,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      13028502
     ],
@@ -46470,7 +46470,7 @@
     "lat": 52.2492114,
     "score": 3.2,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1231922663
     ],
@@ -46897,7 +46897,7 @@
     "lat": 52.2385335,
     "score": 3.11,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      939331969
     ],
@@ -46953,7 +46953,7 @@
     "lat": 52.2168689,
     "score": 3.1,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      390483321
     ],
@@ -47438,7 +47438,7 @@
     "lat": 52.2263176,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1110128095
     ],
@@ -47994,7 +47994,7 @@
     "lat": 52.2241247,
     "score": 3.0,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      605336677
     ],
@@ -50295,7 +50295,7 @@
     "lat": 52.2228268,
     "score": 2.81,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      25886892
     ],
@@ -50999,7 +50999,7 @@
     "lat": 52.1523767,
     "score": 2.74,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      25709245
     ],
@@ -51840,7 +51840,7 @@
     "lat": 52.2437322,
     "score": 2.6,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      759166631
     ],
@@ -52633,7 +52633,7 @@
     ],
     "reasons": [
      "DDR wpada na jezdnię tertiary",
-     "dalszy ciąg (pas) na wprost 184 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 184 m dalej, niepołączony"
     ],
     "touching_names": [
      "Ratuszowa"
@@ -52838,7 +52838,7 @@
     "lat": 52.2349052,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1090875083
     ],
@@ -52865,7 +52865,7 @@
     "lat": 52.2350281,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1090875084
     ],
@@ -52892,7 +52892,7 @@
     "lat": 52.2348239,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      28513112
     ],
@@ -52997,7 +52997,7 @@
     "lat": 52.2395829,
     "score": 2.34,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      13035645
     ],
@@ -53768,7 +53768,7 @@
     "lat": 52.2381678,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      61052512
     ],
@@ -53795,7 +53795,7 @@
     "lat": 52.2379146,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      857643451
     ],
@@ -53847,7 +53847,7 @@
     "lat": 52.2268271,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      73044133
     ],
@@ -53874,7 +53874,7 @@
     "lat": 52.2266102,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1498422288
     ],
@@ -53925,7 +53925,7 @@
     "lat": 52.2494672,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      386460976
     ],
@@ -53952,7 +53952,7 @@
     "lat": 52.2493594,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      539483102
     ],
@@ -54030,7 +54030,7 @@
     "lat": 52.233214,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1093683767
     ],
@@ -54080,7 +54080,7 @@
     "lat": 52.2329595,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1093683769
     ],
@@ -54107,7 +54107,7 @@
     "lat": 52.2330311,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1093683769
     ],
@@ -54158,7 +54158,7 @@
     "lat": 52.2247633,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490094790
     ],
@@ -54186,7 +54186,7 @@
     "lat": 52.2246504,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1490094790
     ],
@@ -54237,7 +54237,7 @@
     "lat": 52.2015536,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1499452516
     ],
@@ -54264,7 +54264,7 @@
     "lat": 52.201732,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1499452516
     ],
@@ -54316,7 +54316,7 @@
     "lat": 52.2220999,
     "score": 2.14,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      205341671
     ],
@@ -54371,7 +54371,7 @@
     "lat": 52.202714,
     "score": 2.14,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      834575065
     ],
@@ -54482,7 +54482,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 64 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 64 m dalej, niepołączony"
     ],
     "touching_names": [
      "Emilii Plater"
@@ -54925,7 +54925,7 @@
     "lat": 52.2471387,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      778693322
     ],
@@ -55510,7 +55510,7 @@
     "lat": 52.2534634,
     "score": 2.0,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      808465062
     ],
@@ -56883,7 +56883,7 @@
     "lat": 52.2181678,
     "score": 1.99,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      390483321
     ],
@@ -57359,7 +57359,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 70 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 70 m dalej, niepołączony"
     ],
     "touching_names": [
      "Poznańska"
@@ -58080,13 +58080,13 @@
     "lat": 52.2340434,
     "score": 1.84,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      28513112
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 153 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 153 m dalej, niepołączony"
     ],
     "touching_names": [
      "Foksal"
@@ -59739,7 +59739,7 @@
     "lat": 52.2030794,
     "score": 1.69,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      29115604
     ],
@@ -59801,7 +59801,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (residential)",
-     "dalszy ciąg (pas) na wprost 123 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 123 m dalej, niepołączony"
     ],
     "touching_names": [
      "Koszykowa"
@@ -59851,7 +59851,7 @@
     "lat": 52.2383941,
     "score": 1.69,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1075872105
     ],
@@ -60225,7 +60225,7 @@
     "lat": 52.2016812,
     "score": 1.62,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1543155611
     ],
@@ -60337,7 +60337,7 @@
     "lat": 52.1522417,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      25709245
     ],
@@ -60439,7 +60439,7 @@
     "lat": 52.236529,
     "score": 1.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1038330180
     ],
@@ -61916,7 +61916,7 @@
     "lat": 52.2307097,
     "score": 1.5,
     "end_type": "jezdnia_ruchliwa",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      546653499
     ],
@@ -63177,7 +63177,7 @@
     ],
     "reasons": [
      "wjazd na spokojną jezdnię (living_street)",
-     "dalszy ciąg (pas) na wprost 188 m dalej, niepołączony"
+     "dalszy ciąg (kontraruch) na wprost 188 m dalej, niepołączony"
     ],
     "touching_names": [],
     "gap": null,
@@ -64187,7 +64187,7 @@
     "lat": 52.2377616,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1038330179
     ],
@@ -64213,7 +64213,7 @@
     "lat": 52.2375027,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1038330181
     ],
@@ -64466,7 +64466,7 @@
     "lat": 52.142928,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      4972536
     ],
@@ -64514,7 +64514,7 @@
     "lat": 52.2059121,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      4999156
     ],
@@ -64716,7 +64716,7 @@
     "lat": 52.2105525,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      23771415
     ],
@@ -64766,7 +64766,7 @@
     "lat": 52.1554523,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      25709250
     ],
@@ -64816,7 +64816,7 @@
     "lat": 52.1531105,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      25709250
     ],
@@ -64867,7 +64867,7 @@
     "lat": 52.201553,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      28383569
     ],
@@ -65067,7 +65067,7 @@
     "lat": 52.3301221,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      172934974
     ],
@@ -65117,7 +65117,7 @@
     "lat": 52.2616767,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      184345869
     ],
@@ -65167,7 +65167,7 @@
     "lat": 52.2628671,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      184345869
     ],
@@ -65414,7 +65414,7 @@
     "lat": 52.1936216,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      698064469
     ],
@@ -65465,7 +65465,7 @@
     "lat": 52.2434933,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      759166631
     ],
@@ -65564,7 +65564,7 @@
     "lat": 52.1810583,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      891673156
     ],
@@ -65615,7 +65615,7 @@
     "lat": 52.2255802,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      942133758
     ],
@@ -65665,7 +65665,7 @@
     "lat": 52.2365683,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1037006527
     ],
@@ -65767,7 +65767,7 @@
     "lat": 52.2267889,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1110128095
     ],
@@ -65915,7 +65915,7 @@
     "lat": 52.2099274,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1344800001
     ],
@@ -66016,7 +66016,7 @@
     "lat": 52.2002323,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1499452517
     ],
@@ -66067,7 +66067,7 @@
     "lat": 52.2304285,
     "score": 0.6,
     "end_type": "jezdnia_spokojna",
-    "infra": "pas",
+    "infra": "kontraruch",
     "infra_ways": [
      1572377653
     ],
