@@ -262,5 +262,113 @@
   "nodes": [],
   "komentarz": "Krótka odnoga DDR do parkingu P+R / wiaty rowerowej przy stacji, kończy się na terenie parkingu; główna DDR (niebieski pas) ciągła obok",
   "obrazek_widziany": true
+ },
+ {
+  "rank": 485,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR kończy się przy zjeździe do garażu/drodze dojazdowej kampusu; dalej utwardzona droga serwisowa, brak zmuszania do chodnika/trawnika",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 496,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wschodniej strony Puławskiej kończy się wjazdem na wąską uliczkę serwisową z parkującymi autami, dalej jezdnią; przejście w OSM to tylko zjazd",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 497,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd przez Jasną przecina pas rowerowy Świętokrzyskiej (styka się z nim); końcówka na południowym rogu to zbędny stub, nie teleport",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 498,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   13171540080
+  ],
+  "komentarz": "Plac budowy przebudowy Spacerowej (jak #460); CPR przebiega przez teren budowy, zdjęcie z czasu robót",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 499,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krótka odnoga DDR w stronę pustej działki pod zabudowę, główna DDR wzdłuż Konstruktorskiej ciągła; nikt tamtędy nie musi jechać",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 500,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   10079669997
+  ],
+  "komentarz": "Budowa torowiska/ulicy (Gagarina/Górska), zdjęcie z czasu robót; krótka odnoga z przejazdem kończy się na chodniku, stan docelowy nieznany",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 506,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR w parku dochodzi do skrzyżowania utwardzonych alejek parkowych, które ciągną się dalej; sensowne zakończenie",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 513,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   6652938191
+  ],
+  "komentarz": "CPR wzdłuż Pileckiego kończy się przy zjeździe w boczną uliczkę osiedlową; w kierunku SE dalej tylko chodnik przy arterii, nie widać czy trasa tam ma się ciągnąć",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 516,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   9937720100
+  ],
+  "komentarz": "DDR z Białostockiej po krótkim przejeździe przez Markowską urywa się na chodniku (krawężnik), dalej brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 520,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR z przejazdem przez Międzyparkową styka się z pasem rowerowym biegnącym jezdnią; końcówka na wschodnim poboczu to zbędny stub",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 521,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   13093280265
+  ],
+  "komentarz": "Długi przejazd rowerowy przez wielkie skrzyżowanie Słomińskiego/Pamiętajcie o Ogrodach kończy się na chodniku przy centrum handlowym, dalej brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 534,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   8072991642
+  ],
+  "komentarz": "DDR wzdłuż rampy kończy się wejściem w ogród dachowy BUW – tylko ścieżki piesze (zakaz rowerów), dalszy ciąg infry 200 m dalej bez połączenia",
+  "obrazek_widziany": true
  }
 ]

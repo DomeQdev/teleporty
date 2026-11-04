@@ -1,0 +1,384 @@
+[
+ {
+  "rank": 154,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   13337061255
+  ],
+  "komentarz": "DDR urywa sie w zadrzewionym skwerze miedzy blokiem a Al. Niepodleglosci; dalej tylko trawa/sciezki piesze, DDR 93 m dalej bez polaczenia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 156,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR wchodzi w Aleje Lukasinskiego (footway bicycle=yes) w parku - alejka parkowa z dopuszczonym rowerem",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 160,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krotka odnoga DDR konczy sie na ulicy bocznej (Kraushara) z namalowanymi pasami czerwonymi, dalej jezdnia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 161,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   13061908863
+  ],
+  "komentarz": "DDR zachodniej strony Niepodleglosci konczy sie na przejsciu dla pieszych przez torowisko i jezdnie; DDR wschodni po drugiej stronie bez przejazdu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 175,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR trasy AK przechodzi przez wiadukt Torunskiej alejka/footway z bicycle=yes; luka 72 m to sciezka rowerowo-piesza",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 176,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Ta sama luka co 175 - polaczenie footway bicycle=yes przez wiadukt",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 178,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   12160549512
+  ],
+  "komentarz": "DDR mapowany przez plac budowy; zdjecie pokazuje wykopy i zbiorniki, brak pewnosci co do stanu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 179,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   12647468054
+  ],
+  "komentarz": "Drugi koniec tej samej luki przez plac budowy; nie do rozstrzygniecia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 191,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   11360605074
+  ],
+  "komentarz": "DDR z ulicy Potoki konczy sie na chodniku przy Al. Wilanowskiej; DDR dopiero 85 m dalej, przejscie bez przejazdu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 194,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krotka odnoga DDR na koncu ulicy Morelowej, laczy sie z jezdnia/droga gruntowa",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 209,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10181504156
+  ],
+  "komentarz": "Przejazd przez dojazd konczy sie na naroznym chodniku (bicycle=yes) przy duzym skrzyzowaniu Zwirki/Wawelska, brak dalszej infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 211,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   2507052072
+  ],
+  "komentarz": "DDR przechodzi przez Pulawska i konczy sie na zachodnim chodniku przy skrzyzowaniu Woronicza, dalej brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 212,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3347715617
+  ],
+  "komentarz": "Przejazd przez Pulawska konczy sie na zachodnim chodniku/naroznik, brak dalszej infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 213,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Odnoga DDR przy rondzie konczy sie na chodniku, ale glowna DDR biegnie dalej; mozliwy zjazd na jezdnie",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 221,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4785102868
+  ],
+  "komentarz": "Odnoga DDR konczy sie na przystanku/chodniku przy Indiry Gandhi; dalszy DDR 166 m dalej niepolaczony",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 224,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR konczy sie na placyku/dojezdzie przy parkingu przy budowie, dalej jedzie sie jezdnia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 232,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   7599425771
+  ],
+  "komentarz": "DDR zachodniej strony Pulawskiej urywa sie w trawie; DDR po wschodniej stronie, brak przejazdu (zdjecie starsze, wczesna wiosna)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 234,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4987722383
+  ],
+  "komentarz": "Samotny przejazd przez Wawelska konczy sie na poludniowym chodniku przy budynku, brak dalszej infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 236,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   8256025796
+  ],
+  "komentarz": "DDR polnocnej strony konczy sie przy niezabudowanej dzialce w trawie, dalej tylko mapowany chodnik; DDR po drugiej stronie jezdni",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 242,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   12247174005
+  ],
+  "komentarz": "Przejazd przez Boboli/Rakowiecka konczy sie na wschodnim chodniku, brak dalszej infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 252,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   8957557707
+  ],
+  "komentarz": "Odnoga DDR przy Woloskiej konczy sie w krzakach/zieleni przy trafostacji, dalej brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 263,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Kontrapas/pas Leszczynskiej konczy sie na skrzyzowaniu z ulica lokalna, dalej jezdnia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 268,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Odnoga DDR wpada na jezdnie (pas przy 11 Listopada), lagodne wlaczenie",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 273,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10689436357
+  ],
+  "komentarz": "Przejazd przez Mickiewicza konczy sie na zachodnim chodniku przy rogu Zajaczka, brak dalszej infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 274,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   3416797865
+  ],
+  "komentarz": "DDR na Pl. Trzech Krzyzy konczy sie na chodniku przy narozniku, o kilka metrow zaczyna sie pas rowerowy na jezdni bez dojazdu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 275,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR biegnie dalej lukiem na poludniowy wschod, koniec to wezel w obrebie skrzyzowania; chodnik na polnoc piesy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 279,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Odnoga DDR w prywatnym skwerze biurowym konczy sie na alejce, teren wewnetrzny",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 285,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   11370470404
+  ],
+  "komentarz": "DDR narysowany w poprzek dwoch jezdni Sikorskiego bez przejazdu i konczy sie w trawie przy budynku",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 299,
+  "werdykt": "blad_mapy",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krotka odnoga DDR w lace nie istnieje w rzeczywistosci, glowna DDR biegnie dalej",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 303,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4268621227
+  ],
+  "komentarz": "DDR z Obwodowej konczy sie na rogu Kolowej/Sw. Wincentego, tylko przejscia piesze",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 305,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR konczy sie na skrzyzowaniu z lokalna ulica (Suwak/Logarytmiczna), dalej jezdnia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 312,
+  "werdykt": "blad_mapy",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Ta sama sciezka asfaltowa (CPR) ciagnie sie dalej na poludnie, w OSM tylko oznaczona jako chodnik",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 331,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4431628149
+  ],
+  "komentarz": "Przejazd przez Poleczki konczy sie na polnocnym chodniku, brak dalszej infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 332,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4428808256
+  ],
+  "komentarz": "Przejazd przez Poleczki konczy sie na polnocnej wysepce/chodniku, brak dalszej infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 334,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   2457553664
+  ],
+  "komentarz": "Przejazd przez Nowoursynowska konczy sie na wschodnim chodniku przy zieleni, brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 336,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   9767805493
+  ],
+  "komentarz": "Przejazd przez Sikorskiego konczy sie na wschodnim chodniku, brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 337,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3225515772
+  ],
+  "komentarz": "Przejazd przez Pulawska konczy sie na zachodnim chodniku, brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 338,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   2507052080
+  ],
+  "komentarz": "Przejazd przez Pulawska konczy sie na zachodnim chodniku, brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 339,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   9850235156
+  ],
+  "komentarz": "Przejazd konczy sie na wschodnim chodniku przy ulicy lokalnej, brak infry (lagodny przypadek)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 342,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   12825044916
+  ],
+  "komentarz": "Przejazd przez Woronicza konczy sie na poludniowym chodniku, brak infry",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 346,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4869543272
+  ],
+  "komentarz": "Przejazd przy Studenckiej konczy sie na chodniku, DDR 187 m dalej niepolaczony",
+  "obrazek_widziany": true
+ }
+]
