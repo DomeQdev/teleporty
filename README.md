@@ -10,15 +10,20 @@ m.st. Warszawy (relacja `admin_level=6`).
 
 ## Wynik: zweryfikowane teleporty (stan OSM 2026-11-03)
 
-**191 faktycznych teleportów** (+72 niepewne, +20 błędów mapy) – po odsianiu regułami i obejrzeniu
-każdego z 492 pozostałych miejsc na zdjęciu satelitarnym.
+**335 faktycznych teleportów** (+132 niepewne, +87 błędów mapy) z dwóch rund weryfikacji.
 
-* `out/teleporty_mapa.html` – mapa tylko z teleportami / niepewnymi / błędami mapy, z komentarzem do każdego
-* `out/teleporty.csv` – faktyczne teleporty i niepewne, z komentarzem, linkami do OSM i Street View
-* `out/bledy_mapy.csv` – infra istnieje w terenie, w OSM brakuje połączenia (do poprawy w OSM)
+| runda | co | teleport | niepewne | błąd mapy |
+|---|---|---|---|---|
+| 1 | końce infry (chodnik, krzaki, przejście bez przejazdu, luka) | 191 | 72 | 20 |
+| 2 | teleporty przez ulicę (K1–K4, `scripts/find_cross_road.py`) | 144 | 60 | 67 |
+
+Runda 2 – typy: zebra zamiast przejazdu 48, przez ulicę 41, chodnik 38, przejście bez przejazdu 10,
+chodnik z dopuszczonym ruchem rowerów 6, krzaki 1.
+
+* `out/teleporty_mapa.html` – mapa z teleportami / niepewnymi / błędami mapy z obu rund, komentarz do każdego
+* `out/teleporty.csv` – teleporty i niepewne (kolumna `runda`), linki do OSM i Street View
+* `out/bledy_mapy.csv` – w terenie jest przejazd/połączenie, w OSM brak albo złe tagi (do poprawy w OSM)
 * `out/teleporty.geojson`, `out/teleporty.json`
-
-Typy teleportów: chodnik 112, przejście bez przejazdu 40, krzaki 23, luka do innej infry 13, skrzyżowanie 3.
 
 ### Jak weryfikowano
 1. Reguły (`scripts/prepare_review.py`) – za OK uznane bez oglądania: wpadnięcie na jezdnię (dowolną,
@@ -28,7 +33,16 @@ Typy teleportów: chodnik 112, przejście bez przejazdu 40, krzaki 23, luka do i
    niecommitowane) przez agentów AI wg `out/weryfikacja/INSTRUKCJA.md`; Warszawa podzielona na 3 pasy
    zachód→wschód (`czesc1..3.json`), części 1 i 2 przeliczone w mniejszych paczkach (`redo/`), bo
    pierwszy przebieg nie widział obrazków. Werdykty: `out/weryfikacja/wynik*.json`.
-3. `scripts/merge_review.py` scala werdykty, `scripts/build_map.py out/teleporty.json` buduje mapę.
+3. Runda 2 (`scripts/find_cross_road.py`, instrukcja `out/weryfikacja2/INSTRUKCJA.md`) – to, czego pierwsza
+   runda nie łapała:
+   * **K1** koniec infry przy jezdni (pierwsza runda uznawała to automatem za OK), a kontynuacja / inna
+     niepołączona infra / drugi koniec infry (do 90 m) leży po drugiej stronie jezdni (np. Sokola),
+   * **K2** to samo, ale oceniane w 1. rundzie jako OK (np. Al. Zieleniecka przy Targowej),
+   * **K3** „teoretyczne połączenie” – DDR przechodzi w OSM przez jezdnię, ale przejazd nie jest otagowany
+     albo jest otagowany jako sama zebra / nieoznakowany (w terenie często tylko zebra),
+   * **K4** DDR przechodzi w chodnik z dopuszczonym ruchem rowerów.
+   688 grup, każda obejrzana na z19 (przejazdy dodatkowo na z20) – 18 paczek po ≤40.
+4. `scripts/merge_review.py` scala werdykty, `scripts/build_map.py out/teleporty.json` buduje mapę.
 
 Werdykty `niepewne` to głównie budowy i miejsca zasłonięte drzewami – warto je obejrzeć w Street View.
 

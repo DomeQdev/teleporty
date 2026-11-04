@@ -243,5 +243,40 @@
   "typ": "zebra_zamiast_przejazdu",
   "obrazek_widziany": true,
   "komentarz": "Wlot Panny Wodnej przy rondzie: DDR (czerwony asfalt po południu, chodnik/DDR po północy) przecina jezdnię tertiary tylko na białej zebrze, bez czerwonego przejazdu rowerowego"
+ },
+ {
+  "id": 592,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo Graniczna/Torfowa/JP2: czerwone przejazdy rowerowe obok zebr na wlotach (Graniczna, Torfowa); OSM oznacza tylko jako zebrę"
+ },
+ {
+  "id": 593,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wlot Jana Pawła II (wschód) przy rondzie: wyraźny czerwony przejazd rowerowy obok zebry z symbolami roweru; OSM tylko zebra"
+ },
+ {
+  "id": 594,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Zachodni wlot Graniczna przy rondzie: czerwony przejazd rowerowy obok zebry; OSM tylko zebra"
+ },
+ {
+  "id": 595,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Północny wlot Jana Pawła II przy rondzie: czerwony przejazd rowerowy obok zebry (kostka widoczna); OSM tylko zebra"
+ },
+ {
+  "id": 227,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga CPR kończy się na parkingu sklepu (ruch wewnętrzny); DDR po obu stronach połączone przez rondo z przejazdami (żółte/czerwone), magenta to tylko linia pomocnicza"
  }
 ]
