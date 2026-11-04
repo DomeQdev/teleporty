@@ -78,5 +78,139 @@
    12582792483
   ],
   "komentarz": "Teren budowy, DDR konczy sie slepo przy parkingu/krzakach, zdjecie moze byc nieaktualne"
+ },
+ {
+  "rank": 21,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   994189363,
+   254508335
+  ],
+  "komentarz": "CPR przez park konczy sie na placu przystankowym (chodnik), DDR dalej dopiero 33 m za torowiskiem/ulica bez polaczenia"
+ },
+ {
+  "rank": 22,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Pas konczy sie przy skrzyzowaniu/przystanku, przejazd tuz obok, jazda dalej jezdnia; brak realnej dziury"
+ },
+ {
+  "rank": 27,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4881949294,
+   302913210
+  ],
+  "komentarz": "DDR konczy sie na chodniku przy tunelu/przystanku, kolejny kawalek 13 m dalej bez przejazdu"
+ },
+ {
+  "rank": 30,
+  "werdykt": "niepewne",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   11780971597,
+   10759614729
+  ],
+  "komentarz": "Las, przejazd przez Radiowa w zacienieniu; nie widac czy sciezka laczy sie z DDR rownolegla"
+ },
+ {
+  "rank": 42,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR dochodzi do przejazdu rowerowego (zolty) zaraz obok, luka 4 m to braki w OSM"
+ },
+ {
+  "rank": 52,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR dochodzi do namalowanego przejazdu rowerowego, luka 4 m to niedoklejone wezly w OSM"
+ },
+ {
+  "rank": 55,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   7232462922
+  ],
+  "komentarz": "Sciezka w lesie urywa sie 22 m od DDR po drugiej stronie Radiowej, dojscie tylko chodnikiem do przejscia bez przejazdu"
+ },
+ {
+  "rank": 57,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   13686156848
+  ],
+  "komentarz": "DDR konczy sie na chodniku przy Polczynskiej, kolejny kawalek 11 m dalej oddzielony pasem zieleni/ulica serwisowa"
+ },
+ {
+  "rank": 71,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotki lacznik 3 m miedzy odcinkami CPR na wiadukcie, w rzeczywistosci ciagla sciezka"
+ },
+ {
+  "rank": 79,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   7775565993
+  ],
+  "komentarz": "DDR konczy sie na przejezdzie przy skrzyzowaniu, dalej tylko chodnik/przejscie, kolejna infra 20 m dalej"
+ },
+ {
+  "rank": 86,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4886260257,
+   4886286392
+  ],
+  "komentarz": "Przejazd przez Polczynska konczy sie na chodniku wzdluz pola, dalej brak infry"
+ },
+ {
+  "rank": 94,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Szeroka asfaltowa sciezka wzdluz Alej Jerozolimskich jest ciagla, tylko OSM ma przerwe"
+ },
+ {
+  "rank": 101,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR Al. Krakowskiej przechodzi przed budynkiem placem, luka to niepelne mapowanie"
+ },
+ {
+  "rank": 110,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR przy zjezdzie z wiaduktu konczy sie na drodze dojazdowej, dalej jedzie sie jezdnia"
+ },
+ {
+  "rank": 118,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4705758094
+  ],
+  "komentarz": "DDR w parku przy petli tramwajowej przechodzi w zwykla sciezke piesza bez infry rowerowej"
+ },
+ {
+  "rank": 119,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   1570080194
+  ],
+  "komentarz": "DDR urywa sie na rogu duzego skrzyzowania Grojecka/Banacha, dalszy ciag po drugiej stronie bez przejazdu"
  }
 ]
