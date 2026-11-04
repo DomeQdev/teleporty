@@ -1,0 +1,312 @@
+[
+ {
+  "rank": 397,
+  "werdykt": "teleport",
+  "komentarz": "DDR z parku urywa się w trawniku/zaroślach, dalej tylko ścieżki piesze.",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   12994089895
+  ]
+ },
+ {
+  "rank": 403,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się na drodze serwisowej/dojazdowej przy biurowcach, dalej jedzie się jezdnią.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 405,
+  "werdykt": "niepewne",
+  "komentarz": "Przebudowa skrzyżowania przy torowisku (budowa), koniec CPR po przejściu bez jasnego ciągu; zdjęcie z budowy.",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   5086677874
+  ]
+ },
+ {
+  "rank": 406,
+  "werdykt": "niepewne",
+  "komentarz": "Koniec CPR w piaszczystym placu przy budowie torowiska; nie wiadomo jak wygląda stan docelowy.",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   13725173037
+  ]
+ },
+ {
+  "rank": 413,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy parkingu, dalej dojazd drogą parkingową do Kajetańskiej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 414,
+  "werdykt": "ok",
+  "komentarz": "DDR wpada na drogę serwisową z bicycle=designated wzdłuż Modlińskiej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 415,
+  "werdykt": "niepewne",
+  "komentarz": "Przebudowa Grójeckiej/przystanku (budowa, pomarańczowa infra), stan nieczytelny.",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   12961335857
+  ]
+ },
+ {
+  "rank": 431,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się na osiedlowej ulicy Miła/Esperanto, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 432,
+  "werdykt": "niepewne",
+  "komentarz": "Wielka budowa (tunel/metro) – nie da się ocenić.",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   13384320345
+  ]
+ },
+ {
+  "rank": 434,
+  "werdykt": "ok",
+  "komentarz": "Koniec DDR na lokalnej ulicy osiedlowej, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 438,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się na parkingu/drodze dojazdowej, dalej jezdnia osiedlowa.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 440,
+  "werdykt": "ok",
+  "komentarz": "DDR dochodzi do leśnej drogi z przejściem; zjazd na spokojną jezdnię.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 449,
+  "werdykt": "teleport",
+  "komentarz": "DDR po przejeździe kończy się na chodniku/wysepce przy ruchliwym skrzyżowaniu, dalej brak infry, bez zjazdu na jezdnię.",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   8230989392
+  ]
+ },
+ {
+  "rank": 457,
+  "werdykt": "ok",
+  "komentarz": "Krótka odnoga DDR do placu przed biurowcami, nie teleport.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 459,
+  "werdykt": "teleport",
+  "komentarz": "DDR po przejeździe kończy się na chodniku przy wiadukcie Łopuszańskiej, dalej szybka arteria bez infry i bez zjazdu.",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   4880421175
+  ]
+ },
+ {
+  "rank": 462,
+  "werdykt": "ok",
+  "komentarz": "Przejazd i koniec na rogu spokojnych ulic osiedlowych, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 471,
+  "werdykt": "ok",
+  "komentarz": "DDR z parku włącza się w ulicę Gdańską (wjazd na jezdnię).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 474,
+  "werdykt": "teleport",
+  "komentarz": "Odnoga DDR z ronda kończy się na wyłożonym kostką chodniku przy przystanku na Lazurowej, bez zjazdu.",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   5354146203
+  ]
+ },
+ {
+  "rank": 477,
+  "werdykt": "teleport",
+  "komentarz": "DDR kończy się na wąskim chodniku przy przejściach dla pieszych, bez przejazdu rowerowego.",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   2882930982
+  ]
+ },
+ {
+  "rank": 480,
+  "werdykt": "niepewne",
+  "komentarz": "Obraz niewyraźny, teren budowy nowej drogi.",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   13477848271
+  ]
+ },
+ {
+  "rank": 481,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy skrzyżowaniu spokojnej ulicy Bolimowskiej, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 486,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się na ulicy dojazdowej/osiedlowej wzdłuż trasy, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 488,
+  "werdykt": "niepewne",
+  "komentarz": "Teren budowy/rozwoju osiedla, układ DDR niejasny.",
+  "obrazek_widziany": true,
+  "typ": "inne",
+  "nodes": [
+   11226648257
+  ]
+ },
+ {
+  "rank": 489,
+  "werdykt": "ok",
+  "komentarz": "Krótki łącznik CPR między drogami leśnymi/parkowymi.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 491,
+  "werdykt": "ok",
+  "komentarz": "DDR z parku wychodzi na ulicę przy przejściu; wjazd na jezdnię.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 493,
+  "werdykt": "teleport",
+  "komentarz": "DDR po przejeździe urywa się na chodniku przy przejściu dla pieszych na ruchliwej Warszawskiej.",
+  "obrazek_widziany": true,
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   4134219700
+  ]
+ },
+ {
+  "rank": 504,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się na spokojnej ulicy Burakowskiej, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 512,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się przy osiedlowej ulicy/parkingu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 514,
+  "werdykt": "teleport",
+  "komentarz": "DDR wzdłuż muru cmentarza kończy się na trawie/wąskim chodniku przy skrzyżowaniu, dalej brak infry.",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   6700465712
+  ]
+ },
+ {
+  "rank": 518,
+  "werdykt": "ok",
+  "komentarz": "Krótka odnoga CPR do wjazdu na parking osiedla.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 519,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się na rogu skrzyżowania z Redutową, dalej jezdnia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 522,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy się krótkim przejazdem przy drodze, włączenie w jezdnię.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 523,
+  "werdykt": "niepewne",
+  "komentarz": "DDR w trawie obok budowy, brak widocznej nawierzchni; budowa.",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   12707357081
+  ]
+ },
+ {
+  "rank": 531,
+  "werdykt": "ok",
+  "komentarz": "Artefakt OSM pętli/rampy przy głównym CPR, brak teleportu.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 545,
+  "werdykt": "ok",
+  "komentarz": "Przejazd kończy się na placu przy kościele, spokojna ulica Deotymy.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 547,
+  "werdykt": "ok",
+  "komentarz": "Odnoga DDR kończy się przy ulicy bocznej, główny DDR obok.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 590,
+  "werdykt": "teleport",
+  "komentarz": "DDR po przejeździe przez Przyrzecze kończy się na chodniku wielkiego skrzyżowania Modlińskiej, dalej brak infry.",
+  "obrazek_widziany": true,
+  "typ": "chodnik",
+  "nodes": [
+   1838476345
+  ]
+ },
+ {
+  "rank": 591,
+  "werdykt": "ok",
+  "komentarz": "To miasteczko ruchu drogowego dla dzieci, nie droga.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 596,
+  "werdykt": "niepewne",
+  "komentarz": "Plątanina DDR w zaroślach/zabudowie w trakcie budowy, ślepy koniec w krzakach.",
+  "obrazek_widziany": true,
+  "typ": "krzaki",
+  "nodes": [
+   13207061722
+  ]
+ },
+ {
+  "rank": 610,
+  "werdykt": "ok",
+  "komentarz": "Przejazd kończy się przy parkingu szkoły.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 612,
+  "werdykt": "ok",
+  "komentarz": "DDR kończy przy przejściu na parking osiedlowy, wjazd na jezdnię/parking.",
+  "obrazek_widziany": true
+ }
+]
