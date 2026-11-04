@@ -1,0 +1,282 @@
+[
+ {
+  "id": 332,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na wjeździe do parkingu/uliczki obsługi, kontynuacją jest ta uliczka prowadząca do pasa rowerowego po tej samej stronie"
+ },
+ {
+  "id": 333,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpada na równoległą drogę serwisową po tej samej stronie Jagiellońskiej; jazda drogą serwisową, bez przecinania ulicy"
+ },
+ {
+  "id": 334,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR biegnie wzdłuż budynków po tej samej stronie torowiska; dalszy ciąg po tej samej stronie, brak przecinania jezdni"
+ },
+ {
+  "id": 335,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy cichej ulicy dojazdowej (budowa), dalsza DDR do osiągnięcia tą ulicą"
+ },
+ {
+  "id": 336,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpada na drogę serwisową po tej samej stronie Jagiellońskiej, naturalna jazda ulicą"
+ },
+ {
+  "id": 342,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z parku kończy się przy jezdni Krasińskiego/Wilsona, druga DDR po drugiej stronie wielopasmowej jezdni, brak przejazdu"
+ },
+ {
+  "id": 344,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na rogu skrzyżowania, dalszy ciąg po drugiej stronie, tylko zebra bez przejazdu rowerowego"
+ },
+ {
+  "id": 346,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy jezdni, dalsza DDR w parku po drugiej stronie, tylko zebry"
+ },
+ {
+  "id": 347,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na chodniku/parkingu przy jezdni, DDR w parku po drugiej stronie, tylko zebry"
+ },
+ {
+  "id": 349,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy jezdni, druga DDR po drugiej stronie skrzyżowania z torowiskiem, brak przejazdu"
+ },
+ {
+  "id": 352,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy narożniku, kontynuacja w parku po drugiej stronie szerokiej ulicy z torowiskiem, brak przejazdu"
+ },
+ {
+  "id": 356,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki odcinek DDR po tej samej stronie, oba końce na parkingu/serwisówce, przejazd przez Rozwojową jest"
+ },
+ {
+  "id": 357,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 356: ten sam krótki odcinek DDR po jednej stronie, koniec przy drodze serwisowej"
+ },
+ {
+  "id": 359,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina Mickiewicza przejazdem rowerowym (żółty w OSM, czerwone nawierzchnie), końce przy bocznych ulicach"
+ },
+ {
+  "id": 360,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Drugi koniec tego samego odcinka z przejazdem rowerowym, końce przy bocznych ulicach"
+ },
+ {
+  "id": 647,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina rampę primary_link na zebrze, kostki rowerowej nie widać (z20)"
+ },
+ {
+  "id": 649,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez Gwiaździstą ma czerwone pola obok zebry (przejazd rowerowy), OSM bez tagów"
+ },
+ {
+  "id": 368,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Fragmenty DDR po wschodniej stronie Jagiellońskiej łączą się przez parking/serwisówkę, brak przecinania ulicy"
+ },
+ {
+  "id": 369,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 368: luka na parkingu/dojeździe po tej samej stronie"
+ },
+ {
+  "id": 370,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 368: DDR po tej samej stronie, luka na dojeździe do parkingu"
+ },
+ {
+  "id": 652,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "OSM rysuje DDR przez 8-pasową Jagiellońską z torowiskiem, w terenie brak przejścia i przejazdu (tylko malowanie)"
+ },
+ {
+  "id": 385,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki ślepy dojazd przy rondzie, DDR łączy się przy rondzie po tej samej stronie, brak przecinania ulicy"
+ },
+ {
+  "id": 653,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "OSM rysuje DDR przez wielopasmową Jagiellońską, w terenie brak przejścia"
+ },
+ {
+  "id": 654,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 653: brak przejścia/przejazdu przez Jagiellońską"
+ },
+ {
+  "id": 392,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Magenta pod wiaduktem S8; DDR przechodzą pod wiaduktem własnymi ścieżkami, brak przecinania jezdni"
+ },
+ {
+  "id": 394,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 392: DDR omija wiadukt S8 innymi ścieżkami, brak przecinania jezdni"
+ },
+ {
+  "id": 656,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Wysepka z malowaniem, brak zebry i przejazdu rowerowego, DDR rysowana przez Gwiaździstą"
+ },
+ {
+  "id": 412,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skomplikowany węzeł Toruńska/S8, OSM rysuje DDR po jezdniach ramp, nie da się rozstrzygnąć"
+ },
+ {
+  "id": 413,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 412: węzeł S8, mapowanie niejasne"
+ },
+ {
+  "id": 414,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR kończy się przy rampie węzła, ścieżka biegnie dalej bokiem, nieczytelne co do połączenia"
+ },
+ {
+  "id": 658,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez Bazyliańską ma zebrę z równoległymi białymi kostkami (przejazd rowerowy), OSM tylko zebra"
+ },
+ {
+  "id": 496,
+  "werdykt": "teleport",
+  "typ": "chodnik_rower_dopuszczony",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy wiadukcie Rembielińskiej, dalej 72 m chodnika/footway z bicycle=yes na wiadukcie"
+ },
+ {
+  "id": 423,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się ślepo przy placu budowy przy Marywilskiej, dalszy ciąg niejasny (budowa)"
+ },
+ {
+  "id": 497,
+  "werdykt": "teleport",
+  "typ": "chodnik_rower_dopuszczony",
+  "obrazek_widziany": true,
+  "komentarz": "Drugi koniec: DDR kończy się, dalej footway z bicycle=yes po wiadukcie nad Toruńską"
+ },
+ {
+  "id": 424,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy cichym skrzyżowaniu Inowłodzkiej, są ścieżki/chodniki; DDR po drugiej stronie Marywilskiej to inna trasa"
+ },
+ {
+  "id": 425,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Park-link kończy się przy Modlińskiej, DDR po drugiej stronie 8 pasów to niezwiązana trasa, nikt tamtędy nie przejeżdża"
+ },
+ {
+  "id": 426,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpada na Marywilską, pas rowerowy 9 m obok na jezdni; niejasne, czy to ten sam kierunek"
+ },
+ {
+  "id": 427,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy cichej ulicy osiedlowej, dalej jazda ulicą z parkingami do DDR"
+ },
+ {
+  "id": 499,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki odcinek DDR na końcu ulicy Morelowej, droga gruntowa, brak przecinania ruchliwej ulicy"
+ },
+ {
+  "id": 662,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd przez Familijną ma zebrę z kostkami rowerowymi i czerwony pas, OSM tylko zebra"
+ }
+]

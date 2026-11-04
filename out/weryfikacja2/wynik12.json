@@ -1,0 +1,282 @@
+[
+ {
+  "id": 236,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Aleja przy blokach prowadzi do przejazdu (żółty w OSM) i DDR dalej na południu; łączność jest, brak przecięcia ulicy w poprzek."
+ },
+ {
+  "id": 238,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ten sam odcinek co 236: luka to ten sam ciąg pod drzewami/uliczka osiedlowa, nie przejście przez ulicę."
+ },
+ {
+  "id": 246,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na cichej ulicy Rapperswilskiej; druga strona jest za wiaduktem/budową Al. Stanów Zjednoczonych, droga prowadzi ulicą pod mostem."
+ },
+ {
+  "id": 271,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ścieżka nadbrzeżna biegnie pod mostem Poniatowskiego; nie trzeba przecinać jezdni, brak połączenia w OSM pod mostem."
+ },
+ {
+  "id": 273,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 271: ścieżka pod mostem, magenta przechodzi przez most tylko w wizualizacji."
+ },
+ {
+  "id": 478,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR dochodzi przejazdami (żółte) do pętli przy stadionie i do głównego DDR; to ślepa końcówka na wyspie, nie przejście na drugą DDR."
+ },
+ {
+  "id": 479,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na placu przy stadionie, połączona przejazdami z resztą; brak DDR po drugiej stronie, na którą trzeba się dostać."
+ },
+ {
+  "id": 683,
+  "werdykt": "teleport",
+  "typ": "chodnik_rower_dopuszczony",
+  "obrazek_widziany": true,
+  "komentarz": "CPR Zieleniecka kończy się przy przystanku tramwajowym/placu, dalej tylko chodnik z dopuszczonym rowerem, bez infry."
+ },
+ {
+  "id": 481,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Pas/kontrapas Leszczyńskiej kończy się na skrzyżowaniu z lokalną ulicą (zebra), dalej jezdnia; dalszy ciąg 200 m dalej i budowa, brak wyraźnej DDR do trafienia."
+ },
+ {
+  "id": 288,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Sokola: DDR po wschodniej stronie wpada na jezdnię wielopasową, DDR po zachodniej stronie, brak przejazdu/przejścia."
+ },
+ {
+  "id": 618,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Ścieżki parkowe (DDR w OSM) przecinają ulicę Międzynarodową bez żadnego oznakowania przejazdu; ulica spokojna, niska waga."
+ },
+ {
+  "id": 482,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Zieleniecka przy Targowej: CPR po zachodniej stronie kończy się przy pętli, CPR po wschodniej za torowiskiem i jezdnią, bez przejazdu."
+ },
+ {
+  "id": 291,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Wybrzeże Szczecińskie: DDR po północnej stronie wpada na szeroką jezdnię, DDR po południowej stronie, brak przejazdu."
+ },
+ {
+  "id": 294,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się wpuszczając na jezdnię Zamoyskiego w kierunku jazdy; druga DDR to równoległa trasa po drugiej stronie."
+ },
+ {
+  "id": 295,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po północnej stronie kończy się przy ulicy bocznej, kontynuacja jezdnią; DDR po południu to równoległa trasa."
+ },
+ {
+  "id": 298,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwone przejazdy rowerowe z symbolami są na całym skrzyżowaniu i łączą DDR; końcówka to wjazd na jednokierunkową ulicę z kontrapasem."
+ },
+ {
+  "id": 304,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Łącznik DDR ukośnie przez Mińską i torowisko bez oznaczonego przejazdu (obok tylko zebra); po obu stronach są pasy rowerowe, więc niska waga."
+ },
+ {
+  "id": 305,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Ten sam łącznik co 304: końcówka na parkingu po północnej stronie, droga przez jezdnię i tramwaj bez przejazdu."
+ },
+ {
+  "id": 312,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy dojeździe do parkingu osiedlowego (ulica spokojna), nie ma DDR po drugiej stronie."
+ },
+ {
+  "id": 313,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki łącznik z DDR na ulicę Żupnicza; DDR biegnie dalej po południowej stronie, magenta to inna odnoga przy pętli."
+ },
+ {
+  "id": 484,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na przystanku autobusowym na pętli, połączona z główną DDR; brak potrzeby przejazdu na drugą stronę."
+ },
+ {
+  "id": 621,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez Białostocką w OSM jako przejazd, na zdjęciu tylko zebra z sygnalizacją (bez czerwonej nawierzchni), po drugiej stronie plac bez infry; cień utrudnia."
+ },
+ {
+  "id": 486,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie z przejazdami (żółte) dookoła; końcówka to odnoga do ścieżki w parku."
+ },
+ {
+  "id": 627,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "11 Listopada: DDR z OSM biegnie ukośnie przez jezdnię i torowisko (pasy dzielące) bez przejazdu rowerowego; obok tylko zebry i pasy rowerowe."
+ },
+ {
+  "id": 318,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie z przejazdami; odnoga DDR kończy się na ulicy Ratuszowej, kontynuacja jezdnią."
+ },
+ {
+  "id": 321,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się przy ulicy Jagiellońskiej; DDR po drugiej stronie (wzdłuż torów) to inna, niezwiązana trasa."
+ },
+ {
+  "id": 324,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki łącznik z uliczki dojazdowej do DDR przy trasie szybkiego ruchu; DDR po drugiej jezdni to równoległa trasa."
+ },
+ {
+  "id": 325,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Końcówka na parkingu/ulicy lokalnej połączona z DDR przy skrzyżowaniu; brak teleportu."
+ },
+ {
+  "id": 326,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Dwie końcówki łączników na ulicy Szwedzkiej, DDR ciągła obok; kontynuacja ulicą."
+ },
+ {
+  "id": 330,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR dojeżdża do jezdni Zabranieckiej i wpuszcza na nią; nie ma DDR po drugiej stronie."
+ },
+ {
+  "id": 341,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy parkingu/lokalnej ulicy Św. Wincentego, kontynuacja spokojną ulicą; reszta połączona przejazdami."
+ },
+ {
+  "id": 343,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z Gorzykowskiej kończy się przy Radzymińskiej na chodniku wielopasowej arterii, bez dalszej infry."
+ },
+ {
+  "id": 489,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo Żaba: DDR połączona przejazdami (żółte); końcówka wpuszcza na jezdnię 11 Listopada."
+ },
+ {
+  "id": 348,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Druga odnoga tej samej pary: DDR z Gorzykowskiej urywa się na chodniku Radzymińskiej (wielopasowa), brak przejazdu/DDR dalej."
+ },
+ {
+  "id": 351,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkt to koniec dojazdu serwisowego; DDR biegnie ciągle wzdłuż ulicy."
+ },
+ {
+  "id": 353,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkt na jezdni, DDR ciągła równolegle; brak luki."
+ },
+ {
+  "id": 358,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkt to ścieżka w zieleni przy garażach, DDR ciągła po zachodniej stronie."
+ },
+ {
+  "id": 361,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkt na ciągłej DDR przy przejściu; brak luki."
+ },
+ {
+  "id": 362,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy Radzymińskiej kończy się ślepo na chodniku przy przystanku, bez dalszej infry."
+ },
+ {
+  "id": 648,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wokół ronda czerwone przejazdy rowerowe z symbolami na ramionach Ossowskiego; w OSM brak tagów przejazdu."
+ }
+]

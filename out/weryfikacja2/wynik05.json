@@ -1,0 +1,282 @@
+[
+ {
+  "id": 445,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy skrzyżowaniu na spokojnej Dzierzgońskiej; kontynuacja to jazda jezdnią, brak DDR po drugiej stronie, na którą trzeba przejechać."
+ },
+ {
+  "id": 504,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po południowej stronie biegnie ciągle przez punkt (teren budowy), przerwa tylko w danych OSM; magenta to poprzeczne połączenie na drugą stronę, niepotrzebne."
+ },
+ {
+  "id": 505,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie drogą serwisową wzdłuż Modlińskiej po tej samej stronie; przerwa w OSM, nie ma przejścia przez jezdnię."
+ },
+ {
+  "id": 447,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR na drodze serwisowej tej samej strony Modlińskiej, kontynuacja po tej samej stronie, nie przez ulicę."
+ },
+ {
+  "id": 448,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ten sam układ drogi serwisowej przy Modlińskiej; koniec DDR na wjeździe serwisu, bez potrzeby przejeżdżania na drugą stronę."
+ },
+ {
+  "id": 506,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Na zdjęciu przy Deseniowej widać czerwono-białe przejście/przejazd przez jezdnię, w OSM bez tagów; DDR dalej to dukt leśny/spokojna Deseniowa."
+ },
+ {
+  "id": 449,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na początku spokojnej Deseniowej (leśna jezdnia); jazda jezdnią, brak DDR do dojechania po drugiej stronie."
+ },
+ {
+  "id": 451,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR na drodze serwisowej kończy się przy wjeździe; po drugiej stronie 6-pasmowej Modlińskiej inna, niezwiązana DDR – nikt tamtędy nie przejeżdża; dalej chodnik/jezdnia."
+ },
+ {
+  "id": 452,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec DDR przy Dębowej (spokojna jezdnia), druga strona Modlińskiej to osobna trasa, brak realnej potrzeby przejazdu."
+ },
+ {
+  "id": 1,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Zdjęcie starsze, teren w budowie (nowe osiedle i ulice), niejasne czy DDR to stan docelowy; obie DDR biegną równolegle."
+ },
+ {
+  "id": 507,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Na zdjęciu wyraźne czerwone przejazdy rowerowe z zebrą przez Karczunkowską i ulicę boczną; w OSM tylko zebra."
+ },
+ {
+  "id": 2,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR rysowana środkiem jezdni Karczunkowskiej, cienie drzew, brak wyraźnej ścieżki na północnej stronie; nie da się rozstrzygnąć."
+ },
+ {
+  "id": 3,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodni koniec DDR kończy się wjazdem na jezdnię Karczunkowskiej (poza zabudową), kontynuacja to jazda jezdnią; brak realnej DDR po drugiej stronie."
+ },
+ {
+  "id": 453,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd (czerwony) przez wylot kończy się na północnym chodniku bez DDR; dalej na zachód tylko chodnik/ruchliwa jezdnia, DDR południowa też kończy się na jezdni."
+ },
+ {
+  "id": 4,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR południowa kończy się wjazdem na jezdnię Karczunkowskiej w kierunku jazdy, brak DDR po drugiej stronie do której trzeba trafić."
+ },
+ {
+  "id": 5,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się wjazdem na jezdnię przy wschodnim końcu łuku Karczunkowskiej; kontynuacja jezdnią, magenta wskazuje tylko chodnik po drugiej stronie."
+ },
+ {
+  "id": 454,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Przy rondzie odnoga DDR przecina wylot i kończy się na północnym chodniku bez dalszej DDR; ciąg dalszy tylko chodnik lub jezdnia."
+ },
+ {
+  "id": 6,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodnia DDR przy Puławskiej urywa się na chodniku (przystanek/parking, ok. 200 m luki do DDR u footbridge), DDR po zachodniej stronie 6-pasmowej ulicy bez przejazdu."
+ },
+ {
+  "id": 455,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Wschodnia DDR przy kładce kończy się na zwykłym chodniku wzdłuż Puławskiej; dalej na południe tylko chodnik, DDR zachodnia za 6-pasmową ulicą bez przejazdu na tej wysokości."
+ },
+ {
+  "id": 508,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "OSM rysuje przejazd w poprzek Puławskiej w środku odcinka, w terenie brak jakiegokolwiek przejścia (tylko kładka obok z pętlami)."
+ },
+ {
+  "id": 33,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy ścieżce/chodniku przy Sójkach po tej samej stronie, kontynuacja kontrapasem, nie przez ulicę."
+ },
+ {
+  "id": 512,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy Puławskiej widać czerwone przejazdy rowerowe z zebrą na obu jezdniach, OSM tylko jako zebra."
+ },
+ {
+  "id": 35,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki odcinek DDR przy bocznej ulicy Białogońskiej kończy się przy parkingu; magenta wskazuje nieistniejące poprzeczne połączenie przez Puławską, DDR po obu stronach biegną ciągle."
+ },
+ {
+  "id": 36,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po obu stronach Puławskiej biegną ciągle; ukośny odcinek DDR kończący się na środku jezdni to artefakt OSM (brak ścieżki w terenie)."
+ },
+ {
+  "id": 513,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie ciągle wzdłuż Puławskiej i mija wylot ulicy Samsonowskiej; to przecięcie bocznej ulicy, bez teleportu."
+ },
+ {
+  "id": 514,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie ciągle wzdłuż Puławskiej przez wylot ulicy Rybitwy, widoczne czerwone oznaczenie przejazdu."
+ },
+ {
+  "id": 516,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR północna przechodzi przez Poleczki (2 jezdnie, wyspy) po samych zebrach, bez czerwonego przejazdu, do DDR po południowej stronie."
+ },
+ {
+  "id": 45,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR/CPR kończy się na bocznej drodze dojazdowej przy Wyczółkach, 13 m do drugiego końca po tej samej stronie, brak przecinania ulicy."
+ },
+ {
+  "id": 525,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie ciągle, przecina boczne ulice, na zdjęciu przejazdy z czerwonym oznaczeniem."
+ },
+ {
+  "id": 527,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR biegnie ciągle wzdłuż ulicy i przecina wylot bocznej ulicy z czerwonym przejazdem."
+ },
+ {
+  "id": 81,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się przy skrzyżowaniu z Bokserską, DDR dalej biegnie na zachód po tej samej stronie; cel magenta (168 m) niezwiązany."
+ },
+ {
+  "id": 82,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Ta sama odnoga przy Bokserskiej, krótki wjazd na spokojną jezdnię, brak DDR po drugiej stronie, na którą trzeba przejechać."
+ },
+ {
+  "id": 529,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Na skrzyżowaniu Gotarda/Rzymowskiego widać czerwone przejazdy rowerowe, w OSM sama zebra."
+ },
+ {
+  "id": 530,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwony przejazd rowerowy przez Rzymowskiego widoczny obok zebry, w OSM tylko zebra."
+ },
+ {
+  "id": 532,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Na rondzie Postępu DDR po obu stronach południowego wylotu, w terenie tylko biała zebra bez czerwonego przejazdu (z20 potwierdza)."
+ },
+ {
+  "id": 533,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez wschodni wylot ronda to biała zebra bez czerwonego przejazdu ani kostki, DDR po obu stronach."
+ },
+ {
+  "id": 534,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez zachodni wylot ronda to biała zebra bez czerwonego przejazdu, DDR po obu stronach."
+ },
+ {
+  "id": 537,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Przejście przez wylot ronda KOR to biała zebra bez czerwonego przejazdu, DDR po obu stronach."
+ },
+ {
+  "id": 92,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wschodnia przy Puławskiej urywa się przy przystanku/parkingu, ~80 m luki z samym chodnikiem do dalszej DDR; zachodnia DDR za dwiema jezdniami i torowiskiem."
+ },
+ {
+  "id": 94,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Południowy koniec odcinka DDR przy Puławskiej kończy się przy parkingu/chodniku; luka ok. 80 m bez infry (ta sama luka co id 92)."
+ }
+]

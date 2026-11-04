@@ -208,5 +208,12 @@
   "typ": "chodnik",
   "obrazek_widziany": true,
   "komentarz": "DDR przy Modlińskiej kończy się przy wjeździe na parking; ciąg DDR wznawia się ok. 49 m dalej tą samą stroną, odcinek pokonuje się chodnikiem/dojazdem (słabszy przypadek, krótka luka)"
+ },
+ {
+  "id": 669,
+  "werdykt": "blad_mapy",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż Modlińskiej przecina ulicę Szałasa; na z20 widać czerwony przejazd rowerowy obok zebry z symbolami roweru, OSM ma tylko zebrę"
  }
 ]

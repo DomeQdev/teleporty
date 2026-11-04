@@ -1,0 +1,282 @@
+[
+ {
+  "id": 440,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Pętla DDR wokół skrzyżowania z przejazdem (żółty) na górze; końcówki przy jezdni to ślepe odnogi, brak DDR po drugiej stronie."
+ },
+ {
+  "id": 441,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR kończy się na przejeździe przez Ostródzką w widocznym miejscu przejścia; druga strona to ta sama pętla DDR połączona przejazdem."
+ },
+ {
+  "id": 446,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Rondo/łącznik Kąty Grodziskie; DDR kończy się przy zjeździe z ronda, kontynuacja przy jezdni niejasna na zdjęciu (cień, drzewa). Wymaga oceny w terenie."
+ },
+ {
+  "id": 679,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Narysowana DDR wchodzi na jezdnię przy przystanku, a w terenie ścieżka biegnie chodnikiem obok; nie da się rozstrzygnąć co jest DDR."
+ },
+ {
+  "id": 450,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z mostu (południowa strona jezdni) kończy się na skrzyżowaniu; ścieżka z CPR na północy po drugiej stronie jezdni, między nimi tylko zebra na bocznej ulicy, brak przejazdu przez główną."
+ },
+ {
+  "id": 7,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po zachodniej stronie dwujezdniowej trasy urywa się przy jezdni; DDR po wschodniej stronie, trzeba przejechać w poprzek 2 jezdni bez przejazdu."
+ },
+ {
+  "id": 509,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy dużym skrzyżowaniu widać czerwono-białe przejazdy rowerowe przez jezdnie (DDR przecina), OSM bez tagów przejazdu."
+ },
+ {
+  "id": 8,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na rogu skrzyżowania z Przekorną, dalej tylko chodnik wzdłuż Drewny (163 m) do kolejnego CPR."
+ },
+ {
+  "id": 9,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "CPR wzdłuż Drewny kończy się, dalej ten sam trakt jako chodnik bez oznaczeń rowerowych (kontynuacja jak w 8)."
+ },
+ {
+  "id": 10,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR przy parkingu/ślepa końcówka, magenta to inne ścieżki; brak potrzeby przejeżdżania ulicy."
+ },
+ {
+  "id": 11,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wzdłuż ulicy ciągła; punkt to krótka odnoga do bocznej ulicy."
+ },
+ {
+  "id": 12,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR po wschodniej stronie kończy się przy chodniku/ulicy serwisowej; DDR główna po zachodniej stronie 6-pasmowej ulicy bez przejazdu. Niska pewność."
+ },
+ {
+  "id": 13,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR do ulicy bocznej; reszta to chodnik/ścieżki, nie teleport."
+ },
+ {
+  "id": 14,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na nieutwardzonym parkingu przy placu budowy; wygląda na niedokończone/budowa, druga strona Drewny daleko."
+ },
+ {
+  "id": 15,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Relaksowej kończy się, dalej chodnik; DDR kontynuuje się po zachodniej stronie 6 pasów bez przejazdu."
+ },
+ {
+  "id": 16,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy wjeździe, DDR zachodnia ciągła; druga strona to inna trasa."
+ },
+ {
+  "id": 17,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy skrzyżowaniu, dalej utwardzona ścieżka wzdłuż Drewny, nie wiadomo czy to DDR (niezmapowane) czy chodnik."
+ },
+ {
+  "id": 20,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Relaksowej kończy się przy chodniku, dalszy ciąg DDR po zachodniej stronie 6-pasmowej ulicy, brak przejazdu."
+ },
+ {
+  "id": 21,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga łącząca DDR z ulicą boczną Rosoła; DDR wzdłuż ulicy ciągła."
+ },
+ {
+  "id": 23,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 21: odnoga do bocznej ulicy, DDR ciągła."
+ },
+ {
+  "id": 24,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR ciągła, punkt przy przejściu przez boczną ulicę z zebrą."
+ },
+ {
+  "id": 511,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR prosto przecina boczną ulicę Pałacową (mały ruch), brak oznaczeń ale to typowe skrzyżowanie podporządkowane."
+ },
+ {
+  "id": 39,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Luka ok. 40 m w DDR po wschodniej stronie Przyczółkowej: DDR kończy się i wznawia się dalej, pomiędzy tylko chodnik."
+ },
+ {
+  "id": 515,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przy drodze serwisowej przecina dojazd do wiaduktu (mały ruch); brak przejazdu ale to boczna droga."
+ },
+ {
+  "id": 40,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "Ta sama luka co 39 (z drugiej strony): DDR urywa się i trzeba jechać ok. 40 m chodnikiem."
+ },
+ {
+  "id": 42,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR zachodnia wzdłuż Przyczółkowej kończy się, dalej ścieżka/chodnik; DDR po drugiej stronie 6 pasów."
+ },
+ {
+  "id": 44,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na parkingu/drodze dojazdowej, dalej chodnik; DDR po drugiej stronie dwujezdniowej ulicy."
+ },
+ {
+  "id": 47,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Węzeł Południowej Obwodnicy z wiaduktem; równoległe DDR przy zjazdach, niejasne które połączenie jest potrzebne (zebra na zjeździe)."
+ },
+ {
+  "id": 48,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR od północnego wschodu kończy się na skrzyżowaniu zjazdu, DDR na wiadukcie jest po drugiej stronie jezdni, brak przejazdu. Średnia pewność."
+ },
+ {
+  "id": 49,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR zachodnia kończy się ślepo przy poboczu; naturalna kontynuacja to jazda Sytą, po drugiej stronie brak infry."
+ },
+ {
+  "id": 50,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Jak 49: drugi koniec tej samej ślepej odnogi, po drugiej stronie brak infry."
+ },
+ {
+  "id": 51,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec odnogi przy małej ulicy serwisowej, DDR przy skrzyżowaniu ciągła; brak DDR po drugiej stronie, na którą trzeba przejechać."
+ },
+ {
+  "id": 52,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na początku ulicy Przedatki; obok widać nową jasną nawierzchnię (świeża ścieżka/chodnik), niezmapowaną."
+ },
+ {
+  "id": 53,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Mikroodnoga (13 m) do ulicy Przedatki, nie jest przejściem przez jezdnię."
+ },
+ {
+  "id": 519,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina Zygmunta Vogla na zebrze (biała, bez czerwonej nawierzchni i kostki), za nią kończy się na bocznej ulicy; w OSM przejazd udawany."
+ },
+ {
+  "id": 56,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Narysowana DDR wschodnia biegnie przez las bez widocznej ścieżki i kończy się na skrzyżowaniu z boczną ulicą; brak pewności co jest w terenie."
+ },
+ {
+  "id": 521,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przejazd ma zebrę i piktogramy rowerów na nawierzchni (oznakowany przejazd), OSM tylko jako zebra."
+ },
+ {
+  "id": 523,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Punkty to dojazdy do parkingu przecinane przez CPR (małe ruchy); główny przejazd przez Voglę z zebrą i oznaczeniem obok."
+ },
+ {
+  "id": 524,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR ciągła przecina boczną ulicę Łokciową (osiedlowa), skrzyżowanie podporządkowane."
+ },
+ {
+  "id": 526,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "CPR ciągła przecina boczną ulicę Bruzdową, skrzyżowanie podporządkowane."
+ }
+]
