@@ -212,5 +212,1145 @@
    1570080194
   ],
   "komentarz": "DDR urywa sie na rogu duzego skrzyzowania Grojecka/Banacha, dalszy ciag po drugiej stronie bez przejazdu"
+ },
+ {
+  "rank": 127,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Izolowany przejazd rowerowy przez ulice osiedlowa, brak innej infry w poblizu, dalej jedzie sie jezdnia"
+ },
+ {
+  "rank": 128,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   8601819959
+  ],
+  "komentarz": "DDR Gorczewskiej/Leszna po przejezdzie konczy sie na chodniku przy skrzyzowaniu, dalszy ciag dopiero 115 m dalej"
+ },
+ {
+  "rank": 130,
+  "werdykt": "niepewne",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2362854254
+  ],
+  "komentarz": "Przejazd/DDR konczy sie przy przejsciu dla pieszych, dalszy ciag oznaczony jako budowa, niejasny stan"
+ },
+ {
+  "rank": 133,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10009885761
+  ],
+  "komentarz": "DDR przy Parysowskiej urywa sie na chodniku przy parkingu, DDR Al. Jana Pawla II 30 m dalej bez polaczenia"
+ },
+ {
+  "rank": 142,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   13289934975
+  ],
+  "komentarz": "DDR konczy sie na chodniku przy parkingu i wejsciu do metra, DDR 30 m dalej bez dojazdu"
+ },
+ {
+  "rank": 149,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR okrazajacy plac w parku jest ciagly, luka 4 m to artefakt OSM"
+ },
+ {
+  "rank": 150,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   12389061400
+  ],
+  "komentarz": "DDR konczy sie na chodniku przed duzym skrzyzowaniem Grojecka/Banacha, dalszy ciag 87 m dalej"
+ },
+ {
+  "rank": 167,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotki izolowany odcinek przejazdu przy Plockiej, brak infry w okolicy, jazda dalej jezdnia"
+ },
+ {
+  "rank": 169,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Utwardzona sciezka zjazdowa z kladki nad metrem laczy sie z DDR obok, luka 13 m to niedomapowanie"
+ },
+ {
+  "rank": 174,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4889129474
+  ],
+  "komentarz": "DDR Modlinskiej konczy sie na chodniku przy zjezdzie, DDR po drugiej stronie szerokiej jezdni 44 m dalej"
+ },
+ {
+  "rank": 180,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   715791342
+  ],
+  "komentarz": "CPR wzdluz trasy konczy sie na chodniku przy przystanku, dalszy ciag 80 m dalej bez polaczenia infra"
+ },
+ {
+  "rank": 181,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   3443397056
+  ],
+  "komentarz": "Parkowe petle DDR konczace sie w lesie przy sciezce gruntowej, niejasne czy sa polaczone"
+ },
+ {
+  "rank": 182,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   3264473702
+  ],
+  "komentarz": "CPR konczy sie na rogu skrzyzowania na chodniku, DDR po drugiej stronie ulicy 25 m dalej bez przejazdu"
+ },
+ {
+  "rank": 185,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   796213996
+  ],
+  "komentarz": "DDR konczy sie na chodniku przy skrzyzowaniu Modlinskiej, dalszy ciag po drugiej stronie 46 m dalej"
+ },
+ {
+  "rank": 186,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotki DDR w parku przy przejsciu, dalej normalna jezdnia/DDR, brak realnego urwania"
+ },
+ {
+  "rank": 189,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   8179291094
+  ],
+  "komentarz": "DDR przy Swiatowida urywa sie w krzakach przy torowisku, DDR po drugiej stronie 44 m dalej"
+ },
+ {
+  "rank": 192,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Izolowany przejazd przez spokojna ulice osiedlowa, brak sasiedniej infry, jazda jezdnia"
+ },
+ {
+  "rank": 193,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd w lesie przy Radiowej laczy tylko lesne sciezki, brak infry do ktorej trzeba dojechac"
+ },
+ {
+  "rank": 196,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3265285204
+  ],
+  "komentarz": "DDR Modlinskiej konczy sie na chodniku na skraju szerokiej trasy, CPR po drugiej stronie 48 m dalej bez polaczenia"
+ },
+ {
+  "rank": 199,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   4774658518
+  ],
+  "komentarz": "Odnoga DDR przy rondzie Wojnara urywa sie na chodniku przy przejsciu bez przejazdu"
+ },
+ {
+  "rank": 204,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   3207048195
+  ],
+  "komentarz": "DDR Lazurowej konczy sie na rogu skrzyzowania przy przejsciu dla pieszych bez przejazdu, dalej brak infry"
+ },
+ {
+  "rank": 205,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   8120938488
+  ],
+  "komentarz": "DDR konczy sie na chodniku przy przejsciu dla pieszych przez Zeromskiego, bez przejazdu rowerowego"
+ },
+ {
+  "rank": 210,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   5354146172
+  ],
+  "komentarz": "DDR urywa sie na chodniku przy duzym skrzyzowaniu Obroncow Grodna/Lazurowa, brak ciaglosci przez skrzyzowanie"
+ },
+ {
+  "rank": 214,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   9707072609
+  ],
+  "komentarz": "DDR z przejazdem konczy sie slepo na chodniku przy budynku, brak dalszej infry"
+ },
+ {
+  "rank": 215,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotka odnoga DDR konczy sie na placyku przy bloku, glowna DDR biegnie obok bez przerwy"
+ },
+ {
+  "rank": 217,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR przy rondzie konczy sie na rogu spokojnej ulicy Kleszczowej, dalej jazda jezdnia"
+ },
+ {
+  "rank": 219,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   519355741
+  ],
+  "komentarz": "DDR z przejazdami przy skrzyzowaniu konczy sie na sciezce pieszej w parku, bez dalszej infry rowerowej"
+ },
+ {
+  "rank": 225,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR konczy sie na osiedlowym dojezdzie/parkingu, dalej jedzie sie jezdnia"
+ },
+ {
+  "rank": 226,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   12923040552
+  ],
+  "komentarz": "CPR konczy sie przy przejsciu dla pieszych bez przejazdu przez Pulkowa/Heroldow, zdjecie starsze"
+ },
+ {
+  "rank": 227,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4705757179
+  ],
+  "komentarz": "DDR konczy sie na peronie przystanku, DDR po drugiej stronie torowiska i jezdni 33 m dalej"
+ },
+ {
+  "rank": 231,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Dekoracyjne sciezki w parku osiedlowym konczace sie na chodnikach, nie ma realnego teleportu"
+ },
+ {
+  "rank": 239,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   13372476205
+  ],
+  "komentarz": "DDR urywa sie na rogu duzego skrzyzowania Alej Jerozolimskich/Smiglowca, brak ciaglosci dalej"
+ },
+ {
+  "rank": 245,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10759648264
+  ],
+  "komentarz": "DDR Gorczewskiej po polnocnej stronie konczy sie w polowie odcinka na zwyklym chodniku, DDR po poludniowej stronie 37 m dalej bez polaczenia"
+ },
+ {
+  "rank": 250,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10699810896
+  ],
+  "komentarz": "DDR przy skrzyzowaniu Alej Jerozolimskich konczy sie na chodniku przy zjezdzie, dalej tylko chodnik"
+ },
+ {
+  "rank": 260,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Nowo zbudowana DDR przy Swiatowida jest ciagla na zdjeciu, flaga wynika z artefaktu luki w OSM"
+ },
+ {
+  "rank": 269,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3383732374
+  ],
+  "komentarz": "Odnoga DDR z przejazdem urywa sie na chodniku przy rogu budynku przy torowisku Obozowej"
+ },
+ {
+  "rank": 272,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2517817425
+  ],
+  "komentarz": "DDR przy rondzie Grafen konczy sie przy przejsciu dla pieszych bez przejazdu, brak dalszej infry"
+ },
+ {
+  "rank": 276,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   13276343491
+  ],
+  "komentarz": "DDR po przejezdzie konczy sie na chodniku w srodku wielkiego skrzyzowania pod estakada, dalej nic"
+ },
+ {
+  "rank": 296,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   3999293906
+  ],
+  "komentarz": "DDR Alei Solidarnosci konczy sie na chodniku przy skrzyzowaniu, dalszy ciag 93 m dalej niepolaczony"
+ },
+ {
+  "rank": 298,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   4264185120
+  ],
+  "komentarz": "Okolica metra i budowy, DDR konczy sie na chodniku przy wejsciu do metra, stan niejasny"
+ },
+ {
+  "rank": 304,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   6695978097
+  ],
+  "komentarz": "Przejazd przez Grojecka/Krakowska konczy sie na chodniku na skraju lasu, dalej brak infry rowerowej"
+ },
+ {
+  "rank": 308,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR wpada na spokojna ulice osiedlowa Okocimska, dalej jazda jezdnia"
+ },
+ {
+  "rank": 309,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   11169220195
+  ],
+  "komentarz": "DDR Gorczewskiej konczy sie na chodniku przy parkingu, przejazd dopiero 87 m dalej bez polaczenia"
+ },
+ {
+  "rank": 313,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wpada na jezdnie przy rondzie Cieplinskiego, jazda dalej jezdnia"
+ },
+ {
+  "rank": 315,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   6356298446
+  ],
+  "komentarz": "DDR wzdluz torowiska konczy sie w krzakach w parku, bez dalszego ciagu"
+ },
+ {
+  "rank": 316,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR dochodzi do przejazdu/skrzyzowania, ciaglosc zapewniona przez wjazd na jezdnie obok; brak realnej dziury"
+ },
+ {
+  "rank": 326,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   12597853490
+  ],
+  "komentarz": "Teren budowy/nieuzytki, DDR konczy sie w krzakach, niejasny stan i aktualnosc zdjecia"
+ },
+ {
+  "rank": 335,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   10697650662
+  ],
+  "komentarz": "DDR po przejezdzie konczy sie na chodniku/schodach przy parkingu Reymonta, brak dalszej infry"
+ },
+ {
+  "rank": 341,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR dochodzi do skraju ulicy Szeligowskiej, dalej jedzie sie jezdnia o malym ruchu; brak dziury"
+ },
+ {
+  "rank": 361,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd konczy sie na rogu osiedlowej ulicy, dalej jazda jezdnia"
+ },
+ {
+  "rank": 363,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotki slepy odgalezienie DDR przy budowie, glowna DDR biegnie obok"
+ },
+ {
+  "rank": 377,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   831525795
+  ],
+  "komentarz": "DDR konczy sie na chodniku na luku Strumykowej, niewidoczne czy jest zjazd; dalszy ciag daleko"
+ },
+ {
+  "rank": 384,
+  "werdykt": "teleport",
+  "typ": "skrzyzowanie",
+  "nodes": [
+   13606497841
+  ],
+  "komentarz": "DDR konczy sie na rogu skrzyzowania po krotkim przejezdzie, kontynuacja ulicy bez infry, kolejna DDR 178 m dalej"
+ },
+ {
+  "rank": 388,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd prowadzi na plac/dojazd do biurowca, dalej jedzie sie nawierzchnia dojazdowa"
+ },
+ {
+  "rank": 390,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   4537504436
+  ],
+  "komentarz": "DDR przez Gorczewska konczy sie na chodniku przy przejsciu dla pieszych przy bloku, dalej brak infry"
+ },
+ {
+  "rank": 391,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   7756960895
+  ],
+  "komentarz": "Przejazd przez Gorczewska prowadzi na waski chodnik miedzy blokami, bez infry i bez zjazdu na jezdnie"
+ },
+ {
+  "rank": 393,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR po przejezdzie konczy sie na narozniku osiedlowych ulic o malym ruchu, dalej jazda jezdnia"
+ },
+ {
+  "rank": 395,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10010056955
+  ],
+  "komentarz": "Krotki przejazd przez Gorczewska konczy sie na chodniku przy rogu, dalej brak infry"
+ },
+ {
+  "rank": 397,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   12994089895
+  ],
+  "komentarz": "DDR konczy sie slepo na trawniku w parku obok skrzyzowania, bez dalszego ciagu"
+ },
+ {
+  "rank": 403,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR konczy sie przy drodze serwisowej/dojezdzie do biurowcow, dalej jedzie sie jezdnia"
+ },
+ {
+  "rank": 405,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   5086677874
+  ],
+  "komentarz": "Okolica budowy torowiska, DDR konczy sie na krawedzi Wolczynskiej, stan docelowy niejasny"
+ },
+ {
+  "rank": 406,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   13725173037
+  ],
+  "komentarz": "Okolica budowy torowiska, DDR urywa sie na piaszczystym terenie, zdjecie moze byc nieaktualne"
+ },
+ {
+  "rank": 413,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wzdluz torow konczy sie na parkingu, dalej jedzie sie parkingiem/jezdnia"
+ },
+ {
+  "rank": 414,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3031655442
+  ],
+  "komentarz": "DDR Modlinskiej konczy sie na chodniku przy placu, dalszy ciag 96 m dalej bez polaczenia"
+ },
+ {
+  "rank": 415,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   12961335857
+  ],
+  "komentarz": "DDR wzdluz Grojeckiej konczy sie na chodniku przy bloku, dalszy ciag przy skrzyzowaniu 95 m dalej bez polaczenia"
+ },
+ {
+  "rank": 431,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotka odnoga DDR konczy sie na dojezdzie do parkingu przy ul. Milej, dalej jazda jezdnia"
+ },
+ {
+  "rank": 432,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   13384320345
+  ],
+  "komentarz": "Budowa (wykop) przy trasie, DDR urywa sie na skraju placu budowy, nie wiadomo jak bedzie docelowo"
+ },
+ {
+  "rank": 434,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR konczy sie na koncu osiedlowej ulicy przy nieuzytku, dalej jezdnia o malym ruchu"
+ },
+ {
+  "rank": 438,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   12833527404
+  ],
+  "komentarz": "DDR Mlynarskiej konczy sie na chodniku przy wjezdzie na parking, dalszy ciag 115 m dalej bez polaczenia"
+ },
+ {
+  "rank": 440,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR dochodzi do drogi w lesie po przejsciu, dalej jazda jezdnia"
+ },
+ {
+  "rank": 449,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   8230989392
+  ],
+  "komentarz": "Przejazd przez zjazd z ronda konczy sie na rogu przy przejsciu dla pieszych, dalej brak infry"
+ },
+ {
+  "rank": 457,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotka odnoga do skweru przy biurowcach, bez dalszej infry, dojazd placem"
+ },
+ {
+  "rank": 459,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4880421175
+  ],
+  "komentarz": "Przejazd przy wiadukcie Lopuszanskiej konczy sie na chodniku przy torach, dalej brak infry rowerowej"
+ },
+ {
+  "rank": 462,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wzdluz ulicy konczy sie na rogu osiedlowego skrzyzowania, dalej jazda jezdnia o malym ruchu"
+ },
+ {
+  "rank": 471,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   7077800085
+  ],
+  "komentarz": "DDR/CPR Gdanskiej konczy sie na chodniku w lesie przy ulicy, bez zjazdu, dalszy ciag 136 m dalej niepolaczony"
+ },
+ {
+  "rank": 474,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wpada na droge serwisowa przy rondzie RWE, dalej jazda jezdnia"
+ },
+ {
+  "rank": 477,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wzdluz petli konczy sie na dojezdzie, wjazd na jezdnie o malym ruchu; zdjecie niewyrazne ale bez dziury"
+ },
+ {
+  "rank": 480,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   13477848271
+  ],
+  "komentarz": "Zdjecie rozmazane (niska rozdzielczosc), DDR urywa sie na skraju pola przy skrzyzowaniu"
+ },
+ {
+  "rank": 481,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR konczy sie przy przejsciu na rogu Bolimowskiej, dalej jazda jezdnia ulicy lokalnej"
+ },
+ {
+  "rank": 486,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   2838733722
+  ],
+  "komentarz": "DDR Al. Armii Krajowej konczy sie na chodniku przy parkingu przy bloku, dalszy ciag 143 m dalej niepolaczony"
+ },
+ {
+  "rank": 488,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   11226648257
+  ],
+  "komentarz": "DDR przez zarosniety teren budowy przy Hennela konczy sie na parkingu/placu, stan i dalszy ciag niejasne (to samo miejsce co #326)"
+ },
+ {
+  "rank": 489,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotki lacznik CPR w parku Kampinos, wjazd na droge serwisowa/lesna, bez teleportu"
+ },
+ {
+  "rank": 491,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   7160955392
+  ],
+  "komentarz": "DDR przez park konczy sie na chodniku tuz przy Wojciechowskiego, na przejsciu bez przejazdu, dalszy ciag 155 m dalej"
+ },
+ {
+  "rank": 493,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   4134219700
+  ],
+  "komentarz": "DDR z przejazdem konczy sie na chodniku przy przejsciu bez przejazdu przy parkingu, brak dalszej infry"
+ },
+ {
+  "rank": 504,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   11527455239
+  ],
+  "komentarz": "DDR Burakowskiej konczy sie na chodniku przy skrzyzowaniu, dalszy ciag 171 m dalej niepolaczony"
+ },
+ {
+  "rank": 512,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR dochodzi do parkingu/zjazdu osiedlowego w lesie, dalej jazda jezdnia o malym ruchu"
+ },
+ {
+  "rank": 514,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   6700465712
+  ],
+  "komentarz": "DDR przy cmentarzu Fort Wola konczy sie na trawniku przy chodniku, kolejny odcinek 180 m dalej bez polaczenia"
+ },
+ {
+  "rank": 518,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR konczy sie przy wjezdzie na dojazd do osiedla, dalej jedzie sie jezdnia o malym ruchu"
+ },
+ {
+  "rank": 519,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   12677487937
+  ],
+  "komentarz": "DDR wzdluz Redutowej konczy sie na chodniku przy przejsciu bez przejazdu na rogu Nakielskiej, brak dalszej infry"
+ },
+ {
+  "rank": 522,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10875516162
+  ],
+  "komentarz": "Krotki przejazd/DDR na skrzyzowaniu Dzialkowej konczy sie na chodniku przy domach, dalej brak infry"
+ },
+ {
+  "rank": 523,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wzdluz parkingu hipermarketu konczy sie na trawniku/placu budowy, w poblizu jezdnia parkingowa; teren budowy"
+ },
+ {
+  "rank": 531,
+  "werdykt": "blad_mapy",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Petla DDR przy wezle Al. 4 Czerwca laczy sie z droga osiedlowa, urwany kawalek to artefakt OSM"
+ },
+ {
+  "rank": 545,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3399863056
+  ],
+  "komentarz": "Przejazd przy skrzyzowaniu Deotymy konczy sie na chodniku przy przejsciu bez przejazdu, dalej brak infry"
+ },
+ {
+  "rank": 547,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3386254438
+  ],
+  "komentarz": "DDR Szczesliwickiej urywa sie na chodniku na skrzyzowaniu z Dobosza, brak kontynuacji i zjazdu"
+ },
+ {
+  "rank": 590,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1838476345
+  ],
+  "komentarz": "DDR Modlinskiej konczy sie na chodniku przy duzym skrzyzowaniu z Przyrzecze, dalej tylko chodnik/ulica"
+ },
+ {
+  "rank": 591,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR/CPR to miasteczko ruchu drogowego, nie ma realnego teleportu"
+ },
+ {
+  "rank": 596,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Siatka lesnych sciezek/DDR w zadrzewieniu, koniec na sciezce gruntowej obok dojazdu do parkingu; brak realnego teleportu"
+ },
+ {
+  "rank": 610,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   850190268
+  ],
+  "komentarz": "Przejazd przez Deotymy konczy sie na chodniku przy parkingu szkoly, brak dalszej infry po tej stronie"
+ },
+ {
+  "rank": 612,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR konczy sie po przejezdzie na rogu osiedlowego parkingu przy Odkrytej, dalej jazda jezdnia"
+ },
+ {
+  "rank": 613,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   2920719355
+  ],
+  "komentarz": "DDR Nocznickiego urywa sie przy placu budowy i skrzyzowaniu, dalej chodnik; stan niejasny"
+ },
+ {
+  "rank": 614,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR przez park osiedlowy konczy sie przy skrzyzowaniu na spokojnej ulicy, dalej jezdnia"
+ },
+ {
+  "rank": 615,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR konczy sie na przejsciu przy osiedlowej ulicy Literackiej, dalej jazda jezdnia"
+ },
+ {
+  "rank": 620,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2432934922
+  ],
+  "komentarz": "DDR Mehoffera konczy sie na chodniku przy przejsciu na skrzyzowaniu, dalej tylko chodnik w lesie"
+ },
+ {
+  "rank": 621,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd przez osiedlowa ulice Zagloby, dalej jazda jezdnia o malym ruchu"
+ },
+ {
+  "rank": 622,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   7877725783
+  ],
+  "komentarz": "DDR przez las konczy sie przy ulicy Przy Parku obok przejscia bez przejazdu, brak zjazdu i dalszej infry"
+ },
+ {
+  "rank": 625,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Poprzeczne odnogi DDR w parku konczace sie na parkowej alejce, brak realnego teleportu"
+ },
+ {
+  "rank": 632,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR konczy sie na dojezdzie/parkingu osiedlowym, dalej jazda nawierzchnia dojazdowa"
+ },
+ {
+  "rank": 641,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   6409850802
+  ],
+  "komentarz": "DDR wzdluz Mysliborskiej konczy sie na rogu przy przejsciu bez przejazdu, dalej tylko chodnik"
+ },
+ {
+  "rank": 643,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR w parku Skaryszewskim konczy sie w zieleni przy posesji, brak potrzeby dalszej infry"
+ },
+ {
+  "rank": 644,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   8519154620
+  ],
+  "komentarz": "Plac budowy przy dworcu, DDR konczy sie na placu przy wejsciu, stan docelowy niejasny"
+ },
+ {
+  "rank": 652,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   951522607
+  ],
+  "komentarz": "CPR/DDR Modlinskiej konczy sie na rogu skrzyzowania, wejscie na chodnik i przejscia bez ciaglosci infry"
+ },
+ {
+  "rank": 654,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Boczna odnoga DDR konczy sie na dojezdzie do parkingu, glowna DDR biegnie obok"
+ },
+ {
+  "rank": 657,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   9836681336
+  ],
+  "komentarz": "DDR z osiedla urywa sie w krzakach/trawniku przy Gierdziejewskiego, przejscie 40 m dalej, brak zjazdu do jezdni"
+ },
+ {
+  "rank": 664,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   11598581126
+  ],
+  "komentarz": "DDR Anny German konczy sie na chodniku przy przejsciu na skrzyzowaniu, mimo czerwonego przejazdu obok po drugiej stronie"
+ },
+ {
+  "rank": 665,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   12568191673
+  ],
+  "komentarz": "DDR urywa sie na lace przy placu budowy, zdjecie zapewne nieaktualne, teren w budowie"
+ },
+ {
+  "rank": 666,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR Modlinskiej konczy sie na koncu odcinka przy placu budowy trasy, dalej jezdnia; teren przebudowy"
+ },
+ {
+  "rank": 667,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR dochodzi do poprzecznego przejazdu na osiedlu, dalej jedzie sie jezdnia osiedlowa"
+ },
+ {
+  "rank": 668,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   11776140150
+  ],
+  "komentarz": "DDR przy nowym osiedlu konczy sie na rozjezdzonej drodze gruntowej, teren w budowie"
+ },
+ {
+  "rank": 669,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   8623308762
+  ],
+  "komentarz": "DDR Mehoffera konczy sie na chodniku przy skrzyzowaniu z Talarowa, przejscie bez przejazdu, brak dalszej infry"
+ },
+ {
+  "rank": 670,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   11992788833
+  ],
+  "komentarz": "Plac budowy osiedla, DDR konczy sie na drodze budowlanej, stan docelowy niejasny"
+ },
+ {
+  "rank": 671,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd przy skladowisku/placu przy Tunelowej konczy sie na placu manewrowym, dalej jedzie sie nawierzchnia dojazdowa o malym ruchu"
+ },
+ {
+  "rank": 672,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   6459175893
+  ],
+  "komentarz": "DDR Swiderskiej konczy sie w zaroslach przy lesie obok jezdni, bez zjazdu, dalej brak infry"
+ },
+ {
+  "rank": 675,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4284725344
+  ],
+  "komentarz": "Przejazd przez Redutowa konczy sie na sciezce w lesie po drugiej stronie ulicy, brak infry dalej, zjazd tylko na trawe"
+ },
+ {
+  "rank": 676,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   12994089921
+  ],
+  "komentarz": "DDR przez trawnik konczy sie w krzakach przy przystanku Krasinskiego, bez zjazdu na jezdnie"
+ },
+ {
+  "rank": 680,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR to miasteczko ruchu drogowego, nie ma realnego teleportu"
+ },
+ {
+  "rank": 681,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   2768130184
+  ],
+  "komentarz": "DDR przy Alejach Jerozolimskich urywa sie w zaroslach przy dzialce, nie ma zjazdu na jezdnie, kolejna infra daleko"
+ },
+ {
+  "rank": 684,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   12026929131
+  ],
+  "komentarz": "Plac skladowy/budowa przy Tunelowej, DDR konczy sie na placu, stan niejasny"
+ },
+ {
+  "rank": 687,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   13776583608
+  ],
+  "komentarz": "DDR/CPR konczy sie w zaroslach przy skrzyzowaniu Dzialkowej, brak zjazdu na jezdnie"
+ },
+ {
+  "rank": 754,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR konczy sie przy bramie/wejsciu do biurowca (teren prywatny), dalej brak potrzeby infry"
+ },
+ {
+  "rank": 756,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Krotka slepa odnoga CPR przy Al. Prymasa Tysiaclecia, glowna DDR biegnie obok bez przerwy"
+ },
+ {
+  "rank": 761,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Slepa odnoga DDR w parku przy sciezce, glowna trasa ciagla obok"
+ },
+ {
+  "rank": 763,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wpada na jezdnie Gwiazdzistej przy przejsciu, jazda dalej jezdnia"
+ },
+ {
+  "rank": 765,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "Przejazd poprzeczny konczy sie na chodniku osiedlowej ulicy; dalej mozna jechac jezdnia lokalna, DDR biegnie rownolegle"
+ },
+ {
+  "rank": 769,
+  "werdykt": "niepewne",
+  "typ": "chodnik",
+  "nodes": [
+   7255791015
+  ],
+  "komentarz": "Przejazd/CPR przy Polczynskiej w rejonie budowy, DDR konczy sie na chodniku przy przejsciu, stan niejasny"
+ },
+ {
+  "rank": 794,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "CPR wpada na spokojna ulice osiedlowa, ciag z dopuszczonym ruchem rowerow, bez teleportu"
+ },
+ {
+  "rank": 816,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR przechodzi w lesna sciezke z dopuszczonym ruchem rowerow"
+ },
+ {
+  "rank": 850,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wpada na droge serwisowa/osiedlowa przy szkole, dalej jazda jezdnia"
+ },
+ {
+  "rank": 856,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR wpada na spokojna ulice Tolwinskiego, dalej jazda jezdnia"
+ },
+ {
+  "rank": 963,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR przechodzi w sciezke z dopuszczonym ruchem rowerow przy ogrodkach dzialkowych"
+ },
+ {
+  "rank": 964,
+  "werdykt": "ok",
+  "typ": "",
+  "nodes": [],
+  "komentarz": "DDR przy stacji paliw przechodzi w chodnik z dopuszczonym ruchem rowerow/parking, dalej jazda jezdnia"
  }
 ]
