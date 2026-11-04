@@ -55,3 +55,9 @@ Plik out/weryfikacja/wynikN.json – lista JSON, po jednym obiekcie na KAŻDY ho
 `typ` i `nodes` (węzły-końce które są teleportem) wypełniaj dla `teleport` i `niepewne`.
 Zapisuj plik przyrostowo (co ok. 20 hotspotów nadpisuj całość), żeby nic nie przepadło.
 Nie modyfikuj nic poza swoim wynikN.json i swoim katalogiem tymczasowym. Nie commituj.
+
+## WAŻNE: obrazki muszą być faktycznie obejrzane
+Jeśli Read na obrazku zwróci "[media removed: request limit]" albo pusty wynik – NIE zgaduj werdyktu z `reasons`.
+Spróbuj ponownie (pojedynczo, po jednym obrazku na wywołanie). Jeśli dalej nie widać – werdykt `niepewne`,
+komentarz "brak obrazka". Każdy wpis w wyniku ma pole "obrazek_widziany": true/false.
+Oceniaj hotspot od razu po obejrzeniu jego obrazka (nie czytaj kilku obrazków naraz na zapas).

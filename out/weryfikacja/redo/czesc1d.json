@@ -1,0 +1,1382 @@
+{
+ "czesc": "1d",
+ "hotspoty": [
+  {
+   "rank": 613,
+   "score": 3.5,
+   "lat": 52.297123,
+   "lon": 20.9383271,
+   "names": [
+    "Tomasza Nocznickiego",
+    "Książąt Mazowieckich"
+   ],
+   "img": "img/0613.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.297123/20.938327",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.297123/20.938327&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172475/292637?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.297123,20.938327",
+    "gmaps_sat": "https://www.google.com/maps/@52.297123,20.938327,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 2920719355,
+     "lat": 52.297123,
+     "lon": 20.9383271,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 614,
+   "score": 3.5,
+   "lat": 52.2725427,
+   "lon": 20.9576435,
+   "names": [
+    "Zbigniewa Romaszewskiego",
+    "Gąbińska"
+   ],
+   "img": "img/0614.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.272543/20.957643",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.272543/20.957643&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172533/292665?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.272543,20.957643",
+    "gmaps_sat": "https://www.google.com/maps/@52.272543,20.957643,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 1723863655,
+     "lat": 52.2725427,
+     "lon": 20.9576435,
+     "infra": "CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 615,
+   "score": 3.5,
+   "lat": 52.2648075,
+   "lon": 20.9547155,
+   "names": [
+    "Aleja Armii Krajowej",
+    "Literacka"
+   ],
+   "img": "img/0615.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.264808/20.954715",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.264808/20.954715&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172551/292661?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.264808,20.954715",
+    "gmaps_sat": "https://www.google.com/maps/@52.264808,20.954715,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 5751959932,
+     "lat": 52.2648075,
+     "lon": 20.9547155,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (sidewalk)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 620,
+   "score": 3.5,
+   "lat": 52.3520064,
+   "lon": 20.9820818,
+   "names": [
+    "Józefa Mehoffera",
+    "Myśliwska",
+    "Brzezińska"
+   ],
+   "img": "img/0620.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.352006/20.982082",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.352006/20.982082&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172344/292701?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.352006,20.982082",
+    "gmaps_sat": "https://www.google.com/maps/@52.352006,20.982082,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 2432934922,
+     "lat": 52.3520064,
+     "lon": 20.9820818,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (sidewalk)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 621,
+   "score": 3.5,
+   "lat": 52.1931576,
+   "lon": 20.8638386,
+   "names": [
+    "Zagłoby"
+   ],
+   "img": "img/0621.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.193158/20.863839",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.193158/20.863839&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172722/292529?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.193158,20.863839",
+    "gmaps_sat": "https://www.google.com/maps/@52.193158,20.863839,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 12083911456,
+     "lat": 52.1931576,
+     "lon": 20.8638386,
+     "infra": "przejazd",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 622,
+   "score": 3.5,
+   "lat": 52.2068187,
+   "lon": 20.9546658,
+   "names": [
+    "Przy Parku",
+    "Drawska"
+   ],
+   "img": "img/0622.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.206819/20.954666",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.206819/20.954666&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172689/292661?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.206819,20.954666",
+    "gmaps_sat": "https://www.google.com/maps/@52.206819,20.954666,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 7877725783,
+     "lat": 52.2068187,
+     "lon": 20.9546658,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (sidewalk)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 625,
+   "score": 3.5,
+   "lat": 52.235884,
+   "lon": 20.9500225,
+   "names": [],
+   "img": "img/0625.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.235884/20.950022",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.235884/20.950022&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172620/292654?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.235884,20.950022",
+    "gmaps_sat": "https://www.google.com/maps/@52.235884,20.950022,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 9906689948,
+     "lat": 52.235884,
+     "lon": 20.9500225,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 632,
+   "score": 3.5,
+   "lat": 52.1865896,
+   "lon": 20.8938196,
+   "names": [
+    "Starodęby"
+   ],
+   "img": "img/0632.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.186590/20.893820",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.186590/20.893820&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172737/292572?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.186590,20.893820",
+    "gmaps_sat": "https://www.google.com/maps/@52.186590,20.893820,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 6443278143,
+     "lat": 52.1865896,
+     "lon": 20.8938196,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 641,
+   "score": 3.5,
+   "lat": 52.3120725,
+   "lon": 20.9665266,
+   "names": [
+    "Myśliborska",
+    "Świderska"
+   ],
+   "img": "img/0641.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.312072/20.966527",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.312072/20.966527&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172439/292678?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.312072,20.966527",
+    "gmaps_sat": "https://www.google.com/maps/@52.312072,20.966527,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 6409850802,
+     "lat": 52.3120725,
+     "lon": 20.9665266,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 643,
+   "score": 3.5,
+   "lat": 52.2568129,
+   "lon": 20.941778,
+   "names": [
+    "Jerzego Waldorffa"
+   ],
+   "img": "img/0643.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.256813/20.941778",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.256813/20.941778&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172570/292642?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.256813,20.941778",
+    "gmaps_sat": "https://www.google.com/maps/@52.256813,20.941778,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 8716015548,
+     "lat": 52.2568129,
+     "lon": 20.941778,
+     "infra": "CPR",
+     "end_type": "slepy",
+     "reasons": [
+      "ślepy koniec – nic dalej (krzaki?)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 644,
+   "score": 3.5,
+   "lat": 52.2191906,
+   "lon": 20.9656522,
+   "names": [],
+   "img": "img/0644.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.219191/20.965652",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.219191/20.965652&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172660/292677?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.219191,20.965652",
+    "gmaps_sat": "https://www.google.com/maps/@52.219191,20.965652,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 8519154620,
+     "lat": 52.2191906,
+     "lon": 20.9656522,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (path)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 652,
+   "score": 3.5,
+   "lat": 52.3127109,
+   "lon": 20.9783137,
+   "names": [
+    "Modlińska",
+    "Soczewkowa",
+    "Ekspresowa",
+    "Płużnicka"
+   ],
+   "img": "img/0652.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.312711/20.978314",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.312711/20.978314&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172437/292695?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.312711,20.978314",
+    "gmaps_sat": "https://www.google.com/maps/@52.312711,20.978314,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 951522607,
+     "lat": 52.3127109,
+     "lon": 20.9783137,
+     "infra": "CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway, sidewalk)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 654,
+   "score": 3.5,
+   "lat": 52.2285394,
+   "lon": 20.9712061,
+   "names": [
+    "Marcina Kasprzaka",
+    "Tadeusza Łomnickiego"
+   ],
+   "img": "img/0654.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.228539/20.971206",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.228539/20.971206&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172638/292685?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.228539,20.971206",
+    "gmaps_sat": "https://www.google.com/maps/@52.228539,20.971206,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 9222297772,
+     "lat": 52.2285394,
+     "lon": 20.9712061,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway, sidewalk)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 657,
+   "score": 3.5,
+   "lat": 52.1997547,
+   "lon": 20.8775478,
+   "names": [
+    "Kazimierza Gierdziejewskiego"
+   ],
+   "img": "img/0657.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.199755/20.877548",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.199755/20.877548&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172706/292549?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.199755,20.877548",
+    "gmaps_sat": "https://www.google.com/maps/@52.199755,20.877548,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 9836681336,
+     "lat": 52.1997547,
+     "lon": 20.8775478,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 664,
+   "score": 3.5,
+   "lat": 52.2608585,
+   "lon": 20.9730541,
+   "names": [
+    "Anny German"
+   ],
+   "img": "img/0664.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.260858/20.973054",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.260858/20.973054&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172561/292688?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.260858,20.973054",
+    "gmaps_sat": "https://www.google.com/maps/@52.260858,20.973054,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 11598581126,
+     "lat": 52.2608585,
+     "lon": 20.9730541,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 665,
+   "score": 3.5,
+   "lat": 52.3180646,
+   "lon": 20.9707961,
+   "names": [
+    "Korabów"
+   ],
+   "img": "img/0665.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.318065/20.970796",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.318065/20.970796&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172425/292684?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.318065,20.970796",
+    "gmaps_sat": "https://www.google.com/maps/@52.318065,20.970796,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 12568191673,
+     "lat": 52.3180646,
+     "lon": 20.9707961,
+     "infra": "DDR",
+     "end_type": "slepy",
+     "reasons": [
+      "ślepy koniec – nic dalej (krzaki?)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 666,
+   "score": 3.5,
+   "lat": 52.3404305,
+   "lon": 20.9546813,
+   "names": [
+    "Modlińska",
+    "Mieczysławy Ćwiklińskiej"
+   ],
+   "img": "img/0666.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.340430/20.954681",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.340430/20.954681&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172371/292661?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.340430,20.954681",
+    "gmaps_sat": "https://www.google.com/maps/@52.340430,20.954681,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 11512560932,
+     "lat": 52.3404305,
+     "lon": 20.9546813,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 667,
+   "score": 3.5,
+   "lat": 52.2028205,
+   "lon": 20.8820078,
+   "names": [
+    "Edwarda Habicha"
+   ],
+   "img": "img/0667.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.202821/20.882008",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.202821/20.882008&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172699/292555?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.202821,20.882008",
+    "gmaps_sat": "https://www.google.com/maps/@52.202821,20.882008,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 11137692736,
+     "lat": 52.2028205,
+     "lon": 20.8820078,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 668,
+   "score": 3.5,
+   "lat": 52.3122176,
+   "lon": 20.9714672,
+   "names": [],
+   "img": "img/0668.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.312218/20.971467",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.312218/20.971467&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172439/292685?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.312218,20.971467",
+    "gmaps_sat": "https://www.google.com/maps/@52.312218,20.971467,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 11776140150,
+     "lat": 52.3122176,
+     "lon": 20.9714672,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (path)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 669,
+   "score": 3.5,
+   "lat": 52.3265682,
+   "lon": 20.95022,
+   "names": [
+    "Józefa Mehoffera",
+    "Talarowa"
+   ],
+   "img": "img/0669.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.326568/20.950220",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.326568/20.950220&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172404/292654?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.326568,20.950220",
+    "gmaps_sat": "https://www.google.com/maps/@52.326568,20.950220,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 8623308762,
+     "lat": 52.3265682,
+     "lon": 20.95022,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 670,
+   "score": 3.5,
+   "lat": 52.2002271,
+   "lon": 20.884745,
+   "names": [
+    "Edwarda Habicha"
+   ],
+   "img": "img/0670.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.200227/20.884745",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.200227/20.884745&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172705/292559?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.200227,20.884745",
+    "gmaps_sat": "https://www.google.com/maps/@52.200227,20.884745,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 11992788833,
+     "lat": 52.2002271,
+     "lon": 20.884745,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 671,
+   "score": 3.5,
+   "lat": 52.2216575,
+   "lon": 20.9686175,
+   "names": [
+    "Tunelowa"
+   ],
+   "img": "img/0671.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.221657/20.968618",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.221657/20.968618&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172654/292681?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.221657,20.968618",
+    "gmaps_sat": "https://www.google.com/maps/@52.221657,20.968618,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 12026929154,
+     "lat": 52.2216575,
+     "lon": 20.9686175,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 672,
+   "score": 3.5,
+   "lat": 52.317134,
+   "lon": 20.9496669,
+   "names": [
+    "Świderska"
+   ],
+   "img": "img/0672.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.317134/20.949667",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.317134/20.949667&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172427/292654?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.317134,20.949667",
+    "gmaps_sat": "https://www.google.com/maps/@52.317134,20.949667,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 6459175893,
+     "lat": 52.317134,
+     "lon": 20.9496669,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (path)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 675,
+   "score": 3.5,
+   "lat": 52.2298378,
+   "lon": 20.9423661,
+   "names": [
+    "Redutowa"
+   ],
+   "img": "img/0675.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.229838/20.942366",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.229838/20.942366&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172635/292643?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.229838,20.942366",
+    "gmaps_sat": "https://www.google.com/maps/@52.229838,20.942366,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 4284725344,
+     "lat": 52.2298378,
+     "lon": 20.9423661,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (path, sidewalk)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 676,
+   "score": 3.5,
+   "lat": 52.2618686,
+   "lon": 20.9685782,
+   "names": [
+    "Zygmunta Krasińskiego"
+   ],
+   "img": "img/0676.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.261869/20.968578",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.261869/20.968578&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172558/292681?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.261869,20.968578",
+    "gmaps_sat": "https://www.google.com/maps/@52.261869,20.968578,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 12994089921,
+     "lat": 52.2618686,
+     "lon": 20.9685782,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 680,
+   "score": 3.5,
+   "lat": 52.1899158,
+   "lon": 20.8903045,
+   "names": [
+    "Kazimierza Pużaka"
+   ],
+   "img": "img/0680.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.189916/20.890304",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.189916/20.890304&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172730/292567?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.189916,20.890304",
+    "gmaps_sat": "https://www.google.com/maps/@52.189916,20.890304,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 13260516767,
+     "lat": 52.1899158,
+     "lon": 20.8903045,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 681,
+   "score": 3.5,
+   "lat": 52.1871368,
+   "lon": 20.9088711,
+   "names": [
+    "Aleje Jerozolimskie"
+   ],
+   "img": "img/0681.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.187137/20.908871",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.187137/20.908871&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172736/292594?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.187137,20.908871",
+    "gmaps_sat": "https://www.google.com/maps/@52.187137,20.908871,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 2768130184,
+     "lat": 52.1871368,
+     "lon": 20.9088711,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 684,
+   "score": 3.5,
+   "lat": 52.2213636,
+   "lon": 20.9654327,
+   "names": [
+    "Tunelowa"
+   ],
+   "img": "img/0684.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.221364/20.965433",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.221364/20.965433&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172655/292677?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.221364,20.965433",
+    "gmaps_sat": "https://www.google.com/maps/@52.221364,20.965433,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 12026929131,
+     "lat": 52.2213636,
+     "lon": 20.9654327,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 687,
+   "score": 3.5,
+   "lat": 52.1908289,
+   "lon": 20.9365292,
+   "names": [
+    "Działkowa",
+    "Krakowiaków"
+   ],
+   "img": "img/0687.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.190829/20.936529",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.190829/20.936529&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172727/292635?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.190829,20.936529",
+    "gmaps_sat": "https://www.google.com/maps/@52.190829,20.936529,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 13776583608,
+     "lat": 52.1908289,
+     "lon": 20.9365292,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (path)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 754,
+   "score": 3.0,
+   "lat": 52.3383857,
+   "lon": 20.9452909,
+   "names": [
+    "Poetów",
+    "Leśnej Polanki"
+   ],
+   "img": "img/0754.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.338386/20.945291",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.338386/20.945291&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172376/292647?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.338386,20.945291",
+    "gmaps_sat": "https://www.google.com/maps/@52.338386,20.945291,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 6285892571,
+     "lat": 52.3383857,
+     "lon": 20.9452909,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)",
+      "bariera: gate"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 756,
+   "score": 3.0,
+   "lat": 52.2401449,
+   "lon": 20.9564159,
+   "names": [
+    "Aleja Prymasa Tysiąclecia"
+   ],
+   "img": "img/0756.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.240145/20.956416",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.240145/20.956416&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172610/292663?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.240145,20.956416",
+    "gmaps_sat": "https://www.google.com/maps/@52.240145,20.956416,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 3475637691,
+     "lat": 52.2401449,
+     "lon": 20.9564159,
+     "infra": "CPR",
+     "end_type": "slepy",
+     "reasons": [
+      "ślepy koniec – nic dalej (krzaki?)",
+      "bariera: gate"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 761,
+   "score": 3.0,
+   "lat": 52.2415149,
+   "lon": 20.9523381,
+   "names": [],
+   "img": "img/0761.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.241515/20.952338",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.241515/20.952338&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172607/292658?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.241515,20.952338",
+    "gmaps_sat": "https://www.google.com/maps/@52.241515,20.952338,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 850181682,
+     "lat": 52.2415149,
+     "lon": 20.9523381,
+     "infra": "DDR",
+     "end_type": "slepy",
+     "reasons": [
+      "ślepy koniec – nic dalej (krzaki?)"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 763,
+   "score": 3.0,
+   "lat": 52.2827867,
+   "lon": 20.9816999,
+   "names": [
+    "Gwiaździsta"
+   ],
+   "img": "img/0763.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.282787/20.981700",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.282787/20.981700&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172509/292700?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.282787,20.981700",
+    "gmaps_sat": "https://www.google.com/maps/@52.282787,20.981700,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 4929972199,
+     "lat": 52.2827867,
+     "lon": 20.9816999,
+     "infra": "DDR",
+     "end_type": "jezdnia_ruchliwa+przejscie",
+     "reasons": [
+      "DDR wpada na jezdnię tertiary",
+      "węzeł to przejście dla pieszych (highway=crossing) bez przejazdu"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 765,
+   "score": 3.0,
+   "lat": 52.2033966,
+   "lon": 20.8814847,
+   "names": [
+    "Edwarda Habicha"
+   ],
+   "img": "img/0765.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.203397/20.881485",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.203397/20.881485&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172698/292554?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.203397,20.881485",
+    "gmaps_sat": "https://www.google.com/maps/@52.203397,20.881485,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 11557170641,
+     "lat": 52.2033966,
+     "lon": 20.8814847,
+     "infra": "DDR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 769,
+   "score": 3.0,
+   "lat": 52.2163135,
+   "lon": 20.8851852,
+   "names": [
+    "Połczyńska"
+   ],
+   "img": "img/0769.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.216313/20.885185",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.216313/20.885185&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172667/292560?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.216313,20.885185",
+    "gmaps_sat": "https://www.google.com/maps/@52.216313,20.885185,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 7255791015,
+     "lat": 52.2163135,
+     "lon": 20.8851852,
+     "infra": "CPR",
+     "end_type": "chodnik",
+     "reasons": [
+      "kończy się na chodniku/ścieżce pieszej (footway)"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 794,
+   "score": 2.89,
+   "lat": 52.2787029,
+   "lon": 20.9335655,
+   "names": [
+    "Wólczyńska",
+    "Wolumen"
+   ],
+   "img": "img/0794.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.278703/20.933566",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.278703/20.933566&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172518/292630?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.278703,20.933566",
+    "gmaps_sat": "https://www.google.com/maps/@52.278703,20.933566,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 3830176404,
+     "lat": 52.2788538,
+     "lon": 20.9335651,
+     "infra": "CPR",
+     "end_type": "jezdnia_spokojna+przejscie",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "węzeł to przejście dla pieszych (highway=crossing) bez przejazdu",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    },
+    {
+     "node": 7101851804,
+     "lat": 52.2785519,
+     "lon": 20.9335659,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik_rower_dopuszczony",
+     "reasons": [
+      "przechodzi w chodnik/ciąg z dopuszczonym ruchem rowerów (bicycle=yes)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 816,
+   "score": 2.7,
+   "lat": 52.3364952,
+   "lon": 20.9482031,
+   "names": [],
+   "img": "img/0816.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.336495/20.948203",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.336495/20.948203&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172381/292652?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.336495,20.948203",
+    "gmaps_sat": "https://www.google.com/maps/@52.336495,20.948203,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 9270014920,
+     "lat": 52.3364952,
+     "lon": 20.9482031,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik_rower_dopuszczony",
+     "reasons": [
+      "przechodzi w chodnik/ciąg z dopuszczonym ruchem rowerów (bicycle=yes)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m",
+      "wysepka infry, łącznie 43 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 850,
+   "score": 2.3,
+   "lat": 52.2594092,
+   "lon": 20.9171168,
+   "names": [
+    "Żołnierzy Wyklętych",
+    "Zachodzącego Słońca"
+   ],
+   "img": "img/0850.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.259409/20.917117",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.259409/20.917117&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172564/292606?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.259409,20.917117",
+    "gmaps_sat": "https://www.google.com/maps/@52.259409,20.917117,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 9214759600,
+     "lat": 52.2594092,
+     "lon": 20.9171168,
+     "infra": "DDR",
+     "end_type": "jezdnia_spokojna+przejscie",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "węzeł to przejście dla pieszych (highway=crossing) bez przejazdu",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 856,
+   "score": 2.3,
+   "lat": 52.2678029,
+   "lon": 20.9690884,
+   "names": [
+    "Stanisława Tołwińskiego",
+    "Braci Załuskich"
+   ],
+   "img": "img/0856.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.267803/20.969088",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.267803/20.969088&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172544/292682?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.267803,20.969088",
+    "gmaps_sat": "https://www.google.com/maps/@52.267803,20.969088,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 3390406860,
+     "lat": 52.2678029,
+     "lon": 20.9690884,
+     "infra": "DDR/CPR",
+     "end_type": "jezdnia_spokojna+przejscie",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "węzeł to przejście dla pieszych (highway=crossing) bez przejazdu",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 963,
+   "score": 1.7,
+   "lat": 52.2470719,
+   "lon": 20.9250321,
+   "names": [
+    "Dywizjonu 303",
+    "Trzech Lotniczek Polskich"
+   ],
+   "img": "img/0963.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.247072/20.925032",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.247072/20.925032&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172594/292618?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.247072,20.925032",
+    "gmaps_sat": "https://www.google.com/maps/@52.247072,20.925032,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 3770236757,
+     "lat": 52.2470719,
+     "lon": 20.9250321,
+     "infra": "DDR/CPR",
+     "end_type": "chodnik_rower_dopuszczony",
+     "reasons": [
+      "przechodzi w chodnik/ciąg z dopuszczonym ruchem rowerów (bicycle=yes)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  },
+  {
+   "rank": 964,
+   "score": 1.7,
+   "lat": 52.3499364,
+   "lon": 20.9457928,
+   "names": [
+    "Modlińska",
+    "Aluzyjna"
+   ],
+   "img": "img/0964.jpg",
+   "links": {
+    "osm": "https://www.openstreetmap.org/#map=19/52.349936/20.945793",
+    "osm_map": "https://www.openstreetmap.org/#map=19/52.349936/20.945793&layers=Y",
+    "esri_tile": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/19/172349/292648?blankTile=false",
+    "streetview": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=52.349936,20.945793",
+    "gmaps_sat": "https://www.google.com/maps/@52.349936,20.945793,20z/data=!3m1!1e3"
+   },
+   "do_oceny": [
+    {
+     "node": 2278056513,
+     "lat": 52.3499364,
+     "lon": 20.9457928,
+     "infra": "DDR",
+     "end_type": "chodnik_rower_dopuszczony",
+     "reasons": [
+      "przechodzi w chodnik/ciąg z dopuszczonym ruchem rowerów (bicycle=yes)",
+      "na wprost brak jakiejkolwiek infry w promieniu 200 m"
+     ],
+     "gap": null,
+     "fwd": null
+    }
+   ],
+   "odrzucone_automatem": []
+  }
+ ]
+}
