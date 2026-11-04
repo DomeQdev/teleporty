@@ -1,0 +1,164 @@
+{
+ "paczka": "04b",
+ "kandydaci": [
+  {
+   "lat": 52.331938,
+   "lon": 20.9485409,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.331938,
+     "lon": 20.9485409,
+     "node": 266567375,
+     "rank1": null,
+     "names": [
+      "Pasłęcka"
+     ],
+     "opis": "infra (DDR/CPR) przecina Pasłęcka (residential) – otagowane jako nieoznakowane (unmarked/no)",
+     "reasons": [
+      "otagowane jako nieoznakowane (unmarked/no)"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 677,
+   "kat": "K3",
+   "names": [
+    "Pasłęcka"
+   ],
+   "img": "img/0677.jpg"
+  },
+  {
+   "lat": 52.3325878,
+   "lon": 20.964785,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.3325878,
+     "lon": 20.964785,
+     "node": 419283299,
+     "rank1": 1033,
+     "names": [
+      "Modlińska",
+      "Geograficzna"
+     ],
+     "opis": "CPR kończy się (jezdnia_spokojna); dalszy_ciag 195 m dalej, po drugiej stronie: Geograficzna (residential), Kabrioletu (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (service)",
+      "dalszy ciąg (DDR) na wprost 195 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.3340255,
+      20.9631341
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 442,
+   "kat": "K1",
+   "names": [
+    "Geograficzna",
+    "Modlińska"
+   ],
+   "img": "img/0442.jpg"
+  },
+  {
+   "lat": 52.3340255,
+   "lon": 20.9631341,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.3340255,
+     "lon": 20.9631341,
+     "node": 3031724166,
+     "rank1": 1034,
+     "names": [
+      "Modlińska",
+      "Kabrioletu"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); dalszy_ciag 195 m dalej, po drugiej stronie: Geograficzna (residential), Kabrioletu (residential)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (residential)",
+      "dalszy ciąg (CPR) na wprost 195 m dalej, niepołączony"
+     ],
+     "cel": [
+      52.3325878,
+      20.964785
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 443,
+   "kat": "K1",
+   "names": [
+    "Kabrioletu",
+    "Modlińska"
+   ],
+   "img": "img/0443.jpg"
+  },
+  {
+   "lat": 52.3351106,
+   "lon": 20.9618767,
+   "punkty": [
+    {
+     "kat": "K3",
+     "lat": 52.3351106,
+     "lon": 20.9618767,
+     "node": 3894575326,
+     "rank1": null,
+     "names": [
+      "Józefa Mehoffera"
+     ],
+     "opis": "infra (DDR) przecina Józefa Mehoffera (tertiary) – brak tagów przejazdu",
+     "reasons": [
+      "brak tagów przejazdu"
+     ],
+     "cel": null,
+     "werdykt_rundy1": null
+    }
+   ],
+   "id": 678,
+   "kat": "K3",
+   "names": [
+    "Józefa Mehoffera"
+   ],
+   "img": "img/0678.jpg"
+  },
+  {
+   "lat": 52.3391491,
+   "lon": 20.9433652,
+   "punkty": [
+    {
+     "kat": "K1",
+     "lat": 52.3391491,
+     "lon": 20.9433652,
+     "node": 3859054862,
+     "rank1": 1114,
+     "names": [
+      "Światowida",
+      "Leśnej Polanki",
+      "Dzierzgońska"
+     ],
+     "opis": "DDR kończy się (jezdnia_spokojna); drugi_koniec 29 m dalej, po drugiej stronie: Dzierzgońska (unclassified)",
+     "reasons": [
+      "wjazd na spokojną jezdnię (unclassified)"
+     ],
+     "cel": [
+      52.3392293,
+      20.9437714
+     ],
+     "werdykt_rundy1": "automat: wjazd na jezdnię"
+    }
+   ],
+   "id": 444,
+   "kat": "K1",
+   "names": [
+    "Dzierzgońska",
+    "Leśnej Polanki",
+    "Światowida"
+   ],
+   "img": "img/0444.jpg"
+  }
+ ]
+}

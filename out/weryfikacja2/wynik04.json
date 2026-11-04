@@ -229,5 +229,19 @@
   "typ": "zebra_zamiast_przejazdu",
   "obrazek_widziany": true,
   "komentarz": "Przy zebrze przez Milenijną widać dwa rzędy kostek (znak P-11, z20) i DDR po obu stronach; OSM tylko zebra (niepewne, korony drzew)"
+ },
+ {
+  "id": 675,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "CPR wzdłuż Modlińskiej przecina ruchliwy wlot Klasyków (tertiary); w terenie widać tylko zebrę, bez czerwonego asfaltu ani kostki P-11 (z20)"
+ },
+ {
+  "id": 676,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "DDR z północy przecina Hanki Ordonówny po zwykłej zebrze i trafia na DDR po południowej stronie; brak czerwonego przejazdu/kostki (z20, część w cieniu drzew, lekko niepewne)"
  }
 ]
