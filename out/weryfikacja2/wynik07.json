@@ -1,0 +1,282 @@
+[
+ {
+  "id": 584,
+  "werdykt": "teleport",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Puławska/Goworka przy torowisku: na z20 tylko biała zebra, bez czerwonego asfaltu i kostki rowerowej; OSM rysuje DDR przez jezdnię."
+ },
+ {
+  "id": 191,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się w cieniu/na terenie budowy Goworki; nie da się ocenić kontynuacji."
+ },
+ {
+  "id": 192,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Plac budowy na Goworce/Chocimskiej, stan docelowy nieczytelny."
+ },
+ {
+  "id": 193,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Budowa przy Goworce/Spacerowej, drogi rozkopane."
+ },
+ {
+  "id": 195,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na wewnętrznej uliczce/parkingu (Skolimowska); to dojazd lokalny, cel to niezwiązana trasa."
+ },
+ {
+  "id": 473,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy placyku/parkingu przy budowie; dalej spokojna uliczka, nie ma DDR do przejechania przez jezdnię."
+ },
+ {
+  "id": 199,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy bocznej ulicy Miecznikowa przy zebrze; dalej spokojna uliczka serwisowa wzdłuż Żwirki, brak DDR po drugiej stronie."
+ },
+ {
+  "id": 200,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na spokojną uliczkę serwisową wzdłuż Żwirki i Wigury, jazda jezdnią."
+ },
+ {
+  "id": 590,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przy zebrze na Wawelskiej widać osobny przejazd rowerowy (znaczniki obok zebry), w OSM nieoznakowany; obie strony mają DDR."
+ },
+ {
+  "id": 681,
+  "werdykt": "teleport",
+  "typ": "chodnik_rower_dopuszczony",
+  "obrazek_widziany": true,
+  "komentarz": "CPR wchodzi na kładkę nad Al. Jerozolimskimi z dopuszczonym ruchem rowerów (kręte pochylnie); faktycznie jest to przeprawa, do decyzji zleceniodawcy."
+ },
+ {
+  "id": 203,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR kończy się na placyku przed budynkiem przy rondzie; łączy się z drugą odnogą i Raszyńską, brak DDR za ulicą."
+ },
+ {
+  "id": 204,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wjeżdża na Raszyńską (ulica jednokierunkowa) w kierunku jazdy."
+ },
+ {
+  "id": 210,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki łącznik z Sędziowskiej do chodnika Al. Niepodległości, brak DDR po drugiej stronie."
+ },
+ {
+  "id": 211,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki kontraruch na Barskiej (oneway:bicycle=no), nie przecina ulicy ruchliwej."
+ },
+ {
+  "id": 597,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR przecina wjazd/uliczkę osiedlową przy Placu na Rozdrożu, nie ulicę główną."
+ },
+ {
+  "id": 212,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się przy Placu Zbawiciela, dalej jazda jezdnią/rondem, brak DDR po drugiej stronie wymagającej przejazdu."
+ },
+ {
+  "id": 214,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na spokojną jednokierunkową Koszykową."
+ },
+ {
+  "id": 216,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na spokojną jednokierunkową Koszykową."
+ },
+ {
+  "id": 217,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przy Szczęśliwickiej; druga DDR to równoległa trasa po drugiej stronie Al. Jerozolimskich, niezwiązana."
+ },
+ {
+  "id": 218,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec kontraruchu/odcinka na ulicy Spiska przy skrzyżowaniu; cel to inna trasa."
+ },
+ {
+  "id": 219,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po południowej stronie kończy się na ulicy serwisowej; druga DDR to równoległa trasa po północnej stronie."
+ },
+ {
+  "id": 220,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na skrzyżowaniu, dalej spokojna Koszykowa."
+ },
+ {
+  "id": 221,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR do ulicy serwisowej, DDR główna biegnie dalej."
+ },
+ {
+  "id": 222,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Koniec na ulicy Spiska przy skrzyżowaniu, spokojna jezdnia."
+ },
+ {
+  "id": 223,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR przez Niemcewicza (przejazd) kończy się na ulicy serwisowej; druga DDR to równoległa trasa."
+ },
+ {
+  "id": 224,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przerwa ok. 20 m na skrzyżowaniu spokojnych ulic Koszykowa/Mokotowska, jazda jezdnią."
+ },
+ {
+  "id": 231,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR (jednokierunkowa) kończy się na jezdni Raszyńskiej (secondary, 3 pasy, use_sidepath); pas rowerowy jest po drugiej jezdni za pasem zieleni; skomplikowany węzeł."
+ },
+ {
+  "id": 232,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnogi DDR kończą się na bocznej uliczce/parkingu i łączą z pasem na wschodniej jezdni; brak przejazdu przez ruchliwą ulicę."
+ },
+ {
+  "id": 233,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "Południowa DDR Al. Jerozolimskich kończy się przy bocznej uliczce, brak dalszej infry na tej stronie; DDR po północnej stronie za 6-pasmową ulicą bez przejazdu."
+ },
+ {
+  "id": 234,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Raszyńskiej kończy się na ruchliwej jezdni przy Placu Zawiszy; ciąg dalszy DDR po zachodniej stronie, za jezdnią i torowiskiem."
+ },
+ {
+  "id": 235,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na chodniku przy narożniku budynku przy Placu Zawiszy; pas rowerowy zaczyna się ok. 60 m dalej na ruchliwej Raszyńskiej, trzeba wjechać na jezdnię."
+ },
+ {
+  "id": 237,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótka odnoga DDR kończy się na jezdni węzła Zawiszy; ciągi DDR są połączone sąsiednimi przejazdami."
+ },
+ {
+  "id": 239,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Krótki łącznik DDR przez parking przy Lindleya; brak przecinania ruchliwej ulicy."
+ },
+ {
+  "id": 240,
+  "werdykt": "teleport",
+  "typ": "przez_ulice",
+  "obrazek_widziany": true,
+  "komentarz": "DDR po wschodniej stronie Towarowej kończy się przy budynku, dalej brak infry; DDR po zachodniej stronie za 6 pasami i torowiskiem."
+ },
+ {
+  "id": 241,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Odnoga DDR kończy się na bocznej uliczce parkingowej Nowogrodzka, spokojna jezdnia."
+ },
+ {
+  "id": 600,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Przez Chałubińskiego widać czerwone przejazdy rowerowe (asfalt na jezdniach i torowisku), w OSM oznaczone jako unmarked."
+ },
+ {
+  "id": 242,
+  "werdykt": "blad_mapy",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "Czerwone przejazdy rowerowe przez Chałubińskiego widoczne (K3 to błąd tagów); po wschodniej stronie DDR wchodzi na boczną jezdnię z kontraruchem."
+ },
+ {
+  "id": 244,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR kończy się na parkingu/uliczce Nowogrodzkiej, spokojna jezdnia."
+ },
+ {
+  "id": 245,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na spokojną uliczkę (Nowogrodzka/Św. Barbary) z parkingiem; dalej kontraruch na jezdni."
+ },
+ {
+  "id": 247,
+  "werdykt": "ok",
+  "typ": "inne",
+  "obrazek_widziany": true,
+  "komentarz": "DDR wpuszcza na spokojną ulicę Nowogrodzką, jazda jezdnią."
+ }
+]

@@ -215,5 +215,12 @@
   "typ": "zebra_zamiast_przejazdu",
   "obrazek_widziany": true,
   "komentarz": "DDR wzdłuż Modlińskiej przecina ulicę Szałasa; na z20 widać czerwony przejazd rowerowy obok zebry z symbolami roweru, OSM ma tylko zebrę"
+ },
+ {
+  "id": 673,
+  "werdykt": "blad_mapy",
+  "typ": "zebra_zamiast_przejazdu",
+  "obrazek_widziany": true,
+  "komentarz": "Skrzyżowanie z sygnalizacją: DDR przecina Mehoffera po przejściu z równoległym pasem kostek P-11 (z20, rozpoznanie niepewne); w OSM brak tagów przejazdu"
  }
 ]
