@@ -1,0 +1,388 @@
+[
+ {
+  "rank": 193,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Leśne ścieżki przecinają szosę, krótki przejazd rowerowy; w lesie brak dalszej infry, dalej jezdnia/leśne dukty.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 196,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3265285204
+  ],
+  "komentarz": "DDR wzdłuż Modlińskiej urywa się na trawie/chodniku przy zatoce parkingowej; CPR po drugiej stronie 6 pasów bez połączenia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 199,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   4774658518
+  ],
+  "komentarz": "Odnoga DDR w stronę Łopuszańskiej kończy się przy przejściu dla pieszych bez przejazdu na dużym skrzyżowaniu; dalej tylko chodnik.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 204,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   3207048195
+  ],
+  "komentarz": "DDR wzdłuż Kaliskiego skręca i kończy się w rogu skrzyżowania z Kocjana przy przejściu dla pieszych bez przejazdu; dalej brak infry.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 205,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   8120938488
+  ],
+  "komentarz": "DDR od północy kończy się na chodniku w rogu skrzyżowania z Żeromskiego, przy przejściach dla pieszych bez przejazdu; brak dalszej infry.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 210,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   5354146172
+  ],
+  "komentarz": "DDR/CPR z południa kończy się na chodniku przed wielkim węzłem Obrońców Grodna/Lazurowa, tylko przejścia dla pieszych bez przejazdu, dalej brak infry.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 214,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   9707072609
+  ],
+  "komentarz": "DDR/przejazd przy Słowackiego kończy się na chodniku przy narożniku budynku, bez dalszego ciągu; tylko chodnik i przejście pieszych.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 215,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krótka odnoga przy DDR Hynka kończy się przy chodniku osiedlowym; główny ciąg DDR/przejazdy dookoła ronda ciągły, nikt nie jest zmuszony nią jechać.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 217,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1544218845
+  ],
+  "komentarz": "DDR z przejazdami wokół ronda Rembeka urywa się na chodniku w rogu przy Kleszczowej, dalej tylko przejście dla pieszych i chodnik.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 219,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   519355741
+  ],
+  "komentarz": "DDR z przejazdami przy skrzyżowaniu Hłaski/Rudzka kończy się na wąskiej ścieżce pieszej w parku i chodniku wzdłuż jezdni; brak dalszej infry rowerowej.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 225,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krótki odcinek CPR (31 m) łączący ulicę osiedlową z parkingiem/podjazdem; kończy się na drodze wewnętrznej, gdzie dalej jedzie się jezdnią.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 226,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   12923040552
+  ],
+  "komentarz": "CPR wzdłuż Modlińskiej kończy się przy przejściu dla pieszych bez przejazdu na skrzyżowaniu z Pułkową/Heroldów; dalej brak infry (zdjęcie starsze, ale układ czytelny).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 227,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   4705757179
+  ],
+  "komentarz": "DDR po wschodniej stronie Światowida urywa się na utwardzonym placyku przy pętli/przystanku; DDR po zachodniej stronie 33 m dalej, bez przejazdu przez jezdnię i torowisko.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 231,
+  "werdykt": "blad_mapy",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Zielone kółka i prostokąt w parku osiedlowym to prawdopodobnie błędnie otagowane ścieżki wokół placu zabaw, nie ma tu realnej DDR.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 239,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   13372476205
+  ],
+  "komentarz": "Po przejeździe przez Śmigłowca DDR kończy się na chodniku w rogu przy Al. Jerozolimskich; na wprost tylko chodnik, brak dalszej infry.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 245,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10759648264
+  ],
+  "komentarz": "DDR po północnej stronie Górczewskiej urywa się na chodniku, a do dalszego DDR przy skrzyżowaniu ok. 100 m na zachód jest tylko zwykły chodnik.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 250,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Koniec DDR to tylko rożek przy skrzyżowaniu; ruch jedzie dalej przez przejazdy rowerowe (żółte) na DDR po drugiej stronie, w kierunku wschodnim DDR jest ciągły.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 260,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Na zdjęciu DDR po południowej stronie Światowida biegnie ciągle wzdłuż nowej ulicy przez punkt oceniany (chodnik biegnie równolegle); to przerwa tylko w danych OSM, nie realny koniec. Teren w budowie.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 269,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3383732374
+  ],
+  "komentarz": "Krótka odnoga DDR z przejazdem przez Dahlbergha kończy się na chodniku przy narożniku budynku, bez zjazdu na jezdnię; dalej tylko chodnik wzdłuż Obozowej (słaby teleport, główny ciąg DDR ciągły).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 272,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   2517817425
+  ],
+  "komentarz": "Przejazd rowerowy przez wlot do ronda Grafen kończy się po drugiej stronie na chodniku/placu pieszym przy metrze Młociny; dalej brak infry (słaby teleport, krótka odnoga).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 276,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   13276343491
+  ],
+  "komentarz": "Po przejeździe rowerowym na wielkim węźle przy rondzie Katyńskim DDR urywa się na chodniku w południowym rogu; dalej tylko chodnik wzdłuż jezdni, brak infry.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 296,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3999293906
+  ],
+  "komentarz": "DDR wzdłuż Al. Solidarności kończy się na chodniku przed skrzyżowaniem z Wiatraczną, dalszy DDR 93 m dalej bez połączenia, obok tylko chodnik i przejścia dla pieszych.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 298,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   4264185120
+  ],
+  "komentarz": "Duży plac budowy przy Al. Jerozolimskich (metro/tramwaj); DDR kończy się przy wejściu do podziemi, układ po przebudowie nieznany, zdjęcie nie rozstrzyga.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 304,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   6695978097
+  ],
+  "komentarz": "Przejazdy rowerowe przez Al. Krakowską/Grójecką prowadzą na wschodni róg, gdzie DDR się urywa na chodniku; dalej tylko chodnik i las, brak infry.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 308,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krótki CPR (30 m) wpada na spokojną ulicę osiedlową Okocimska/parking, dalej jedzie się jezdnią.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 309,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   11169220195
+  ],
+  "komentarz": "DDR wzdłuż północnej strony Górczewskiej urywa się na chodniku przy wjeździe na osiedle; dalej tylko chodnik, następny przejazd rowerowy dopiero 87 m dalej bez połączenia.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 313,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR kończy się przy rondzie Cieplińskiego, schodzi na jezdnię lokalnej ulicy (Ordonówny); wjazd na jezdnię, dalej jedzie się ulicą.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 315,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   6356298446
+  ],
+  "komentarz": "DDR wzdłuż Słowackiego (Bródno) kończy się w parku na ścieżce pieszej/skarpie przy torowisku; dalej tylko wąska ścieżka piesza w zieleni, brak infry.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 316,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Przy węźle infra jest ciągła: obok pieszego przejścia jest żółty przejazd rowerowy, a CPR biegnie dalej w obie strony; ciąg się zamyka.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 326,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   12597853490
+  ],
+  "komentarz": "DDR przy Hennela biegnie przez zarośla na terenie budowy/nieużytku i kończy się w krzakach przy podwórku; nie widać nawierzchni, niejasne czy w ogóle istnieje i dokąd prowadzi.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 335,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10697650662
+  ],
+  "komentarz": "Przejazd rowerowy przez Reymonta wyprowadza z DDR na chodnik przy parkingu osiedlowym; dalej brak infry, tylko chodnik i ścieżki piesze (słaby teleport, odnoga).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 341,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "CPR między ogrodzeniami dochodzi do bocznej ulicy Szeligowskiej (peryferia, mały ruch); dalej jedzie się jezdnią, brak wymuszonego wjazdu na chodnik.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 361,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2505852312
+  ],
+  "komentarz": "DDR wzdłuż zachodniej strony ulicy kończy się przy wlocie ulicy Okopowej/Kolskiej, przy przejściu bez przejazdu; dalej na północ tylko chodnik wzdłuż jezdni (słaby teleport, można zjechać na boczną ulicę).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 363,
+  "werdykt": "niepewne",
+  "typ": "krzaki",
+  "nodes": [
+   14006788041
+  ],
+  "komentarz": "Krótka odnoga od DDR Żwirki i Wigury w stronę wykopu/placu budowy (Wilanów), kończy się w zaroślach; to prawdopodobnie zalążek przyszłej drogi, główny DDR ciągły, zdjęcie nie rozstrzyga.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 377,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   831525795
+  ],
+  "komentarz": "DDR/CPR przy Strumykowej urywa się na chodniku przy zakręcie ulicy; dalej tylko chodnik, kolejny DDR 163 m dalej bez połączenia (na obrazku szary kwadrat nie dotyczy punktu oceny).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 384,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   13606497841
+  ],
+  "komentarz": "Krótka odnoga z przejazdem przez wlot Gierdziejewskiego kończy się na chodniku/piasku w rogu przy Warszawskiej; dalszy DDR 178 m dalej bez połączenia (główny DDR na SW ciągły).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 388,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krótka odnoga z przejazdem prowadzi do wjazdu/placu przed biurowcem; kończy się na drodze wewnętrznej/parkingu, główny DDR Al. Jerozolimskich ciągły.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 390,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   4537504436
+  ],
+  "komentarz": "Odnoga DDR z przejazdem przez Górczewską kończy się na południowym chodniku przy przejściu dla pieszych przez ulicę Syreny, bez dalszej infry (słaby teleport, główny DDR po północnej stronie ciągły).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 391,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   7756960895
+  ],
+  "komentarz": "Odnoga DDR z przejazdem przez Górczewską kończy się na południowym chodniku/alejce między blokami, bez infry dalej (słaby teleport, główny DDR ciągły po północnej stronie).",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 393,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR z przejazdem przez Dzielną kończy się na skwerku przy wlocie spokojnej ulicy Bellottiego, dalej jedzie się jezdnią osiedlową.",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 395,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   10010056955
+  ],
+  "komentarz": "Odnoga DDR z dwoma przejazdami przez Górczewską i boczną ulicę kończy się na chodniku w północno-wschodnim rogu skrzyżowania; dalej tylko chodnik/trawnik, brak infry (słaby teleport, główny DDR po południowej stronie ciągły).",
+  "obrazek_widziany": true
+ }
+]
