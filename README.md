@@ -8,6 +8,30 @@ po infrastrukturze dojechać**.
 Dane: OSM, wycinek województwa mazowieckiego (`mazowieckie-latest.osm.pbf`), przycięty do granicy
 m.st. Warszawy (relacja `admin_level=6`).
 
+## Wynik: zweryfikowane teleporty (stan OSM 2026-11-03)
+
+**191 faktycznych teleportów** (+72 niepewne, +20 błędów mapy) – po odsianiu regułami i obejrzeniu
+każdego z 492 pozostałych miejsc na zdjęciu satelitarnym.
+
+* `out/teleporty_mapa.html` – mapa tylko z teleportami / niepewnymi / błędami mapy, z komentarzem do każdego
+* `out/teleporty.csv` – faktyczne teleporty i niepewne, z komentarzem, linkami do OSM i Street View
+* `out/bledy_mapy.csv` – infra istnieje w terenie, w OSM brakuje połączenia (do poprawy w OSM)
+* `out/teleporty.geojson`, `out/teleporty.json`
+
+Typy teleportów: chodnik 112, przejście bez przejazdu 40, krzaki 23, luka do innej infry 13, skrzyżowanie 3.
+
+### Jak weryfikowano
+1. Reguły (`scripts/prepare_review.py`) – za OK uznane bez oglądania: wpadnięcie na jezdnię (dowolną,
+   także szybką), kontraruchy/kontrapasy, pas kończący się na przejściu na jezdni, budowa, niepołączenie < 2,5 m.
+   Z 1521 hotspotów zostało 492.
+2. Każde z 492 miejsc obejrzane na podglądzie Esri z19 z narysowaną infrą (`out/weryfikacja/img/`,
+   niecommitowane) przez agentów AI wg `out/weryfikacja/INSTRUKCJA.md`; Warszawa podzielona na 3 pasy
+   zachód→wschód (`czesc1..3.json`), części 1 i 2 przeliczone w mniejszych paczkach (`redo/`), bo
+   pierwszy przebieg nie widział obrazków. Werdykty: `out/weryfikacja/wynik*.json`.
+3. `scripts/merge_review.py` scala werdykty, `scripts/build_map.py out/teleporty.json` buduje mapę.
+
+Werdykty `niepewne` to głównie budowy i miejsca zasłonięte drzewami – warto je obejrzeć w Street View.
+
 ## Uruchomienie
 
 ```bash

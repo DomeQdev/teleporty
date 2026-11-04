@@ -1,0 +1,381 @@
+[
+ {
+  "rank": 2,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR zielone z obu stron estakady połączone krótkim odcinkiem przez rampę; infra ciągła, sensowne połączenie",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 4,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR przecina chodnik i prowadzi dalej do osiedlowej alejki; koniec na drodze/ścieżce osiedlowej",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 7,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   3416695430,
+   3110865022
+  ],
+  "komentarz": "DDR od południa kończy się na narożniku skrzyżowania z Emilii Plater; dalej tylko przejście dla pieszych, pasy po drugiej stronie nieosiągalne",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 16,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   3358375795,
+   3405698481
+  ],
+  "komentarz": "CPR kończy się na narożniku Targowej przed Ząbkowską, dalszy ciąg 17 m dalej za przejściem dla pieszych bez przejazdu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 17,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3380566688
+  ],
+  "komentarz": "DDR Świętojerskiej kończy się na chodniku przy skrzyżowaniu, pas Bonifraterskiej zaczyna się ~21 m dalej bez połączenia (kalibracja)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 24,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   9902406714,
+   9902406715
+  ],
+  "komentarz": "CPR wzdłuż Wołoskiej przerwany przy wlocie Wiktorskiej: tylko przejście dla pieszych z krawężnikami, bez przejazdu (jak Rosoła/Nugat); skala drobna (6 m)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 37,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   10079670010,
+   13388984634
+  ],
+  "komentarz": "Plac budowy (tramwaj na Gagarina) przy Sułkowickiej, układ DDR/przejazdów nie do rozstrzygnięcia ze zdjęcia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 49,
+  "werdykt": "blad_mapy",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Prosta leśna ścieżka rowerowa, 20 m przerwy w OSM na linii trasy (ciemny prześwit/staw); w rzeczywistości ciągła, brak skrzyżowania",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 50,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   3005657855
+  ],
+  "komentarz": "DDR z parku kończy się przy przejściu dla pieszych/torach przy przystanku; pas Bonifraterskiej 25 m dalej, bez przejazdu rowerowego",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 54,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Dwie parkowe aleje (CPR) schodzą się na utwardzonym placu/rondzie w parku; można normalnie przejechać po placu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 64,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   2447414288
+  ],
+  "komentarz": "CPR od południa kończy się przy budynku; 31 m wąskiego chodnika (zakaz rowerów) dzieli go od DDR przy Rondzie Schumana",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 66,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krótki przejazd przez Indiry Gandhi kończy się na parkingu/drodze osiedlowej po obu stronach, dalej jedzie się jezdnią",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 68,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1711905206
+  ],
+  "komentarz": "Północny koniec przejazdu przez Al. Wilanowską urywa się na chodniku, dalszy DDR 75 m na NE bez połączenia; południowe końce kończą się na chodnikach przy ulicach bocznych (mniejszy problem)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 69,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Pas rowerowy Kruczej kończy się na jezdni przed skrzyżowaniem z Al. Jerozolimskimi; wjazd na jezdnię",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 72,
+  "werdykt": "niepewne",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   4864629143
+  ],
+  "komentarz": "Odnoga DDR urywa się na krawędzi jezdni ekspresowej Wybrzeża Gdyńskiego (zakaz rowerów), druga DDR 46 m za 6 pasami; to ślepa odnoga zjazdu, nie wiadomo czy realna trasa",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 73,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   8170409869
+  ],
+  "komentarz": "Wschodnia DDR Al. Jana Pawła II po przejeździe przez Złotą kończy się na chodniku bez dalszego ciągu; zjazdu na jezdnię nie widać",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 74,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   11771741976
+  ],
+  "komentarz": "Przejazd przez Wybrzeże Kościuszkowskie kończy się na placu budowy (przebudowa przy moście), 14 m od DDR bulwarowej; stan zdjęcia budowlany, nie do rozstrzygnięcia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 75,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Miasteczko ruchu drogowego/tor rowerowy na terenie szkoły/przedszkola, nie trasa rowerowa",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 76,
+  "werdykt": "teleport",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   3947939080
+  ],
+  "komentarz": "Przejazd/DDR kończy się na narożniku przy przejściu dla pieszych; pas Bonifraterskiej zaczyna się 28 m dalej na jezdni, bez widocznego zjazdu (analogia do Świętojerskiej); pewność średnia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 84,
+  "werdykt": "blad_mapy",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "CPR od południa i DDR przy skrzyżowaniu Wołoskiej leżą na tym samym chodniku, 7 m przerwy to brak połączenia w OSM; fizycznie ciągłe",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 90,
+  "werdykt": "niepewne",
+  "typ": "inne",
+  "nodes": [
+   13375970014
+  ],
+  "komentarz": "Dziwna pętla infry narysowana w poprzek jezdni/torowiska Rakowieckiej, kończąca się przy chodniku; wygląda na artefakt mapowania przy czerwonych pasach, nie do rozstrzygnięcia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 93,
+  "werdykt": "teleport",
+  "typ": "przejscie_bez_przejazdu",
+  "nodes": [
+   2906396237
+  ],
+  "komentarz": "DDR od południa kończy się na narożniku Zamenhofa; DDR po drugiej stronie 29 m dalej, między nimi tylko przejście dla pieszych bez przejazdu",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 95,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   2751964372,
+   3230376642
+  ],
+  "komentarz": "Przejazdy przez Puławską urywają się na zachodnim chodniku, bez jakiejkolwiek dalszej infry i bez zjazdu; trzeba jechać chodnikiem",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 96,
+  "werdykt": "blad_mapy",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Rowerowa pętla/rampa przy wiadukcie Toruńskiej; 5 m przerwy to niedomknięcie połączenia w OSM, fizycznie DDR ciągła wokół pętli i do ulicy",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 97,
+  "werdykt": "blad_mapy",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Parkowa ścieżka rowerowa dochodzi w T do równoległego chodnika i DDR Waryńskiego, 6 m od niej; fizycznie połączone, w OSM brak węzła",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 99,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1517930393
+  ],
+  "komentarz": "DDR z przejazdem przez Zajączka kończy się na chodniku pod blokiem; dalej brak infry, DDR po zachodniej stronie Mickiewicza 34 m dalej bez połączenia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 115,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "DDR wzdłuż Al. Armii Ludowej kończy się przy utwardzonym placu/parkingu przed budynkiem, drogą dojazdową; dalej zwykła jezdnia/droga wewnętrzna",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 116,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Izolowany 8 m kawałek DDR na skrzyżowaniu na peryferiach, brak jakiejkolwiek sieci wokół; nie tworzy teleportu, dalej zwykła jezdnia",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 121,
+  "werdykt": "teleport",
+  "typ": "krzaki",
+  "nodes": [
+   8043665673
+  ],
+  "komentarz": "DDR wzdłuż Marynarskiej urywa się na skraju trawnika/placu budowy przy biurowcu; dalszy DDR 76 m na zachód połączony tylko wydeptaną ścieżką po trawniku",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 124,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Krótki CPR między blokami kończy się przy osiedlowej ulicy Dzielnej (spokojna, parkingowa), dalej jezdnią",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 125,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   1411552383
+  ],
+  "komentarz": "DDR wzdłuż Szucha umiera na chodniku na rogu Placu Unii Lubelskiej; dalszy DDR 104 m dalej za wielkim skrzyżowaniem, bez połączenia (podobnie jak Andersa/Pl. Bankowy)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 126,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   4883545605
+  ],
+  "komentarz": "DDR/CPR od strony Puławskiej kończy się na chodniku przy Placu Unii Lubelskiej; dalszy ciąg 104 m po drugiej stronie ronda, przejścia tylko dla pieszych",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 129,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   11374310897
+  ],
+  "komentarz": "DDR Andersa kończy się na chodniku przy Placu Bankowym, CPR 127 m dalej bez połączenia (kalibracja)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 131,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Izolowany 21 m odcinek DDR między przejściami przy Grójeckiej/Barskiej; brak sieci wokół, dalej jezdnia/ulica boczna",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 134,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Przejazd przez ramię ronda Miś kończy się przy osiedlowej drodze dojazdowej/placu osiedla; dalej jezdnia wewnętrzna",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 135,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Zaznaczony węzeł leży na ciągłym CPR nad Wisłą; to odgałęzienie ze schodami do plaży/lokalu, główna trasa biegnie dalej",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 136,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   3914517530
+  ],
+  "komentarz": "DDR Targowej kończy się na chodniku przed ogromnym skrzyżowaniem z Kijowską, dalszy ciąg 144 m dalej bez połączenia (kalibracja)",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 140,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Drugi koniec krótkiego CPR między blokami, kończy się na osiedlowym dojeździe/parkingu; dalej jezdnia wewnętrzna",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 144,
+  "werdykt": "niepewne",
+  "typ": "luka_do_innej_infry",
+  "nodes": [
+   11771720864
+  ],
+  "komentarz": "Dolna ścieżka CPR przy Wybrzeżu Szczecińskim urywa się na piaszczystym placu (budowa/zaplecze), DDR przy jezdni 11 m dalej za barierką; niejasne, czy to realna trasa",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 151,
+  "werdykt": "teleport",
+  "typ": "chodnik",
+  "nodes": [
+   5293980175
+  ],
+  "komentarz": "Przejazd przez Sikorskiego kończy się na wschodnim chodniku/trawniku przy stacji; DDR 150 m dalej bez połączenia, droga prowadzi tylko chodnikiem lub trawnikiem",
+  "obrazek_widziany": true
+ },
+ {
+  "rank": 153,
+  "werdykt": "ok",
+  "typ": null,
+  "nodes": [],
+  "komentarz": "Zachodni CPR kończy się przy wjeździe na parking centrum handlowego (droga wewnętrzna), dalej można jechać parkingiem; DDR po drugiej stronie osobna",
+  "obrazek_widziany": true
+ }
+]
