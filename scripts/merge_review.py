@@ -41,17 +41,45 @@ def main(hot_path, rdir, outdir):
         h.update({"werdykt": v["werdykt"], "typ": v.get("typ", ""), "komentarz": v.get("komentarz", ""),
                   "teleport_nodes": v.get("nodes", [])})
         keep.append(h)
+    # ---- runda 2 (teleporty przez ulicę), jeśli jest
+    r2 = os.path.join(os.path.dirname(rdir.rstrip("/")), "weryfikacja2")
+    if os.path.exists(os.path.join(r2, "kandydaci.json")):
+        G = {g["id"]: g for g in json.load(open(os.path.join(r2, "kandydaci.json")))}
+        v2 = {}
+        for p in sorted(glob.glob(os.path.join(r2, "wynik*.json"))):
+            for v in json.load(open(p)):
+                v2[int(v["id"])] = v
+        miss2 = sorted(set(G) - set(v2))
+        print(f"runda 2: kandydatów {len(G)}, ocenionych {len(v2)}, brak: {len(miss2)} {miss2[:20]}", file=sys.stderr)
+        print("runda 2 werdykty:", dict(Counter(v["werdykt"] for v in v2.values())), file=sys.stderr)
+        for gid, v in v2.items():
+            if v["werdykt"] not in order or gid not in G:
+                continue
+            g = G[gid]
+            lat, lon = g["lat"], g["lon"]
+            keep.append({
+                "rank": 10000 + gid, "score": 0, "teleport": True, "lat": lat, "lon": lon,
+                "names": g["names"], "types": [g["kat"]],
+                "links": {"osm_map": f"https://www.openstreetmap.org/#map=19/{lat:.6f}/{lon:.6f}&layers=Y",
+                          "streetview": f"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint={lat:.6f},{lon:.6f}"},
+                "endpoints": [{"node": c["node"], "lat": c["lat"], "lon": c["lon"], "score": 0,
+                               "infra": c["kat"], "end_type": c["kat"], "reasons": [c["opis"]],
+                               "gap": {"gap_m": 10, "gap_lat": c["cel"][0], "gap_lon": c["cel"][1]} if c["cel"] else None,
+                               "fwd": None} for c in g["punkty"]],
+                "werdykt": v["werdykt"], "typ": v.get("typ", ""), "komentarz": v.get("komentarz", ""),
+                "teleport_nodes": [c["node"] for c in g["punkty"]], "runda": 2,
+            })
     keep.sort(key=lambda h: (order[h["werdykt"]], -h["score"]))
     json.dump(keep, open(os.path.join(outdir, "teleporty.json"), "w"), ensure_ascii=False, indent=1)
 
     def write_csv(path, rows):
         with open(path, "w", newline="") as f:
             w = csv.writer(f)
-            w.writerow(["werdykt", "typ", "miejsce", "komentarz", "score", "rank", "lat", "lon",
+            w.writerow(["runda", "werdykt", "typ", "miejsce", "komentarz", "score", "rank", "lat", "lon",
                         "osm", "streetview", "nodes"])
             for h in rows:
                 L = h["links"]
-                w.writerow([h["werdykt"], h["typ"], " / ".join(h["names"]), h["komentarz"], h["score"], h["rank"],
+                w.writerow([h.get("runda", 1), h["werdykt"], h["typ"], " / ".join(h["names"]), h["komentarz"], h["score"], h["rank"],
                             h["lat"], h["lon"], L["osm_map"], L["streetview"],
                             " ".join(map(str, h["teleport_nodes"]))])
 
