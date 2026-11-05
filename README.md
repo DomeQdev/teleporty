@@ -46,6 +46,20 @@ chodnik z dopuszczonym ruchem rowerów 6, krzaki 1.
 
 Werdykty `niepewne` to głównie budowy i miejsca zasłonięte drzewami – warto je obejrzeć w Street View.
 
+### Ręczna weryfikacja w przeglądarce
+
+```bash
+python scripts/serve_review.py     # http://127.0.0.1:8765, bez instalowania zależności
+```
+
+Przeglądanie wszystkich 554 miejsc z `out/teleporty.json`: lista z filtrami, mapa z infrą, link do Street View
+przy każdym miejscu i każdym punkcie (nowa karta). Oceny zapisują się od razu do `out/oceny.json`,
+w CSV można je pobrać przyciskiem na stronie.
+
+Klawisze: `t` teleport, `n` nie, `m` nie wiem, `s` Street View, `j`/`k` następny/poprzedni, `u` cofnij, `c` komentarz.
+
+`--host 0.0.0.0` udostępnia serwer w sieci lokalnej (np. na telefon), ale każdy w tej sieci może wtedy zmieniać oceny.
+
 ## Uruchomienie
 
 ```bash

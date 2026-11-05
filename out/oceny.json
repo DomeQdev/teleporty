@@ -1,0 +1,2337 @@
+{
+ "10001": {
+  "czas": "2026-11-05T10:27:02+00:00",
+  "komentarz": "powinien byc przejazd rowerowy a najlepiej ddr do pulawskiej",
+  "ocena": "tak"
+ },
+ "10002": {
+  "czas": "2026-11-05T10:27:08+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10006": {
+  "czas": "2026-11-05T10:08:40+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10007": {
+  "czas": "2026-11-05T10:14:03+00:00",
+  "komentarz": "ddr po lewej stronie DW724 powinien być aż do przyczółkowej",
+  "ocena": "tak"
+ },
+ "10008": {
+  "czas": "2026-11-05T10:14:24+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10009": {
+  "czas": "2026-11-05T10:14:25+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10012": {
+  "czas": "2026-11-05T10:14:29+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10014": {
+  "czas": "2026-11-05T10:28:33+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10015": {
+  "czas": "2026-11-05T10:14:32+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10017": {
+  "czas": "2026-11-05T10:28:36+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10020": {
+  "czas": "2026-11-05T10:14:33+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10039": {
+  "czas": "2026-11-05T10:14:35+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10040": {
+  "czas": "2026-11-05T10:14:35+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10042": {
+  "czas": "2026-11-05T10:14:38+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10044": {
+  "czas": "2026-11-05T10:14:39+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10047": {
+  "czas": "2026-11-05T10:28:38+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10048": {
+  "czas": "2026-11-05T10:14:41+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10052": {
+  "czas": "2026-11-05T10:28:40+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10056": {
+  "czas": "2026-11-05T10:28:42+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10057": {
+  "czas": "2026-11-05T10:06:20+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10058": {
+  "czas": "2026-11-05T10:06:25+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10064": {
+  "czas": "2026-11-05T10:06:31+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10067": {
+  "czas": "2026-11-05T10:25:30+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10071": {
+  "czas": "2026-11-05T10:25:38+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10084": {
+  "czas": "2026-11-05T10:28:53+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10088": {
+  "czas": "2026-11-05T10:27:57+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10089": {
+  "czas": "2026-11-05T10:17:07+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10092": {
+  "czas": "2026-11-05T10:09:26+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10094": {
+  "czas": "2026-11-05T10:09:27+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10096": {
+  "czas": "2026-11-05T10:09:28+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10106": {
+  "czas": "2026-11-05T10:29:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10112": {
+  "czas": "2026-11-05T10:10:03+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10114": {
+  "czas": "2026-11-05T10:28:57+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10124": {
+  "czas": "2026-11-05T10:04:47+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10125": {
+  "czas": "2026-11-05T10:27:58+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10126": {
+  "czas": "2026-11-05T10:03:15+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10133": {
+  "czas": "2026-11-05T10:04:55+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10134": {
+  "czas": "2026-11-05T10:26:41+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10140": {
+  "czas": "2026-11-05T10:04:58+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10144": {
+  "czas": "2026-11-05T10:05:00+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10147": {
+  "czas": "2026-11-05T10:27:11+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10148": {
+  "czas": "2026-11-05T10:10:12+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10149": {
+  "czas": "2026-11-05T10:10:14+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10151": {
+  "czas": "2026-11-05T10:15:04+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10152": {
+  "czas": "2026-11-05T10:15:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10153": {
+  "czas": "2026-11-05T10:15:18+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10155": {
+  "czas": "2026-11-05T10:10:16+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10156": {
+  "czas": "2026-11-05T10:15:23+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10159": {
+  "czas": "2026-11-05T10:04:13+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10160": {
+  "czas": "2026-11-05T10:04:30+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10163": {
+  "czas": "2026-11-05T10:24:57+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10164": {
+  "czas": "2026-11-05T10:24:58+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10165": {
+  "czas": "2026-11-05T10:17:26+00:00",
+  "komentarz": "DDR powinien być do mrówczej dalej pociągnięty, że do odeskiej",
+  "ocena": "tak"
+ },
+ "10173": {
+  "czas": "2026-11-05T10:28:00+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10174": {
+  "czas": "2026-11-05T10:24:59+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10176": {
+  "czas": "2026-11-05T10:24:59+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10191": {
+  "czas": "2026-11-05T10:27:15+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10192": {
+  "czas": "2026-11-05T10:27:19+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10193": {
+  "czas": "2026-11-05T10:27:22+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10194": {
+  "czas": "2026-11-05T10:15:32+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10197": {
+  "czas": "2026-11-05T10:15:36+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "102": {
+  "czas": "2026-11-05T09:34:14+00:00",
+  "komentarz": "teleport ale ze względu na DDR dalej od Celowniczej",
+  "ocena": "tak"
+ },
+ "10205": {
+  "czas": "2026-11-05T10:05:20+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10206": {
+  "czas": "2026-11-05T10:05:22+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10207": {
+  "czas": "2026-11-05T10:05:23+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10208": {
+  "czas": "2026-11-05T10:05:25+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10226": {
+  "czas": "2026-11-05T10:28:01+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10231": {
+  "czas": "2026-11-05T10:27:25+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10233": {
+  "czas": "2026-11-05T10:10:32+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10234": {
+  "czas": "2026-11-05T10:10:34+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10235": {
+  "czas": "2026-11-05T10:10:37+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10240": {
+  "czas": "2026-11-05T10:10:41+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10243": {
+  "czas": "2026-11-05T10:16:32+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10249": {
+  "czas": "2026-11-05T10:16:33+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10250": {
+  "czas": "2026-11-05T10:16:34+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10263": {
+  "czas": "2026-11-05T10:07:25+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10267": {
+  "czas": "2026-11-05T10:17:01+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10275": {
+  "czas": "2026-11-05T10:17:48+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10285": {
+  "czas": "2026-11-05T10:26:45+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10287": {
+  "czas": "2026-11-05T10:27:27+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10288": {
+  "czas": "2026-11-05T10:12:02+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10291": {
+  "czas": "2026-11-05T10:12:52+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10299": {
+  "czas": "2026-11-05T10:05:48+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10300": {
+  "czas": "2026-11-05T10:05:49+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10304": {
+  "czas": "2026-11-05T10:13:00+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10305": {
+  "czas": "2026-11-05T10:13:01+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10307": {
+  "czas": "2026-11-05T10:27:30+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10311": {
+  "czas": "2026-11-05T10:06:06+00:00",
+  "komentarz": "DDR powinien byc az do radiowej",
+  "ocena": "tak"
+ },
+ "10323": {
+  "czas": "2026-11-05T10:25:28+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10329": {
+  "czas": "2026-11-05T10:29:02+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10338": {
+  "czas": "2026-11-05T10:26:47+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10342": {
+  "czas": "2026-11-05T10:10:57+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10343": {
+  "czas": "2026-11-05T10:13:09+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10344": {
+  "czas": "2026-11-05T10:10:59+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10346": {
+  "czas": "2026-11-05T10:11:00+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10347": {
+  "czas": "2026-11-05T10:11:03+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10348": {
+  "czas": "2026-11-05T10:13:10+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10349": {
+  "czas": "2026-11-05T10:11:04+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10352": {
+  "czas": "2026-11-05T10:11:09+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10362": {
+  "czas": "2026-11-05T10:13:12+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10374": {
+  "czas": "2026-11-05T10:07:55+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10396": {
+  "czas": "2026-11-05T10:28:08+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10398": {
+  "czas": "2026-11-05T10:28:10+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10399": {
+  "czas": "2026-11-05T10:28:12+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10400": {
+  "czas": "2026-11-05T10:28:12+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10404": {
+  "czas": "2026-11-05T10:17:03+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10409": {
+  "czas": "2026-11-05T10:28:14+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10410": {
+  "czas": "2026-11-05T10:17:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10411": {
+  "czas": "2026-11-05T10:28:14+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10412": {
+  "czas": "2026-11-05T10:27:39+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10413": {
+  "czas": "2026-11-05T10:27:40+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10414": {
+  "czas": "2026-11-05T10:27:43+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10416": {
+  "czas": "2026-11-05T10:13:15+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10417": {
+  "czas": "2026-11-05T10:13:16+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10421": {
+  "czas": "2026-11-05T10:07:58+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10422": {
+  "czas": "2026-11-05T10:07:59+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10423": {
+  "czas": "2026-11-05T10:27:46+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10426": {
+  "czas": "2026-11-05T10:27:48+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10430": {
+  "czas": "2026-11-05T10:11:54+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10435": {
+  "czas": "2026-11-05T10:08:00+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10446": {
+  "czas": "2026-11-05T10:28:19+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10450": {
+  "czas": "2026-11-05T10:13:28+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10453": {
+  "czas": "2026-11-05T10:08:25+00:00",
+  "komentarz": "powinni dociagnac do ronda",
+  "ocena": "tak"
+ },
+ "10454": {
+  "czas": "2026-11-05T10:08:35+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10455": {
+  "czas": "2026-11-05T10:08:43+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10471": {
+  "czas": "2026-11-05T10:17:40+00:00",
+  "komentarz": "DDR dalej do mrówczej od strony piechurów",
+  "ocena": "tak"
+ },
+ "10475": {
+  "czas": "2026-11-05T10:28:03+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10482": {
+  "czas": "2026-11-05T10:12:48+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10485": {
+  "czas": "2026-11-05T10:10:47+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10496": {
+  "czas": "2026-11-05T10:11:27+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10497": {
+  "czas": "2026-11-05T10:11:28+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10498": {
+  "czas": "2026-11-05T10:28:50+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10508": {
+  "czas": "2026-11-05T10:08:48+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10516": {
+  "czas": "2026-11-05T10:08:57+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10519": {
+  "czas": "2026-11-05T10:14:59+00:00",
+  "komentarz": "powinien być aż do koralkowej",
+  "ocena": "tak"
+ },
+ "10531": {
+  "czas": "2026-11-05T10:26:38+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10532": {
+  "czas": "2026-11-05T10:09:10+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10533": {
+  "czas": "2026-11-05T10:09:11+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10534": {
+  "czas": "2026-11-05T10:09:12+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10535": {
+  "czas": "2026-11-05T10:11:57+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10536": {
+  "czas": "2026-11-05T10:11:58+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10537": {
+  "czas": "2026-11-05T10:09:21+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10539": {
+  "czas": "2026-11-05T10:17:54+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10542": {
+  "czas": "2026-11-05T10:17:56+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10543": {
+  "czas": "2026-11-05T10:29:07+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10544": {
+  "czas": "2026-11-05T10:09:42+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10545": {
+  "czas": "2026-11-05T10:09:43+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10550": {
+  "czas": "2026-11-05T10:09:44+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10556": {
+  "czas": "2026-11-05T10:17:59+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10563": {
+  "czas": "2026-11-05T10:06:44+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10564": {
+  "czas": "2026-11-05T10:06:45+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10565": {
+  "czas": "2026-11-05T10:06:49+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10568": {
+  "czas": "2026-11-05T10:10:07+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10569": {
+  "czas": "2026-11-05T10:03:21+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10570": {
+  "czas": "2026-11-05T10:04:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10571": {
+  "czas": "2026-11-05T10:06:59+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10572": {
+  "czas": "2026-11-05T10:07:01+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10573": {
+  "czas": "2026-11-05T10:07:01+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10576": {
+  "czas": "2026-11-05T10:24:55+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10579": {
+  "czas": "2026-11-05T10:05:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10580": {
+  "czas": "2026-11-05T10:27:12+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10581": {
+  "czas": "2026-11-05T10:10:19+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10584": {
+  "czas": "2026-11-05T10:10:21+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10585": {
+  "czas": "2026-11-05T10:16:01+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10587": {
+  "czas": "2026-11-05T10:17:43+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10605": {
+  "czas": "2026-11-05T10:16:41+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10608": {
+  "czas": "2026-11-05T10:16:43+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10609": {
+  "czas": "2026-11-05T10:16:48+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10612": {
+  "czas": "2026-11-05T10:16:58+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10613": {
+  "czas": "2026-11-05T10:25:23+00:00",
+  "komentarz": "co to jesr",
+  "ocena": "nie"
+ },
+ "10618": {
+  "czas": "2026-11-05T10:12:45+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10619": {
+  "czas": "2026-11-05T10:05:41+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10621": {
+  "czas": "2026-11-05T10:13:04+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10623": {
+  "czas": "2026-11-05T10:27:32+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10624": {
+  "czas": "2026-11-05T10:27:32+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10625": {
+  "czas": "2026-11-05T10:29:00+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10626": {
+  "czas": "2026-11-05T10:10:49+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10627": {
+  "czas": "2026-11-05T10:13:07+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10628": {
+  "czas": "2026-11-05T10:29:02+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10630": {
+  "czas": "2026-11-05T10:10:50+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10632": {
+  "czas": "2026-11-05T10:07:42+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10634": {
+  "czas": "2026-11-05T10:06:14+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10637": {
+  "czas": "2026-11-05T10:28:47+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10638": {
+  "czas": "2026-11-05T10:29:03+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10639": {
+  "czas": "2026-11-05T10:10:54+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10640": {
+  "czas": "2026-11-05T10:28:48+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10647": {
+  "czas": "2026-11-05T10:11:11+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10652": {
+  "czas": "2026-11-05T10:11:13+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10653": {
+  "czas": "2026-11-05T10:11:15+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10654": {
+  "czas": "2026-11-05T10:11:16+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10656": {
+  "czas": "2026-11-05T10:11:22+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10660": {
+  "czas": "2026-11-05T10:13:17+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10661": {
+  "czas": "2026-11-05T10:13:18+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10663": {
+  "czas": "2026-11-05T10:13:22+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10664": {
+  "czas": "2026-11-05T10:13:22+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10670": {
+  "czas": "2026-11-05T10:27:50+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10671": {
+  "czas": "2026-11-05T10:13:23+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10672": {
+  "czas": "2026-11-05T10:13:24+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10675": {
+  "czas": "2026-11-05T10:08:04+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10676": {
+  "czas": "2026-11-05T10:08:10+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10679": {
+  "czas": "2026-11-05T10:28:27+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10681": {
+  "czas": "2026-11-05T10:10:25+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10682": {
+  "czas": "2026-11-05T10:16:08+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "10683": {
+  "czas": "2026-11-05T10:12:00+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "10684": {
+  "czas": "2026-11-05T10:10:43+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "108": {
+  "czas": "2026-11-05T09:34:20+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "11": {
+  "czas": "2026-11-05T09:29:56+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "119": {
+  "czas": "2026-11-05T10:19:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "12": {
+  "czas": "2026-11-05T10:18:04+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "121": {
+  "czas": "2026-11-05T09:34:28+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "123": {
+  "czas": "2026-11-05T10:19:10+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "125": {
+  "czas": "2026-11-05T09:34:40+00:00",
+  "komentarz": "brak wjazdu na rondo",
+  "ocena": "tak"
+ },
+ "126": {
+  "czas": "2026-11-05T09:34:48+00:00",
+  "komentarz": "brak wjazdu na rondo",
+  "ocena": "tak"
+ },
+ "128": {
+  "czas": "2026-11-05T09:34:56+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "129": {
+  "czas": "2026-11-05T09:35:03+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "13": {
+  "czas": "2026-11-05T10:18:11+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "130": {
+  "czas": "2026-11-05T09:35:01+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "132": {
+  "czas": "2026-11-05T09:35:12+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "133": {
+  "czas": "2026-11-05T09:35:07+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "136": {
+  "czas": "2026-11-05T09:35:13+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "139": {
+  "czas": "2026-11-05T09:35:27+00:00",
+  "komentarz": "teleport, ale przez dalszy DDR od Poligonowej",
+  "ocena": "tak"
+ },
+ "141": {
+  "czas": "2026-11-05T09:35:34+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "144": {
+  "czas": "2026-11-05T10:19:13+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "148": {
+  "czas": "2026-11-05T10:19:17+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "15": {
+  "czas": "2026-11-05T10:18:26+00:00",
+  "komentarz": "powinien byc dociagniety do tego skrawka DDR przy metrze",
+  "ocena": "tak"
+ },
+ "150": {
+  "czas": "2026-11-05T10:19:19+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "151": {
+  "czas": "2026-11-05T09:35:37+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "154": {
+  "czas": "2026-11-05T09:35:47+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "16": {
+  "czas": "2026-11-05T09:29:58+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "161": {
+  "czas": "2026-11-05T09:36:01+00:00",
+  "komentarz": "teleport ale przez dalszy DDR przy Batorego",
+  "ocena": "tak"
+ },
+ "163": {
+  "czas": "2026-11-05T09:36:05+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "164": {
+  "czas": "2026-11-05T09:36:07+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "17": {
+  "czas": "2026-11-05T09:30:00+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "171": {
+  "czas": "2026-11-05T09:36:24+00:00",
+  "komentarz": "teleport, brak przejazdu dla rowerów + dalszy DDR po tej stronie jezdni od Malborskiej",
+  "ocena": "tak"
+ },
+ "174": {
+  "czas": "2026-11-05T10:19:25+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "178": {
+  "czas": "2026-11-05T10:19:28+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "179": {
+  "czas": "2026-11-05T10:19:30+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "18": {
+  "czas": "2026-11-05T09:30:01+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "182": {
+  "czas": "2026-11-05T09:36:28+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "185": {
+  "czas": "2026-11-05T09:36:31+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "187": {
+  "czas": "2026-11-05T09:37:08+00:00",
+  "komentarz": "to nie jest cpr",
+  "ocena": "nie"
+ },
+ "189": {
+  "czas": "2026-11-05T09:37:27+00:00",
+  "komentarz": "teleport ale przez dalszy ddr po tej stronie jezdni od Ordonówny",
+  "ocena": "tak"
+ },
+ "19": {
+  "czas": "2026-11-05T09:30:02+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "191": {
+  "czas": "2026-11-05T09:37:34+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "196": {
+  "czas": "2026-11-05T09:37:49+00:00",
+  "komentarz": "teleport ale przez dalszy DDR od Familijnej",
+  "ocena": "tak"
+ },
+ "197": {
+  "czas": "2026-11-05T09:38:06+00:00",
+  "komentarz": "teleport ale przez brak DDRa po drugiej strony Czerniakowskiej",
+  "ocena": "tak"
+ },
+ "199": {
+  "czas": "2026-11-05T09:38:17+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "201": {
+  "czas": "2026-11-05T09:40:02+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "203": {
+  "czas": "2026-11-05T10:19:38+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "204": {
+  "czas": "2026-11-05T09:38:35+00:00",
+  "komentarz": "teleport ale przez brak połącznie z Lazurową za S8",
+  "ocena": "tak"
+ },
+ "205": {
+  "czas": "2026-11-05T09:38:42+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "207": {
+  "czas": "2026-11-05T09:40:14+00:00",
+  "komentarz": "brak wjazdu na jezdnię",
+  "ocena": "tak"
+ },
+ "209": {
+  "czas": "2026-11-05T09:39:33+00:00",
+  "komentarz": "tu jest absolutny dramat, od chuja rzeczy tu jest źle.",
+  "ocena": "tak"
+ },
+ "21": {
+  "czas": "2026-11-05T09:30:06+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "210": {
+  "czas": "2026-11-05T09:38:55+00:00",
+  "komentarz": "teleport przez brak połączenia z Kocjana",
+  "ocena": "tak"
+ },
+ "211": {
+  "czas": "2026-11-05T09:39:37+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "212": {
+  "czas": "2026-11-05T09:39:50+00:00",
+  "komentarz": "powinien być wjazd na jezdnię albo brak tego czegoś",
+  "ocena": "tak"
+ },
+ "214": {
+  "czas": "2026-11-05T09:39:01+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "216": {
+  "czas": "2026-11-05T09:40:28+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "217": {
+  "czas": "2026-11-05T09:39:09+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "218": {
+  "czas": "2026-11-05T09:40:30+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "219": {
+  "czas": "2026-11-05T09:39:13+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "221": {
+  "czas": "2026-11-05T09:40:36+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "222": {
+  "czas": "2026-11-05T10:20:33+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "226": {
+  "czas": "2026-11-05T09:40:40+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "227": {
+  "czas": "2026-11-05T09:40:43+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "232": {
+  "czas": "2026-11-05T09:40:51+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "234": {
+  "czas": "2026-11-05T09:41:58+00:00",
+  "komentarz": "brak wjjazdu na jezdnie Składowskiej + przy raszynskiej jest DDR",
+  "ocena": "tak"
+ },
+ "236": {
+  "czas": "2026-11-05T09:42:17+00:00",
+  "komentarz": "teleport, dalej po tej stronie jezdni jest DDR przy rondzie wośp",
+  "ocena": "tak"
+ },
+ "239": {
+  "czas": "2026-11-05T09:42:24+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "24": {
+  "czas": "2026-11-05T09:30:07+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "240": {
+  "czas": "2026-11-05T09:43:22+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "242": {
+  "czas": "2026-11-05T09:42:40+00:00",
+  "komentarz": "po tej stronie jezdni rakowieckiej dalej jest ddr przy metrze",
+  "ocena": "tak"
+ },
+ "245": {
+  "czas": "2026-11-05T09:43:43+00:00",
+  "komentarz": "teleport ale przez brak dojazdu do DDRa ktory jest dalej",
+  "ocena": "tak"
+ },
+ "248": {
+  "czas": "2026-11-05T09:43:57+00:00",
+  "komentarz": "BOZE SWIETY CZEMU TAM SA SCHODY",
+  "ocena": "tak"
+ },
+ "25": {
+  "czas": "2026-11-05T09:30:08+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "252": {
+  "czas": "2026-11-05T09:44:11+00:00",
+  "komentarz": "dalej na domaniewskiej od postępu jest DDR",
+  "ocena": "tak"
+ },
+ "26": {
+  "czas": "2026-11-05T09:30:09+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "269": {
+  "czas": "2026-11-05T09:44:28+00:00",
+  "komentarz": "brak polaczenia z DDR na dalibora",
+  "ocena": "tak"
+ },
+ "27": {
+  "czas": "2026-11-05T10:18:28+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "272": {
+  "czas": "2026-11-05T09:44:32+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "273": {
+  "czas": "2026-11-05T09:45:22+00:00",
+  "komentarz": "brakuje DDR do pasa rowerowego na placu inwalidów",
+  "ocena": "tak"
+ },
+ "274": {
+  "czas": "2026-11-05T09:45:28+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "276": {
+  "czas": "2026-11-05T09:45:08+00:00",
+  "komentarz": "brakuje DDR po obu stronach jezdni powązkowskiej do Krasińskiego",
+  "ocena": "tak"
+ },
+ "28": {
+  "czas": "2026-11-05T09:30:24+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "281": {
+  "czas": "2026-11-05T09:45:41+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "282": {
+  "czas": "2026-11-05T09:45:50+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "285": {
+  "czas": "2026-11-05T09:45:38+00:00",
+  "komentarz": "powinien być wjazd na jezdnię",
+  "ocena": "tak"
+ },
+ "29": {
+  "czas": "2026-11-05T09:30:34+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "296": {
+  "czas": "2026-11-05T09:45:52+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "298": {
+  "czas": "2026-11-05T10:20:46+00:00",
+  "komentarz": "powinien być przejazd rowerowy na 2 stronę",
+  "ocena": "tak"
+ },
+ "3": {
+  "czas": "2026-11-05T09:29:28+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "300": {
+  "czas": "2026-11-05T09:45:56+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "302": {
+  "czas": "2026-11-05T09:48:03+00:00",
+  "komentarz": "brak połączenia z DDR wzdłuż DW628",
+  "ocena": "tak"
+ },
+ "303": {
+  "czas": "2026-11-05T09:47:46+00:00",
+  "komentarz": "brak wjazdu na jezdnie",
+  "ocena": "tak"
+ },
+ "304": {
+  "czas": "2026-11-05T09:47:33+00:00",
+  "komentarz": "niby dojazd do parku ale trudno powiedzieć co autor miał na myśli",
+  "ocena": "moze"
+ },
+ "309": {
+  "czas": "2026-11-05T09:48:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "315": {
+  "czas": "2026-11-05T09:48:21+00:00",
+  "komentarz": "brak połączenia z DDR na słowackiego, nierówny chodnik",
+  "ocena": "tak"
+ },
+ "318": {
+  "czas": "2026-11-05T09:48:26+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "324": {
+  "czas": "2026-11-05T09:49:16+00:00",
+  "komentarz": "boże",
+  "ocena": "tak"
+ },
+ "326": {
+  "czas": "2026-11-05T10:20:51+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "327": {
+  "czas": "2026-11-05T10:20:55+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "328": {
+  "czas": "2026-11-05T09:51:11+00:00",
+  "komentarz": "brak wjazdu na parking/magiczną",
+  "ocena": "tak"
+ },
+ "331": {
+  "czas": "2026-11-05T09:49:54+00:00",
+  "komentarz": "powinien być wjazd na lokalną poleczki, bardzo wąski chodnik przez panele dzwiekochlonne, dramat",
+  "ocena": "tak"
+ },
+ "332": {
+  "czas": "2026-11-05T09:49:58+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "333": {
+  "czas": "2026-11-05T09:51:14+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "334": {
+  "czas": "2026-11-05T09:50:04+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "335": {
+  "czas": "2026-11-05T09:49:28+00:00",
+  "komentarz": "powinien być wjazd na osiedlowe uliczki",
+  "ocena": "tak"
+ },
+ "336": {
+  "czas": "2026-11-05T09:50:15+00:00",
+  "komentarz": "powinien byc wjazzd na czarnomorska",
+  "ocena": "tak"
+ },
+ "337": {
+  "czas": "2026-11-05T09:50:23+00:00",
+  "komentarz": "wjazd na malczewskiego",
+  "ocena": "tak"
+ },
+ "338": {
+  "czas": "2026-11-05T09:50:28+00:00",
+  "komentarz": "wjazd na naruszewicza",
+  "ocena": "tak"
+ },
+ "339": {
+  "czas": "2026-11-05T09:50:40+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "340": {
+  "czas": "2026-11-05T09:51:17+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "342": {
+  "czas": "2026-11-05T09:51:00+00:00",
+  "komentarz": "brak połączenia z DDR przy rondzie miś i wołoskiej",
+  "ocena": "tak"
+ },
+ "346": {
+  "czas": "2026-11-05T09:51:35+00:00",
+  "komentarz": "brak dojazdu do potoki/dominikańskiej/doliny",
+  "ocena": "tak"
+ },
+ "348": {
+  "czas": "2026-11-05T10:21:01+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "349": {
+  "czas": "2026-11-05T10:21:03+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "355": {
+  "czas": "2026-11-05T09:51:51+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "356": {
+  "czas": "2026-11-05T09:52:03+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "357": {
+  "czas": "2026-11-05T09:52:20+00:00",
+  "komentarz": "powinien być wjazd na waniliową",
+  "ocena": "tak"
+ },
+ "358": {
+  "czas": "2026-11-05T09:52:27+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "360": {
+  "czas": "2026-11-05T09:51:43+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "361": {
+  "czas": "2026-11-05T09:51:38+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "362": {
+  "czas": "2026-11-05T09:52:31+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "363": {
+  "czas": "2026-11-05T10:21:07+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "364": {
+  "czas": "2026-11-05T09:52:34+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "366": {
+  "czas": "2026-11-05T09:52:38+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "37": {
+  "czas": "2026-11-05T10:18:33+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "372": {
+  "czas": "2026-11-05T09:52:41+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "377": {
+  "czas": "2026-11-05T09:53:08+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "379": {
+  "czas": "2026-11-05T09:53:23+00:00",
+  "komentarz": "brak pochylni, brak ddr po tej stronie jezdni",
+  "ocena": "tak"
+ },
+ "380": {
+  "czas": "2026-11-05T09:53:25+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "381": {
+  "czas": "2026-11-05T10:21:18+00:00",
+  "komentarz": "powinni dociagnac do polski walczacej",
+  "ocena": "tak"
+ },
+ "382": {
+  "czas": "2026-11-05T10:21:21+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "384": {
+  "czas": "2026-11-05T09:53:36+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "386": {
+  "czas": "2026-11-05T09:54:25+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "387": {
+  "czas": "2026-11-05T09:54:37+00:00",
+  "komentarz": "powinien być DDR do kosiarzy",
+  "ocena": "tak"
+ },
+ "389": {
+  "czas": "2026-11-05T09:55:12+00:00",
+  "komentarz": "powinien być wjazd na jezdnie",
+  "ocena": "tak"
+ },
+ "390": {
+  "czas": "2026-11-05T09:53:49+00:00",
+  "komentarz": "powinien być dojazd do płockiej",
+  "ocena": "tak"
+ },
+ "391": {
+  "czas": "2026-11-05T09:53:56+00:00",
+  "komentarz": "dojazd do płockiej",
+  "ocena": "tak"
+ },
+ "392": {
+  "czas": "2026-11-05T09:55:37+00:00",
+  "komentarz": "teleport, ale gdzie?",
+  "ocena": "tak"
+ },
+ "395": {
+  "czas": "2026-11-05T09:54:02+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "396": {
+  "czas": "2026-11-05T09:54:20+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "397": {
+  "czas": "2026-11-05T09:54:16+00:00",
+  "komentarz": "brak ddr do powązkowskiej",
+  "ocena": "tak"
+ },
+ "398": {
+  "czas": "2026-11-05T10:21:29+00:00",
+  "komentarz": "powinni dociagnac do karuzeli",
+  "ocena": "tak"
+ },
+ "399": {
+  "czas": "2026-11-05T10:21:45+00:00",
+  "komentarz": "powinni dociagnac do karuzeli i sarmackiej",
+  "ocena": "tak"
+ },
+ "404": {
+  "czas": "2026-11-05T09:55:42+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "405": {
+  "czas": "2026-11-05T10:21:48+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "406": {
+  "czas": "2026-11-05T10:21:49+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "409": {
+  "czas": "2026-11-05T09:56:03+00:00",
+  "komentarz": "CZEMU ONI NIE DOCIAGNELI TEGO DO MROWCZEJ BOZE",
+  "ocena": "tak"
+ },
+ "410": {
+  "czas": "2026-11-05T09:55:48+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "411": {
+  "czas": "2026-11-05T10:21:53+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "415": {
+  "czas": "2026-11-05T10:21:55+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "416": {
+  "czas": "2026-11-05T10:22:07+00:00",
+  "komentarz": "powinni dociagnac do sikorskiego",
+  "ocena": "tak"
+ },
+ "419": {
+  "czas": "2026-11-05T09:56:07+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "420": {
+  "czas": "2026-11-05T10:22:09+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "421": {
+  "czas": "2026-11-05T09:56:41+00:00",
+  "komentarz": "to miejsce to jest absolutny dramat, jesli chce sie pojechac na wprost trzeba jechac jezdnia ktora sie poszerza DO 6 PASOW W JEDNYM KIERUNKU!!!!!!!!!!!!!!!!!",
+  "ocena": "tak"
+ },
+ "425": {
+  "czas": "2026-11-05T09:56:50+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "426": {
+  "czas": "2026-11-05T10:22:12+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "432": {
+  "czas": "2026-11-05T10:22:16+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "441": {
+  "czas": "2026-11-05T09:57:10+00:00",
+  "komentarz": "mogli zrobic ddr do koncoa barkocinskiej",
+  "ocena": "tak"
+ },
+ "442": {
+  "czas": "2026-11-05T09:57:46+00:00",
+  "komentarz": "to miejsce jest bardzo confusing bo jakby ok, rowerzysta ma pozniej se pojechac w lewo, ale nie widzi swiatel, a dostaje zielone jednoczesnie z samochodami jadacymi ze szwedzkiej wiec jak skreci w lewo to sie wjebie pod auto, naprawde dziwne miejsce",
+  "ocena": "tak"
+ },
+ "444": {
+  "czas": "2026-11-05T09:57:51+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "445": {
+  "czas": "2026-11-05T09:58:12+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "446": {
+  "czas": "2026-11-05T09:58:15+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "449": {
+  "czas": "2026-11-05T09:57:54+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "451": {
+  "czas": "2026-11-05T09:58:29+00:00",
+  "komentarz": "powinni dociagnac do szaserów",
+  "ocena": "tak"
+ },
+ "452": {
+  "czas": "2026-11-05T09:58:05+00:00",
+  "komentarz": "wjazd na lokalne jezdnie",
+  "ocena": "tak"
+ },
+ "454": {
+  "czas": "2026-11-05T09:58:08+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "455": {
+  "czas": "2026-11-05T09:58:34+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "459": {
+  "czas": "2026-11-05T09:57:56+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "46": {
+  "czas": "2026-11-05T09:30:37+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "460": {
+  "czas": "2026-11-05T10:22:24+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "463": {
+  "czas": "2026-11-05T10:22:31+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "464": {
+  "czas": "2026-11-05T09:58:52+00:00",
+  "komentarz": "eh?",
+  "ocena": "tak"
+ },
+ "468": {
+  "czas": "2026-11-05T10:22:36+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "473": {
+  "czas": "2026-11-05T09:59:05+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "474": {
+  "czas": "2026-11-05T09:58:58+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "475": {
+  "czas": "2026-11-05T09:59:11+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "476": {
+  "czas": "2026-11-05T09:59:41+00:00",
+  "komentarz": "to jest chyba dojazd do parkingu? rowerzyści nie powinni tędy jeżdzić żeby przeciąć tory tylko jezdnią zwoleńskiej i to powinno być ładnie oznaczone, tu nie jest",
+  "ocena": "tak"
+ },
+ "477": {
+  "czas": "2026-11-05T09:59:03+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "478": {
+  "czas": "2026-11-05T09:59:46+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "479": {
+  "czas": "2026-11-05T09:59:09+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "480": {
+  "czas": "2026-11-05T10:22:40+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "488": {
+  "czas": "2026-11-05T10:22:52+00:00",
+  "komentarz": "powinien byc ddr do szamoty",
+  "ocena": "tak"
+ },
+ "493": {
+  "czas": "2026-11-05T10:00:05+00:00",
+  "komentarz": "wjazd na lokalna jezdnie",
+  "ocena": "tak"
+ },
+ "495": {
+  "czas": "2026-11-05T10:00:34+00:00",
+  "komentarz": "powinni dociagnac do ronda z podluzna",
+  "ocena": "tak"
+ },
+ "498": {
+  "czas": "2026-11-05T10:22:58+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "50": {
+  "czas": "2026-11-05T09:30:39+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "500": {
+  "czas": "2026-11-05T10:23:00+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "501": {
+  "czas": "2026-11-05T10:00:52+00:00",
+  "komentarz": "po chuj ten przejazd rowerowy jak jest normalnie ddr zrobiony ladnie do skrzyzowania obok",
+  "ocena": "tak"
+ },
+ "505": {
+  "czas": "2026-11-05T10:00:54+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "508": {
+  "czas": "2026-11-05T10:23:13+00:00",
+  "komentarz": "powinni dociagnac do przyczółkowej",
+  "ocena": "tak"
+ },
+ "511": {
+  "czas": "2026-11-05T10:01:09+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "513": {
+  "czas": "2026-11-05T10:23:17+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "514": {
+  "czas": "2026-11-05T10:00:58+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "515": {
+  "czas": "2026-11-05T10:01:14+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "516": {
+  "czas": "2026-11-05T10:01:02+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "521": {
+  "czas": "2026-11-05T10:01:06+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "523": {
+  "czas": "2026-11-05T10:23:26+00:00",
+  "komentarz": "ddr do szamoty",
+  "ocena": "tak"
+ },
+ "526": {
+  "czas": "2026-11-05T10:01:18+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "53": {
+  "czas": "2026-11-05T09:31:30+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "530": {
+  "czas": "2026-11-05T10:23:29+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "534": {
+  "czas": "2026-11-05T10:01:23+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "542": {
+  "czas": "2026-11-05T10:01:26+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "55": {
+  "czas": "2026-11-05T10:18:36+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "56": {
+  "czas": "2026-11-05T09:31:43+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "58": {
+  "czas": "2026-11-05T10:18:39+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "590": {
+  "czas": "2026-11-05T10:01:29+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "592": {
+  "czas": "2026-11-05T10:01:36+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "594": {
+  "czas": "2026-11-05T10:01:38+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "596": {
+  "czas": "2026-11-05T10:23:32+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "6": {
+  "czas": "2026-11-05T10:18:01+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "606": {
+  "czas": "2026-11-05T10:24:26+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "608": {
+  "czas": "2026-11-05T10:02:24+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "609": {
+  "czas": "2026-11-05T10:02:26+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "61": {
+  "czas": "2026-11-05T10:18:42+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "616": {
+  "czas": "2026-11-05T10:24:32+00:00",
+  "komentarz": "wjazd na jezdnie",
+  "ocena": "tak"
+ },
+ "624": {
+  "czas": "2026-11-05T10:02:29+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "628": {
+  "czas": "2026-11-05T10:02:21+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "64": {
+  "czas": "2026-11-05T09:31:58+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "643": {
+  "czas": "2026-11-05T10:01:45+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "644": {
+  "czas": "2026-11-05T10:23:34+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "650": {
+  "czas": "2026-11-05T10:24:17+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "652": {
+  "czas": "2026-11-05T10:01:51+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "653": {
+  "czas": "2026-11-05T10:24:36+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "657": {
+  "czas": "2026-11-05T10:01:56+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "661": {
+  "czas": "2026-11-05T10:02:34+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "665": {
+  "czas": "2026-11-05T10:23:54+00:00",
+  "komentarz": "tu ddr jest żeby być, po chuj on tu jest, nie wiem.",
+  "ocena": "tak"
+ },
+ "666": {
+  "czas": "2026-11-05T10:23:56+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "667": {
+  "czas": "2026-11-05T10:24:00+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "668": {
+  "czas": "2026-11-05T10:24:04+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "670": {
+  "czas": "2026-11-05T10:24:07+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "672": {
+  "czas": "2026-11-05T10:24:09+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "673": {
+  "czas": "2026-11-05T10:24:19+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "676": {
+  "czas": "2026-11-05T10:02:01+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "677": {
+  "czas": "2026-11-05T10:02:38+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "68": {
+  "czas": "2026-11-05T09:32:35+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "681": {
+  "czas": "2026-11-05T10:24:12+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "683": {
+  "czas": "2026-11-05T10:02:40+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "684": {
+  "czas": "2026-11-05T10:24:14+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "686": {
+  "czas": "2026-11-05T10:24:23+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "7": {
+  "czas": "2026-11-05T09:29:30+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "70": {
+  "czas": "2026-11-05T10:18:46+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "72": {
+  "czas": "2026-11-05T10:18:50+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "73": {
+  "czas": "2026-11-05T09:32:37+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "74": {
+  "czas": "2026-11-05T10:18:54+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "753": {
+  "czas": "2026-11-05T10:02:44+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "755": {
+  "czas": "2026-11-05T10:03:05+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "76": {
+  "czas": "2026-11-05T09:32:59+00:00",
+  "komentarz": "teleport ale to powinno byc połączone z teleportem na Świętojerskiej",
+  "ocena": "tak"
+ },
+ "760": {
+  "czas": "2026-11-05T10:02:48+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "765": {
+  "czas": "2026-11-05T10:24:39+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "766": {
+  "czas": "2026-11-05T10:02:55+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "770": {
+  "czas": "2026-11-05T10:24:46+00:00",
+  "komentarz": "wjazd na jezdnie",
+  "ocena": "tak"
+ },
+ "771": {
+  "czas": "2026-11-05T10:24:50+00:00",
+  "komentarz": "wjazd na jezdnie",
+  "ocena": "tak"
+ },
+ "79": {
+  "czas": "2026-11-05T09:33:07+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "8": {
+  "czas": "2026-11-05T09:29:54+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "816": {
+  "czas": "2026-11-05T10:24:53+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "86": {
+  "czas": "2026-11-05T09:33:37+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "90": {
+  "czas": "2026-11-05T10:18:56+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "91": {
+  "czas": "2026-11-05T09:33:29+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "92": {
+  "czas": "2026-11-05T09:33:34+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "93": {
+  "czas": "2026-11-05T09:33:40+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "95": {
+  "czas": "2026-11-05T09:33:50+00:00",
+  "komentarz": "",
+  "ocena": "nie"
+ },
+ "963": {
+  "czas": "2026-11-05T10:03:08+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "964": {
+  "czas": "2026-11-05T10:03:10+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ },
+ "99": {
+  "czas": "2026-11-05T09:33:53+00:00",
+  "komentarz": "",
+  "ocena": "tak"
+ }
+}

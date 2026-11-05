@@ -1,0 +1,417 @@
+<!doctype html>
+<html lang="pl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Weryfikacja teleportów</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+:root{
+  --bg:#fff;--bg2:#f5f5f3;--fg:#161616;--mut:#62625e;--line:#dcdcd7;--sel:#fff1b8;
+  --tak:#c81e3a;--nie:#14803f;--moze:#a86500;--on:#fff;--sv:#1558c0;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1a1a19;--bg2:#242423;--fg:#ececea;--mut:#a3a39e;--line:#3a3a38;--sel:#4b3f12;
+  --tak:#f0526b;--nie:#3cc178;--moze:#eba53a;--on:#141414;--sv:#7fb0ff;
+}}
+:root[data-theme="dark"]{
+  --bg:#1a1a19;--bg2:#242423;--fg:#ececea;--mut:#a3a39e;--line:#3a3a38;--sel:#4b3f12;
+  --tak:#f0526b;--nie:#3cc178;--moze:#eba53a;--on:#141414;--sv:#7fb0ff;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;font:14px/1.4 system-ui,"Segoe UI",sans-serif;background:var(--bg);color:var(--fg)}
+button,select,input,textarea{font:inherit;color:inherit}
+a{color:var(--sv)}
+#app{display:flex;height:100%}
+
+/* lewy panel */
+#side{width:350px;flex:none;display:flex;flex-direction:column;border-right:1px solid var(--line);min-height:0}
+#head{padding:10px 12px;border-bottom:1px solid var(--line);display:grid;gap:8px}
+h1{font-size:15px;margin:0}
+#progress{height:6px;background:var(--line);border-radius:3px;display:flex;overflow:hidden}
+#progress i{display:block;height:100%}
+#stats{font-size:13px;color:var(--mut);font-variant-numeric:tabular-nums}
+#filters{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+#filters select,#q{width:100%;min-width:0;padding:4px 6px;border:1px solid var(--line);border-radius:4px;background:var(--bg)}
+#q{grid-column:1/-1}
+#shown{display:flex;justify-content:space-between;gap:8px;font-size:13px;color:var(--mut)}
+#list{list-style:none;margin:0;padding:0;overflow:auto;flex:1;min-height:0}
+.row{display:flex;align-items:stretch;border-bottom:1px solid var(--line);border-left:5px solid transparent}
+.row.sel{background:var(--sel)}
+.row.v-tak{border-left-color:var(--tak)}.row.v-nie{border-left-color:var(--nie)}.row.v-moze{border-left-color:var(--moze)}
+.row-main{flex:1;min-width:0;text-align:left;background:none;border:0;padding:6px 8px;cursor:pointer}
+.row-title{display:block;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.row-meta{display:block;font-size:12px;color:var(--mut)}
+.row .sv{flex:none;display:flex;align-items:center;padding:0 10px;font-size:12px;font-weight:600;text-decoration:none;white-space:nowrap}
+.row .sv:hover{text-decoration:underline}
+.mine-tak{color:var(--tak);font-weight:600}.mine-nie{color:var(--nie);font-weight:600}.mine-moze{color:var(--moze);font-weight:600}
+
+/* mapa + decyzja */
+#main{flex:1;min-width:0;display:grid;grid-template-rows:minmax(0,1fr) clamp(220px,36vh,340px)}
+#map{min-height:0}
+#detail{display:grid;grid-template-columns:minmax(0,1fr) 340px;border-top:1px solid var(--line);min-height:0}
+#info{padding:10px 14px;overflow:auto}
+#info h2{font-size:17px;margin:0 0 4px}
+#info .ai{margin:6px 0}
+#info .pts{margin:8px 0 0;padding:0;list-style:none;font-size:13px}
+#info .pts>li{padding:5px 0;border-top:1px solid var(--line)}
+#info .pts>li.off{color:var(--mut)}
+#info .pts ul{margin:2px 0 0;padding-left:18px}
+.links{display:flex;gap:12px;flex-wrap:wrap;font-size:13px;margin-top:4px}
+.tag{display:inline-block;padding:0 6px;border-radius:3px;font-size:12px;font-weight:600;border:1px solid currentColor}
+.ai-teleport{color:var(--tak)}.ai-niepewne{color:var(--moze)}.ai-blad_mapy{color:var(--sv)}
+
+#actions{padding:10px 12px;border-left:1px solid var(--line);background:var(--bg2);display:flex;flex-direction:column;gap:8px;overflow:auto}
+#svbtn{display:block;text-align:center;padding:9px;border-radius:5px;background:var(--sv);color:var(--on);font-weight:700;text-decoration:none}
+#svbtn:hover{filter:brightness(1.1)}
+.votes{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px}
+.vote{padding:8px 2px;border-radius:5px;background:var(--bg);border:2px solid currentColor;font-weight:700;cursor:pointer;font-size:13px}
+.vote[data-v=tak]{color:var(--tak)}.vote[data-v=nie]{color:var(--nie)}.vote[data-v=moze]{color:var(--moze)}
+.vote[aria-pressed=true]{color:var(--on)}
+.vote[data-v=tak][aria-pressed=true]{background:var(--tak);border-color:var(--tak)}
+.vote[data-v=nie][aria-pressed=true]{background:var(--nie);border-color:var(--nie)}
+.vote[data-v=moze][aria-pressed=true]{background:var(--moze);border-color:var(--moze)}
+#komentarz{width:100%;min-height:44px;flex:1;resize:none;padding:5px 7px;border:1px solid var(--line);border-radius:4px;background:var(--bg)}
+.nav{display:flex;gap:6px;align-items:center;justify-content:space-between;font-size:13px}
+.nav button{padding:3px 9px;border:1px solid var(--line);border-radius:4px;background:var(--bg);cursor:pointer}
+#hints{font-size:12px;color:var(--mut)}
+kbd{font:inherit;font-weight:700}
+#status{font-size:12px;color:var(--mut);min-height:17px}
+#status.err{color:var(--tak);font-weight:600}
+#status button{font-size:12px;padding:0 6px;cursor:pointer}
+:focus-visible{outline:2px solid var(--sv);outline-offset:1px}
+
+.legend{background:#000b;color:#fff;padding:5px 8px;border-radius:4px;font-size:12px;line-height:1.55}
+.sw{display:inline-block;width:16px;height:4px;vertical-align:middle;margin-right:5px}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;border:1px solid #000;vertical-align:-1px;margin:0 8px 0 3px}
+
+@media (max-width:820px){
+  html,body{height:auto}
+  #app{flex-direction:column;height:auto}
+  #main{order:-1;display:block}
+  #map{height:42vh}
+  #detail{display:flex;flex-direction:column-reverse}
+  #actions{border-left:0;border-bottom:1px solid var(--line)}
+  #komentarz{flex:none}
+  #side{width:auto;border-right:0;border-top:1px solid var(--line)}
+  #list{overflow:visible}
+  #hints{display:none}
+  .row-main,.row .sv{min-height:44px}
+  .vote{padding:12px 2px}
+}
+</style></head><body>
+<div id="app">
+ <aside id="side">
+  <div id="head">
+   <h1>Weryfikacja teleportów</h1>
+   <div id="progress" role="img"></div>
+   <div id="stats">Wczytywanie…</div>
+   <div id="filters">
+    <select id="f-ocena" aria-label="Moja ocena">
+     <option value="">moja ocena: każda</option><option value="none">nieocenione</option>
+     <option value="tak">Teleport</option><option value="nie">Nie teleport</option><option value="moze">Nie wiem</option>
+    </select>
+    <select id="f-ai" aria-label="Werdykt AI">
+     <option value="">werdykt AI: każdy</option><option value="teleport">teleport</option>
+     <option value="niepewne">niepewne</option><option value="blad_mapy">błąd mapy</option>
+    </select>
+    <select id="f-typ" aria-label="Typ"></select>
+    <select id="f-runda" aria-label="Runda">
+     <option value="">runda: każda</option><option value="1">runda 1</option><option value="2">runda 2</option>
+    </select>
+    <input id="q" type="search" placeholder="Szukaj: ulica, komentarz, numer…" aria-label="Szukaj">
+   </div>
+   <div id="shown"><span id="count"></span><a href="/api/oceny.csv">Pobierz oceny (CSV)</a></div>
+  </div>
+  <ul id="list"></ul>
+ </aside>
+ <main id="main">
+  <div id="map"></div>
+  <section id="detail">
+   <div id="info"></div>
+   <div id="actions">
+    <a id="svbtn" target="_blank" rel="noopener">Street View ↗</a>
+    <div class="votes">
+     <button class="vote" type="button" data-v="tak" aria-pressed="false">Teleport</button>
+     <button class="vote" type="button" data-v="nie" aria-pressed="false">Nie</button>
+     <button class="vote" type="button" data-v="moze" aria-pressed="false">Nie wiem</button>
+    </div>
+    <textarea id="komentarz" placeholder="Komentarz (opcjonalnie)" aria-label="Mój komentarz" maxlength="2000"></textarea>
+    <div class="nav">
+     <button id="prev" type="button">← Poprz.</button>
+     <label><input id="auto" type="checkbox" checked> dalej po ocenie</label>
+     <button id="next" type="button">Nast. →</button>
+    </div>
+    <div id="status" role="status"></div>
+    <div id="hints"><kbd>t</kbd> teleport · <kbd>n</kbd> nie · <kbd>m</kbd> nie wiem · <kbd>s</kbd> Street View · <kbd>j</kbd>/<kbd>k</kbd> nast./poprz. · <kbd>u</kbd> cofnij · <kbd>c</kbd> komentarz</div>
+   </div>
+  </section>
+ </main>
+</div>
+<script>
+const LABEL={tak:'Teleport',nie:'Nie teleport',moze:'Nie wiem'};
+const AI={teleport:'teleport',niepewne:'niepewne',blad_mapy:'błąd mapy'};
+const COLOR={tak:'#e0213f',nie:'#1fae5a',moze:'#f0a020'};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fold=s=>s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/ł/g,'l');
+const sv=(la,lo)=>`https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${la.toFixed(6)},${lo.toFixed(6)}`;
+const title=h=>h.names.length?h.names.slice(0,3).join(' / '):'bez nazwy ulicy';
+const typLabel=t=>t?t.replace(/_/g,' '):'bez typu';
+const FILTER_KEY='teleporty-review-filtry';
+
+let T=[],byRank=new Map(),oceny={},shown=[],cur=null;
+const undo=[];
+
+/* ---------- mapa ---------- */
+const map=L.map('map',{maxZoom:21}).setView([52.23,21.01],12);
+const esri=L.tileLayer('https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}?blankTile=false',{maxZoom:21,maxNativeZoom:19,attribution:'Esri World Imagery'}).addTo(map);
+const osm=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:21,maxNativeZoom:19,attribution:'© OpenStreetMap'});
+const cyc=L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png',{maxZoom:21,maxNativeZoom:20,attribution:'CyclOSM / © OpenStreetMap'});
+// Infra w osobnym panelu pod znacznikami: ładuje się później i inaczej przykryłaby je na wspólnym canvasie.
+map.createPane('infra').style.zIndex=350;
+map.getPane('infra').style.pointerEvents='none';
+const infraLayer=L.layerGroup().addTo(map);
+const markers=L.layerGroup().addTo(map);
+const detailLayer=L.layerGroup().addTo(map);
+L.control.layers({'Esri satelita':esri,'OSM':osm,'CyclOSM':cyc},{'infra rowerowa (OSM)':infraLayer,'teleporty':markers}).addTo(map);
+const legend=L.control({position:'bottomright'});
+legend.onAdd=()=>{const d=L.DomUtil.create('div','legend');d.innerHTML=
+ '<span class=sw style="background:#00e000"></span>DDR/CPR<br><span class=sw style="background:#1e8cff"></span>pas<br>'+
+ '<span class=sw style="background:#ffe600"></span>przejazd<br><span class=sw style="background:#ff50c8"></span>przejście bez przejazdu<br>'+
+ '<span class=sw style="background:#f0f"></span>luka do drugiej infry<br>'+
+ `<span class=dot style="background:#fff"></span>nieocenione<br><span class=dot style="background:${COLOR.tak}"></span>teleport<br>`+
+ `<span class=dot style="background:${COLOR.nie}"></span>nie<br><span class=dot style="background:${COLOR.moze}"></span>nie wiem`;return d};
+legend.addTo(map);
+const markerByRank=new Map();
+const markerStyle=r=>({fillColor:COLOR[oceny[r]?.ocena]||'#fff'});
+
+function loadInfra(){
+  fetch('/api/infra').then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(rows=>{
+    const rend=L.canvas({pane:'infra',padding:.5});
+    const ST={d:{color:'#00e000',weight:3},p:{color:'#1e8cff',weight:4},x:{color:'#ffe600',weight:4},c:{color:'#ff50c8',weight:2,dashArray:'3 3'}};
+    for(const [k,,co] of rows)L.polyline(co.map(c=>[c[1],c[0]]),{...ST[k],renderer:rend,opacity:.9,interactive:false}).addTo(infraLayer);
+  }).catch(()=>setStatus('Nie udało się wczytać warstwy infry – oceniać można dalej.',true));
+}
+
+/* ---------- filtry i lista ---------- */
+function applyFilters(){
+  const fo=$('f-ocena').value,fa=$('f-ai').value,ft=$('f-typ').value,fr=$('f-runda').value,q=fold($('q').value.trim());
+  shown=T.filter(h=>{
+    const v=oceny[h.rank]?.ocena||'';
+    if(fo&&(fo==='none'?v:v!==fo))return false;
+    if(fa&&h.werdykt!==fa)return false;
+    if(ft&&(ft==='-'?h.typ:h.typ!==ft))return false;
+    if(fr&&String(h.runda)!==fr)return false;
+    return !q||h.search.includes(q);
+  });
+  $('list').innerHTML=shown.map(rowHtml).join('');
+  markers.clearLayers();
+  for(const h of shown)markerByRank.get(h.rank).addTo(markers);
+  $('count').textContent=`Na liście: ${shown.length} z ${T.length}`;
+  scrollToCur();
+}
+function rowHtml(h){
+  const v=oceny[h.rank]?.ocena||'';
+  const mine=v?` · <span class="mine-${v}">${LABEL[v]}</span>`:'';
+  return `<li class="row ${v?'v-'+v:''} ${h.rank===cur?'sel':''}" data-r="${h.rank}">`+
+   `<button class="row-main" type="button"><span class="row-title">${esc(title(h))}</span>`+
+   `<span class="row-meta">#${h.rank} · <span class="ai-${h.werdykt}">${AI[h.werdykt]}</span> · ${esc(typLabel(h.typ))}${mine}</span></button>`+
+   `<a class="sv" href="${sv(h.lat,h.lon)}" target="_blank" rel="noopener" title="Street View w nowej karcie">SV ↗</a></li>`;
+}
+function rowEl(r){return $('list').querySelector(`[data-r="${r}"]`)}
+function refreshRow(r){const el=rowEl(r);if(el)el.outerHTML=rowHtml(byRank.get(r))}
+// Na telefonie lista nie ma własnego przewijania i scrollIntoView przesunąłby całą stronę poza mapę.
+const listScrolls=()=>$('list').scrollHeight>$('list').clientHeight;
+function scrollToCur(){const el=cur!=null&&rowEl(cur);if(el&&listScrolls())el.scrollIntoView({block:'nearest'})}
+function renderStats(){
+  const n={tak:0,nie:0,moze:0};
+  for(const o of Object.values(oceny))if(o.ocena)n[o.ocena]++;
+  const all=n.tak+n.nie+n.moze;
+  $('stats').textContent=`Ocenione ${all} z ${T.length} · teleport ${n.tak} · nie ${n.nie} · nie wiem ${n.moze}`;
+  $('progress').innerHTML=['tak','nie','moze'].map(k=>`<i style="width:${100*n[k]/T.length}%;background:${COLOR[k]}"></i>`).join('');
+  $('progress').setAttribute('aria-label',`Ocenione ${all} z ${T.length}`);
+}
+
+/* ---------- szczegóły ---------- */
+function select(r,move=true){
+  flushComment();
+  const prev=cur;cur=r;
+  if(prev!=null&&prev!==r)rowEl(prev)?.classList.remove('sel');
+  rowEl(r)?.classList.add('sel');
+  scrollToCur();
+  history.replaceState(null,'','#'+r);
+  const h=byRank.get(r);
+  const active=e=>!h.teleport_nodes.length||h.teleport_nodes.includes(e.node);
+  $('info').innerHTML=`<h2>${esc(h.names.join(' / ')||'bez nazwy ulicy')}</h2>`+
+   `<div><span class="tag ai-${h.werdykt}">AI: ${AI[h.werdykt]}</span> ${esc(typLabel(h.typ))} · runda ${h.runda} · #${h.rank}</div>`+
+   `<p class="ai">${esc(h.komentarz)}</p>`+
+   `<div class="links"><a href="https://www.openstreetmap.org/#map=19/${h.lat.toFixed(6)}/${h.lon.toFixed(6)}&layers=Y" target="_blank" rel="noopener">OSM ↗</a>`+
+   `<a href="https://www.google.com/maps/@${h.lat.toFixed(6)},${h.lon.toFixed(6)},20z/data=!3m1!1e3" target="_blank" rel="noopener">Google satelita ↗</a></div>`+
+   `<ul class="pts">${h.endpoints.map(e=>`<li class="${active(e)?'':'off'}"><a href="${sv(e.lat,e.lon)}" target="_blank" rel="noopener">Street View tego punktu ↗</a> · `+
+     `<a href="https://www.openstreetmap.org/node/${e.node}" target="_blank" rel="noopener">node ${e.node}</a> · ${esc(e.end_type)}${active(e)?'':' · poza teleportem'}`+
+     `<ul>${e.reasons.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></li>`).join('')}</ul>`;
+  $('info').scrollTop=0;
+  $('svbtn').href=sv(h.lat,h.lon);
+  $('komentarz').value=oceny[r]?.komentarz||'';
+  renderVotes();
+  drawDetail(h,active,move);
+}
+function drawDetail(h,active,move){
+  detailLayer.clearLayers();
+  const pts=[[h.lat,h.lon]];
+  for(const e of h.endpoints){
+    const on=active(e);
+    L.circleMarker([e.lat,e.lon],{radius:8,color:on?'#ff1030':'#bbb',weight:3,fill:false,interactive:false}).addTo(detailLayer);
+    if(on)pts.push([e.lat,e.lon]);
+    if(e.gap&&on){L.polyline([[e.lat,e.lon],e.gap],{color:'#f0f',weight:3,interactive:false}).addTo(detailLayer);pts.push(e.gap)}
+  }
+  if(move)map.fitBounds(L.latLngBounds(pts),{maxZoom:20,padding:[50,50],animate:false});
+}
+function renderVotes(){
+  const v=cur!=null?oceny[cur]?.ocena:null;
+  document.querySelectorAll('.vote').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.v===v)));
+}
+
+/* ---------- oceny ---------- */
+function setEntry(r,ocena,komentarz){
+  if(!ocena&&!komentarz)delete oceny[r];else oceny[r]={ocena:ocena||null,komentarz};
+  refreshRow(r);
+  markerByRank.get(r).setStyle(markerStyle(r));
+  renderStats();
+  queueSave(r);
+}
+function vote(v){
+  if(cur==null)return;
+  flushComment();
+  const r=cur,o=oceny[r]||{ocena:null,komentarz:''};
+  const next=o.ocena===v?null:v;
+  undo.push({r,ocena:o.ocena});
+  const before=shown.slice();
+  setEntry(r,next,o.komentarz);
+  renderVotes();
+  if(!next||!$('auto').checked){if($('f-ocena').value)applyFilters();return}
+  const i=before.findIndex(h=>h.rank===r);
+  if($('f-ocena').value)applyFilters();
+  const inShown=new Set(shown.map(h=>h.rank));
+  for(let k=1;k<before.length;k++){
+    const c=before[(i+k)%before.length];
+    if(!oceny[c.rank]?.ocena&&inShown.has(c.rank))return select(c.rank);
+  }
+  setStatus('W tym widoku nie ma już nieocenionych.');
+}
+function undoLast(){
+  const u=undo.pop();
+  if(!u)return setStatus('Nie ma czego cofać.');
+  flushComment();
+  setEntry(u.r,u.ocena,oceny[u.r]?.komentarz||'');
+  if($('f-ocena').value)applyFilters();
+  select(u.r);
+  setStatus(`Cofnięto ocenę #${u.r}.`);
+}
+function step(d){
+  if(!shown.length)return;
+  const i=shown.findIndex(h=>h.rank===cur);
+  const n=i<0?0:Math.max(0,Math.min(shown.length-1,i+d));
+  select(shown[n].rank);
+}
+
+/* ---------- zapis: kolejno, ostatni stan wygrywa, błąd ponawiany ---------- */
+const dirty=new Set();let saving=false,retryTimer=null,commentTimer=null,commentRank=null;
+function setStatus(msg,err=false){$('status').textContent=msg;$('status').className=err?'err':''}
+function queueSave(r){dirty.add(r);pump()}
+async function pump(){
+  if(saving)return;
+  saving=true;clearTimeout(retryTimer);
+  while(dirty.size){
+    const r=dirty.values().next().value;dirty.delete(r);
+    const o=oceny[r]||{ocena:null,komentarz:''};
+    try{
+      const res=await fetch('/api/oceny/'+r,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({ocena:o.ocena,komentarz:o.komentarz})});
+      if(!res.ok){
+        const err=(await res.json().catch(()=>({}))).error||res.status;
+        throw new Error(err);
+      }
+      setStatus(`Zapisano #${r}`);
+    }catch(e){
+      dirty.add(r);saving=false;
+      setStatus(`NIE ZAPISANO (${dirty.size}): ${e.message}. Ponawiam…`,true);
+      retryTimer=setTimeout(pump,4000);
+      return;
+    }
+  }
+  saving=false;
+}
+function flushComment(){
+  if(commentRank==null)return;
+  clearTimeout(commentTimer);
+  const r=commentRank;commentRank=null;
+  setEntry(r,oceny[r]?.ocena||null,$('komentarz').value.trim());
+}
+$('komentarz').addEventListener('input',()=>{
+  if(cur==null)return;
+  commentRank=cur;clearTimeout(commentTimer);
+  commentTimer=setTimeout(flushComment,600);
+});
+$('komentarz').addEventListener('blur',flushComment);
+window.addEventListener('beforeunload',e=>{flushComment();if(dirty.size||saving)e.preventDefault()});
+
+/* ---------- zdarzenia ---------- */
+$('list').addEventListener('click',e=>{
+  if(e.target.closest('a'))return;
+  const row=e.target.closest('.row');if(!row)return;
+  select(+row.dataset.r);
+  if(!listScrolls())window.scrollTo(0,0);
+});
+document.querySelectorAll('.vote').forEach(b=>b.addEventListener('click',()=>vote(b.dataset.v)));
+$('prev').onclick=()=>step(-1);$('next').onclick=()=>step(1);
+function saveFilters(){try{localStorage.setItem(FILTER_KEY,JSON.stringify({o:$('f-ocena').value,a:$('f-ai').value,t:$('f-typ').value,r:$('f-runda').value,auto:$('auto').checked}))}catch(e){}}
+function loadFilters(){
+  try{
+    const f=JSON.parse(localStorage.getItem(FILTER_KEY)||'{}');
+    if(f.o)$('f-ocena').value=f.o;if(f.a)$('f-ai').value=f.a;if(f.t)$('f-typ').value=f.t;if(f.r)$('f-runda').value=f.r;
+    if(f.auto===false)$('auto').checked=false;
+    // Wartość, której nie ma już w opcjach, zostawiłaby pusty select i pustą listę.
+    for(const id of ['f-ocena','f-ai','f-typ','f-runda'])if($(id).selectedIndex<0)$(id).selectedIndex=0;
+  }catch(e){}
+}
+['f-ocena','f-ai','f-typ','f-runda','q'].forEach(id=>$(id).addEventListener('input',()=>{applyFilters();saveFilters()}));
+$('auto').addEventListener('change',saveFilters);
+document.addEventListener('keydown',e=>{
+  const tag=e.target.tagName;
+  if(tag==='TEXTAREA'||tag==='INPUT'||tag==='SELECT'){if(e.key==='Escape')e.target.blur();return}
+  if(e.ctrlKey||e.metaKey||e.altKey)return;
+  const k=e.key.toLowerCase();
+  // Przytrzymany klawisz może przewijać listę, ale nie może oceniać kolejnych miejsc.
+  if(e.repeat&&k!=='j'&&k!=='k')return;
+  if(k==='t')vote('tak');else if(k==='n')vote('nie');else if(k==='m')vote('moze');
+  else if(k==='j')step(1);else if(k==='k')step(-1);else if(k==='u')undoLast();
+  else if(k==='s'){if(cur!=null)$('svbtn').click()}
+  else if(k==='c'){e.preventDefault();$('komentarz').focus()}
+});
+
+/* ---------- start ---------- */
+fetch('/api/teleporty').then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
+  T=d.teleporty;oceny=d.oceny;
+  for(const o of Object.values(oceny))delete o.czas;
+  const typy=new Map();
+  for(const h of T){
+    h.search=fold([h.names.join(' '),h.komentarz,h.rank].join(' '));
+    byRank.set(h.rank,h);
+    typy.set(h.typ,(typy.get(h.typ)||0)+1);
+    const m=L.circleMarker([h.lat,h.lon],{radius:6,color:'#000',weight:1,fillOpacity:.9,...markerStyle(h.rank)});
+    m.on('click',()=>select(h.rank));
+    m.bindTooltip(esc(title(h)));
+    markerByRank.set(h.rank,m);
+  }
+  $('f-typ').innerHTML='<option value="">typ: każdy</option>'+[...typy].filter(([t])=>t).sort((a,b)=>b[1]-a[1])
+    .map(([t,n])=>`<option value="${esc(t)}">${esc(typLabel(t))} (${n})</option>`).join('')+
+    (typy.has('')?`<option value="-">bez typu (${typy.get('')})</option>`:'');
+  loadFilters();
+  renderStats();
+  applyFilters();
+  const fromHash=+location.hash.slice(1);
+  if(byRank.has(fromHash))select(fromHash);
+  else{const first=shown.find(h=>!oceny[h.rank]?.ocena)||shown[0]||T[0];if(first)select(first.rank)}
+  loadInfra();
+}).catch(e=>setStatus('Nie udało się wczytać danych: '+e.message,true));
+</script></body></html>
